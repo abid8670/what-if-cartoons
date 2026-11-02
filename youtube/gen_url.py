@@ -1,7 +1,7 @@
 ﻿"""Generate OAuth authorization URL. User visits it, authorizes, copies code from redirect URL."""
 import urllib.parse, json
 
-CLIENT_ID = "574389904023-a3tp7jmohg1m5ia2llr7hl5iop78o08h.apps.googleusercontent.com"
+import json; _cs = json.load(open(r"D:\AI-Cartoons\youtube\client_secret.json", encoding="utf-8"))["installed"]; CLIENT_ID = _cs["client_id"]
 SCOPES = "https://www.googleapis.com/auth/youtube.upload https://www.googleapis.com/auth/youtube"
 REDIRECT = "http://localhost:8080/"
 
@@ -20,3 +20,4 @@ print()
 print("After authorizing, you'll be redirected to http://localhost:8080/?code=XXXX&scope=...")
 print("Copy the 'code' value from the URL and run:")
 print('python "D:\\AI-Cartoons\\youtube\\exchange.py" "PASTE_CODE_HERE"')
+

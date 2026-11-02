@@ -1,7 +1,7 @@
 ﻿"""Exchange authorization code for refresh token. Usage: python exchange.py "CODE" """
 import sys, json, urllib.request, urllib.parse
 
-CLIENT_SECRET_FILE = r"D:\client_secret_574389904023-a3tp7jmohg1m5ia2llr7hl5iop78o08h.apps.googleusercontent.com.json"
+CLIENT_SECRET_FILE = r"D:\AI-Cartoons\youtube\client_secret.json"
 TOKEN_FILE = r"D:\AI-Cartoons\youtube\token.json"
 REDIRECT = "http://localhost:8080/"
 
@@ -34,3 +34,4 @@ try:
     print("has refresh_token:", "refresh_token" in tokens)
 except urllib.error.HTTPError as e:
     print("ERROR:", e.code, e.read().decode())
+

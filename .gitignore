@@ -24,3 +24,6 @@ Thumbs.db
 
 # YouTube OAuth token (secret)
 youtube/token.json
+
+# YouTube client secret (secret)
+youtube/client_secret*.json

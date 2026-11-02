@@ -6,7 +6,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload
 
 TOKEN_FILE = r"D:\AI-Cartoons\youtube\token.json"
-CLIENT_SECRET = r"D:\client_secret_574389904023-a3tp7jmohg1m5ia2llr7hl5iop78o08h.apps.googleusercontent.com.json"
+CLIENT_SECRET = r"D:\AI-Cartoons\youtube\client_secret.json"
 SCOPES = ["https://www.googleapis.com/auth/youtube", "https://www.googleapis.com/auth/youtube.upload"]
 
 def get_creds():
@@ -81,3 +81,4 @@ if __name__ == "__main__":
     args = p.parse_args()
     vid = upload(args)
     print("VIDEO_ID=" + vid)
+
