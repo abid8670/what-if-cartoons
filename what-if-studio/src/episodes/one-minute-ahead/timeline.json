@@ -160,7 +160,7 @@
   {
    "id": "S2",
    "size": "macro insert, side angle",
-   "key": 26,
+   "key": 14,
    "len": 25,
    "first": 11,
    "line": "tips— a minute",
@@ -322,6 +322,12 @@
    "f": 129
   },
   {
+   "kind": "shake",
+   "len": 6,
+   "amp": 8,
+   "f": 169
+  },
+  {
    "kind": "flash",
    "color": "#BFE9FF",
    "o": 0.28,
@@ -358,6 +364,11 @@
   }
  ],
  "audio": {
-  "voice": "one-minute-ahead/voice.wav"
+  "voice": "one-minute-ahead/voice.wav",
+  "sfx": "one-minute-ahead/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.3785,
+  "music": "one-minute-ahead/music.wav",
+  "musicVol": 0.1117
  }
 }

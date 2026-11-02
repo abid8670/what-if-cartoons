@@ -24,7 +24,7 @@ const Ghost: React.FC<{ id: string; children: React.ReactNode }> = ({ id, childr
           values="0.18 0.18 0.18 0 0.02
                   0.52 0.48 0.52 0 0.10
                   0.78 0.72 0.78 0 0.14
-                  0    0    0    0 0.62"
+                  0    0    0    0 0.78"
         />
       </filter>
     </defs>
@@ -38,7 +38,6 @@ const Ghost: React.FC<{ id: string; children: React.ReactNode }> = ({ id, childr
 const K_STAND = stand(KITCHEN, 0.42, 0.4);
 const K_MUG = islandTop(0.63, 0.5);
 export const S1: React.FC<ShotProps> = ({ t, len }) => {
-  const aim = ((t >= 5 ? 1 : 0) * 1) as number; // he starts to notice the edge
   const pose = poseAt(t, [
     { f: 0, p: { x: K_STAND.x, y: K_STAND.y, scale: K_STAND.scale, yaw: 0.45, look: 0.7, armR: { a: 26, b: -8 }, armL: { a: 12, b: -6 } } },
     { f: 5, p: { armR: { a: 36, b: -4 }, headTilt: 3, handR: 'point' }, ease: easeOut },
@@ -50,7 +49,7 @@ export const S1: React.FC<ShotProps> = ({ t, len }) => {
       <Kitchen t={t + 60} id="k1" />
       <Hero look={PIP} pose={{ ...pose, ...face }} rimId="rimR" shadow={0} />
       <KitchenIsland />
-      <Mug x={K_MUG.x + aim * 0} y={K_MUG.y - 6} rot={0} f={t + 60} />
+      <Mug x={K_MUG.x} y={K_MUG.y - 6} rot={0} f={t + 60} />
       <Foreground blur={10}>
         <path d="M -60 1080 L -40 700 Q 120 660 260 720 L 300 1080 Z" fill="#101612" />
       </Foreground>
@@ -74,8 +73,8 @@ export const S2: React.FC<ShotProps> = ({ t }) => {
         <circle cx={430} cy={200} r={190} fill="#E08A5E" opacity={0.5} />
         <circle cx={610} cy={330} r={120} fill="#FFC27A" opacity={0.4} />
       </g>
-      <rect x={-200} y={-200} width={2400} height={1400} fill="#07040C" opacity={0.25} />
-      <Glow x={480} y={220} r={640} o={0.4} />
+      <rect x={-200} y={-200} width={2400} height={1400} fill="#07040C" opacity={0.14} />
+      <Glow x={480} y={220} r={640} o={0.45} />
       {/* the island's top slab and its front side crossing the frame */}
       <rect x={-200} y={736} width={2400} height={30} fill="#9A8472" />
       <rect x={-200} y={764} width={2400} height={320} fill="#4F5F5A" />
@@ -140,7 +139,7 @@ export const S3: React.FC<ShotProps> = ({ t, len }) => {
 export const S4: React.FC<ShotProps> = ({ t }) => {
   const slide = easeOut(clamp((t - 5) / 10));
   const mx = 1150 - 155 * slide + settle(t - 15, 3, 1.5, 4);
-  const hand = { x: mx - 46, y: 702 };
+  const hand = { x: mx - 108, y: 700 };
   return (
     <g>
       <g filter="url(#blur16)">
@@ -160,9 +159,9 @@ export const S4: React.FC<ShotProps> = ({ t }) => {
       <ellipse cx={mx - 40} cy={738} rx={170} ry={14} fill="#E08A5E" opacity={0.14} style={{ mixBlendMode: 'screen' }} />
       {/* the arm comes in from the left, where Pip stands: dark sleeve, light mitten */}
       <g filter="url(#rimR)">
-        <path d={`M ${hand.x + 40} ${hand.y + 4} Q ${hand.x - 200} ${hand.y + 50} ${hand.x - 560} ${hand.y + 240}`} stroke={PIP.line} strokeWidth={120} fill="none" strokeLinecap="round" />
-        <path d={`M ${hand.x + 40} ${hand.y + 4} Q ${hand.x - 200} ${hand.y + 50} ${hand.x - 560} ${hand.y + 240}`} stroke={PIP.limb} strokeWidth={102} fill="none" strokeLinecap="round" />
-        <g transform={`translate(${hand.x} ${hand.y}) rotate(-16) scale(5)`}>
+        <path d={`M ${hand.x + 46} ${hand.y - 2} Q ${hand.x - 160} ${hand.y + 60} ${hand.x - 540} ${hand.y + 250}`} stroke={PIP.line} strokeWidth={120} fill="none" strokeLinecap="round" />
+        <path d={`M ${hand.x + 46} ${hand.y - 2} Q ${hand.x - 160} ${hand.y + 60} ${hand.x - 540} ${hand.y + 250}`} stroke={PIP.limb} strokeWidth={102} fill="none" strokeLinecap="round" />
+        <g transform={`translate(${hand.x} ${hand.y}) rotate(-14) scale(5)`}>
           <rect x={-4} y={10} width={8} height={24} rx={4} fill={PIP.hand} stroke={PIP.line} strokeWidth={2.2} />
           <path d="M -13 -2 Q -16 14 -6 18 L 9 18 Q 15 14 12 -2 Z" fill={PIP.hand} stroke={PIP.line} strokeWidth={2.4} strokeLinejoin="round" />
           <ellipse cx={11} cy={7} rx={4.5} ry={7} fill={PIP.hand} stroke={PIP.line} strokeWidth={2.2} />
@@ -192,7 +191,7 @@ export const S5: React.FC<ShotProps> = ({ t, len }) => {
       <Mug x={mug.x} y={mug.y - 6} rot={0} f={t + 130} />
       <Cat x={S5_CAT.x} y={S5_CAT.y} mood={t > 18 ? 'alert' : 'sleep'} f={t + 130} />
       <Foreground blur={10}>
-        <path d="M 1420 1080 L 1400 560 Q 1500 540 1740 620 L 1980 1080 Z" fill="#0E1610" />
+        <path d="M 1560 1080 L 1530 620 Q 1680 570 1860 660 L 1980 760 L 1980 1080 Z" fill="#0E1610" />
       </Foreground>
     </g>
   );
@@ -214,11 +213,11 @@ export const S6: React.FC<ShotProps> = ({ t }) => {
       <Classroom t={t + 40} id="cls6" />
       <Hero look={MO} pose={{ ...mo, ...faceAt(t, [[0, 'smug']]) }} rimId="rimL" shadow={0.5} />
       <PaperBall x={ball.x} y={ball.y} r={34} rot={-24} />
-      {/* Pip's head and shoulder, near, dark, soft: the throw is meant for him */}
+      {/* Pip's head and shoulder, near, dark, soft, taking a third of the frame */}
       <Foreground blur={10}>
-        <path d="M 1560 1080 Q 1500 700 1620 560 Q 1760 430 1880 560 L 1980 720 L 1980 1080 Z" fill="#14121C" />
-        <circle cx={1720} cy={470} r={150} fill="#1A1724" />
-        <path d="M 1590 430 Q 1610 300 1720 300 Q 1830 300 1850 430" stroke="#FFB46A" strokeWidth={5} fill="none" opacity={0.3} />
+        <path d="M 1400 1080 Q 1340 640 1490 480 Q 1660 320 1830 470 L 1980 640 L 1980 1080 Z" fill="#14121C" />
+        <circle cx={1660} cy={470} r={215} fill="#1A1724" />
+        <path d="M 1510 420 Q 1535 265 1655 265 Q 1775 265 1800 420" stroke="#FFB46A" strokeWidth={5} fill="none" opacity={0.3} />
       </Foreground>
     </g>
   );
@@ -262,9 +261,9 @@ export const S7: React.FC<ShotProps> = ({ t }) => {
 export const S8: React.FC<ShotProps> = ({ t, len }) => {
   const duck = poseAt(t, [
     { f: 0, p: { x: 1150, y: 742, scale: 1, facing: -1 as const, yaw: -0.55, look: -0.6, armL: { a: 40, b: -20 }, armR: { a: 30, b: -10 }, legL: { a: 78, b: -78 }, legR: { a: 82, b: -80 }, tilt: 0 } },
-    { f: 3, p: { squash: 0.04 } },
-    { f: 9, p: { squash: 0.03, tilt: -14, headTilt: -10, look: -0.4 }, ease: easeOut },
-    { f: 14, p: { tilt: -11, headTilt: -7, squash: 0 } },
+    { f: 3, p: { squash: 0.06 } },
+    { f: 9, p: { squash: 0.13, tilt: -20, headTilt: -14, look: -0.4, armL: { a: 118, b: -48 }, armR: { a: 96, b: -42 } }, ease: easeOut },
+    { f: 14, p: { tilt: -15, headTilt: -10, squash: 0.08 } },
   ]);
   return (
     <g transform={camT(kf(t, [[0, 1085], [len, 1075]]), kf(t, [[0, 560], [len, 580]]), kf(t, [[0, 2.3], [len, 2.4]]))}>
@@ -299,6 +298,7 @@ export const S9: React.FC<ShotProps> = ({ t }) => {
       <Hero
         look={PIP}
         pose={{
+          ...basePose,
           x: 1150,
           y: 742 - 34 * easeOut(clamp((t - 14) / 8)),
           scale: 1,
@@ -380,11 +380,12 @@ export const S11: React.FC<ShotProps> = ({ t, len }) => {
 // ---------- S12: medium: his feet take him anyway ----------
 export const S12: React.FC<ShotProps> = ({ t, len }) => {
   const x12 = 400 + 8 * Math.max(0, t - 6);
-  const pose: Pose = poseAt(t, [
-    { f: 0, p: { ...basePose, x: 400, scale: 1, yaw: 0.75, facing: 1, look: 0.7, armL: { a: 14, b: -6 }, armR: { a: 14, b: -6 }, squash: 0.03 } },
-    { f: 6, p: {} },
-    { f: 24, p: { x: x12, y: hipGround(x12) - LEG_LEN, ...walkPose(x12, (t - 6) * 0.5, hipGround(x12), 1, {}, 1 as const), yaw: 0.75, look: 0.6 } },
-  ]);
+  const pose: Pose = t <= 6
+    ? poseAt(t, [
+        { f: 0, p: { ...basePose, x: 400, scale: 1, yaw: 0.75, facing: 1, look: 0.7, armL: { a: 14, b: -6 }, armR: { a: 14, b: -6 }, squash: 0.03 } },
+        { f: 4, p: {} },
+      ])
+    : { ...walkPose(x12, (t - 6) * 0.5, hipGround(x12), 1, {}, 1 as const), yaw: 0.75, look: 0.6 };
   return (
     <g transform={camT(kf(t, [[0, 470], [len, 530]]), kf(t, [[0, 300], [len, 380]]), kf(t, [[0, 1.25], [len, 1.3]]))}>
       <Stairwell t={t + 200} id="sw12" />
@@ -420,43 +421,30 @@ export const S14: React.FC<ShotProps> = ({ t, len }) => {
     { f: 0, p: { x: 880, y: 700, scale: 1.05, yaw: -0.35, look: 0.8, armL: { a: -14, b: 6 }, armR: { a: 14, b: -6 } } },
     { f: 30, p: {} },
     { f: 38, p: {} },
-    { f: 48, p: { armL: { a: -76, b: 10 }, look: 0.95, tilt: 5, headTilt: 4 }, ease: easeOut },
+    { f: 48, p: { armR: { a: 84, b: -6 }, look: 0.95, tilt: 5, headTilt: 4 }, ease: easeOut },
     { f: 56, p: {} },
-    { f: 66, p: { armL: { a: 30, b: -8 }, look: -0.2, tilt: 0, headTilt: -4 }, ease: easeOut },
+    { f: 66, p: { armR: { a: 16, b: -6 }, look: -0.2, tilt: 0, headTilt: -4 }, ease: easeOut },
   ]);
-  const reach = clamp((t - 44) / 8);
+  const reach = poseAt(t, [
+    { f: 0, p: { x: 880, y: 700, scale: 1.05, yaw: -0.35, look: 0.8, armL: { a: -14, b: 6 }, armR: { a: 14, b: -6 } } },
+    { f: 48, p: { armR: { a: 84, b: -6 } }, ease: easeOut },
+  ]);
   return (
     <g transform={camT(kf(t, [[0, 1000], [len, 970]]), kf(t, [[0, 560], [len, 542]]), kf(t, [[0, 1.5], [len, 1.58]]))}>
       <Rooftop t={t + 90} sunX={1290} sunY={600} red={0.3 * clamp((t - 70) / 34)} cityLit={1.35} />
       <Hero look={PIP} pose={{ ...pose, ...faceAt(t, [[0, 'neutral'], [46, 'shock'], [64, 'worried']]) }} rimId="rimR" shadow={0} />
+      {/* hand passes through the walker (the walker luminescence screens over the arm) */}
       <Ghost id="s14g">
         <Hero look={PIP} pose={{ ...walkPose(Math.max(gx, 100), t * 0.52, 840, 1.0, {}, -1 as const), ...faceAt(t, [[0, 'happy']]) }} rimId="rimR" shadow={0} />
-      </Hero>
-      <Ghost id="s14g2" key="x">
-        <Hero key="y" look={PIP} pose={{ ...walkPose(Math.max(gx, 100), t * 0.52, 840, 1.0, {}, -1 as const), ...faceAt(t, [[0, 'happy']]) }} rimId="rimR" shadow={0} />
       </Ghost>
-      {/* only the near arm goes through the ghost: redraw it over the walker */}
-      {t >= 38 && t < 66
+      {/* ripple rings where the mitten crosses the walker */}
+      {t >= 44 && t < 58
         ? (() => {
-            const j = joints(pose).armL;
-            const a = toWorld(pose, j.end);
-            const m = { x: pose.x + (a.x - pose.x) * 0.94, y: a.y };
+            const j = toWorld(reach, joints(reach).armR.end);
             return (
-              <g filter="url(#rimR)">
-                <path d={`M ${m.x - 120} ${m.y + 90} Q ${pose.x - 60} ${pose.y - 60} ${pose.x - 20} ${pose.y - 30}`} stroke={PIP.line} strokeWidth={64} fill="none" strokeLinecap="round" opacity={0} />
-                <path d={`M ${m.x - 26} ${m.y + 30} L ${pose.x - 12} ${pose.y - 18}`} stroke={PIP.limb} strokeWidth={52} fill="none" strokeLinecap="round" />
-                <path d={`M ${m.x - 26} ${m.y + 30} L ${pose.x - 12} ${pose.y - 18}`} stroke={PIP.line} strokeWidth={60} fill="none" strokeLinecap="round" opacity={0.55} />
-                <g transform={`translate(${m.x} ${m.y}) rotate(-30) scale(4.2)`}>
-                  <rect x={-4} y={10} width={8} height={24} rx={4} fill={PIP.hand} stroke={PIP.line} strokeWidth={2.2} />
-                  <path d="M -13 -2 Q -16 14 -6 18 L 9 18 Q 15 14 12 -2 Z" fill={PIP.hand} stroke={PIP.line} strokeWidth={2.4} strokeLinejoin="round" />
-                  <ellipse cx={11} cy={7} rx={4.5} ry={7} fill={PIP.hand} stroke={PIP.line} strokeWidth={2.2} />
-                </g>
-                {t >= 44 && t < 55 ? (
-                  <g opacity={1 - (t - 44) / 11} style={{ mixBlendMode: 'screen' }}>
-                    <circle cx={m.x} cy={m.y} r={20 + (t - 44) * 34} fill="none" stroke={CYAN} strokeWidth={8} />
-                    <circle cx={m.x} cy={m.y} r={8 + (t - 44) * 18} fill="none" stroke="#EAF8FF" strokeWidth={4} />
-                  </g>
-                ) : null}
+              <g opacity={1 - (t - 44) / 14} style={{ mixBlendMode: 'screen' }}>
+                <circle cx={j.x} cy={j.y} r={20 + (t - 44) * 30} fill="none" stroke={CYAN} strokeWidth={8} />
+                <circle cx={j.x} cy={j.y} r={8 + (t - 44) * 16} fill="none" stroke="#EAF8FF" strokeWidth={4} />
               </g>
             );
           })()
@@ -474,27 +462,27 @@ export const S15: React.FC<ShotProps> = ({ t }) => (
     <Schematic t={t} id="sch15" />
     <SchLabel x={960} y={140} t={t - 2} text="WHAT YOU SEE IS ALREADY OLD" size={52} />
     {/* the sun, and the ray of old light that reaches the eye */}
-    <DrawOn d="M 300 430 A 84 84 0 1 1 299 429" t={t - 6} dur={7} color={SCH.live} width={7} />
+    <DrawOn d="M 300 470 A 84 84 0 1 1 299 469" t={t - 6} dur={7} color={SCH.live} width={7} />
     {t > 10 ? (
       <g stroke={SCH.glow} strokeWidth={7} strokeLinecap="round" opacity={0.85 * clamp((t - 10) / 4)}>
-        <path d="M 300 310 L 300 262" />
-        <path d="M 216 346 L 182 312" />
-        <path d="M 384 346 L 418 312" />
-        <path d="M 384 514 L 418 548" />
-        <path d="M 216 514 L 182 548" />
-        <path d="M 300 550 L 300 598" />
+        <path d="M 300 350 L 300 302" />
+        <path d="M 216 386 L 182 352" />
+        <path d="M 384 386 L 418 352" />
+        <path d="M 384 554 L 418 588" />
+        <path d="M 216 554 L 182 588" />
+        <path d="M 300 590 L 300 638" />
       </g>
     ) : null}
-    <Arrow x0={430} y0={430} x1={1260} y1={430} t={t - 12} dur={10} />
-    <CountUp x={960} y={650} t={t - 22} to={499} dur={16} size={110} />
-    <SchLabel x={960} y={722} t={t - 26} text="SECONDS OF DELAY, SUN TO EYE" size={34} color={SCH.dim} />
-    <SchLabel x={1430} y={330} t={t - 22} text="YOUR EYE" size={44} />
+    <Arrow x0={430} y0={470} x1={1260} y1={470} t={t - 12} dur={10} />
+    <CountUp x={960} y={662} t={t - 22} to={499} dur={16} size={110} />
+    <SchLabel x={960} y={734} t={t - 26} text="SECONDS OF DELAY, SUN TO EYE" size={34} color={SCH.dim} />
+    <SchLabel x={1390} y={412} t={t - 22} text="YOUR EYE" size={44} />
     {/* the future minute's ray: it starts, then dies */}
-    <DrawOn d="M 300 340 L 640 340" t={t - 30} dur={5} color={SCH.dim} width={5} />
-    <SchLabel x={680} y={252} t={t - 30} text="ONE MINUTE AHEAD?" size={30} color={SCH.dim} />
+    <DrawOn d="M 332 396 L 660 336" t={t - 30} dur={5} color={SCH.dim} width={5} />
+    <SchLabel x={700} y={196} t={t - 30} text="ONE MINUTE AHEAD?" size={30} color={SCH.dim} />
     {t > 36 ? (
       <g stroke="#FF5A6A" strokeWidth={10} strokeLinecap="round" opacity={0.95} style={{ filter: 'drop-shadow(0 0 10px #FF5A6A)' }}>
-        <path d="M 630 320 L 800 470 M 800 320 L 630 470" strokeDasharray={240} strokeDashoffset={240 * (1 - clamp((t - 36) / 5))} />
+        <path d="M 615 235 L 785 405 M 785 235 L 615 405" strokeDasharray={240} strokeDashoffset={240 * (1 - clamp((t - 36) / 5))} />
       </g>
     ) : null}
   </g>

@@ -1,0 +1,22 @@
+{
+ "episode": "OneMinuteAhead",
+ "file": "D:\\AI-Cartoons\\what-if-studio\\out\\one-minute-ahead\\one-minute-ahead-final.mp4",
+ "seconds": 21.0,
+ "lufs": -14.2,
+ "true_peak_dbtp": -1.47,
+ "segments": 17,
+ "cuts_per_min": 45.9,
+ "elevenlabs_credits": 350,
+ "cost_lines": [
+  {
+   "step": "voice",
+   "credits": 350,
+   "note": "350 characters"
+  },
+  {
+   "step": "sound",
+   "credits": 0,
+   "note": "4 clips, 17.9 s; not all in the history or the counter yet, check the usage page"
+  }
+ ]
+}
