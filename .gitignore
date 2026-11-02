@@ -1,0 +1,23 @@
+﻿# Secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+what-if-studio/node_modules/
+
+# Cloned skill (third-party, has own repo)
+.claude/skills/
+
+# Large media / generated output
+out/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
