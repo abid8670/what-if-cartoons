@@ -21,3 +21,6 @@ out/
 .DS_Store
 Thumbs.db
 *.log
+
+# YouTube OAuth token (secret)
+youtube/token.json
