@@ -24,7 +24,7 @@ const Ghost: React.FC<{ id: string; children: React.ReactNode }> = ({ id, childr
           values="0.18 0.18 0.18 0 0.02
                   0.52 0.48 0.52 0 0.10
                   0.78 0.72 0.78 0 0.14
-                  0    0    0    0 0.78"
+                  0    0    0 0.95 0"
         />
       </filter>
     </defs>
