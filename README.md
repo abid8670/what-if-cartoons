@@ -22,8 +22,8 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 
 | # | Episode Title | Format | Master URL / Location |
 |---|---|---|---|
-| **12** | **WHAT IF YOU HAD THE MILLION DOLLAR BUTTON?** 💰 | 16:9 Film (2m 34s) + 9:16 Short (33s) | `out/million-button/` (Interactive Card: $100M vs Smash Box) |
-| **11** | **WHAT IF EVERYONE VANISHED EXCEPT YOU?** 🌍 | 16:9 Film (2m 25s) + 9:16 Short (37s) | `out/vanished/` (Interactive Card: Open Door vs Barricade) |
+| **12** | **WHAT IF YOU HAD THE MILLION DOLLAR BUTTON?** 💰 | 16:9 Film (2m 34s) + 9:16 Short (33s) | [Full Film](https://youtu.be/PAyEAe5Njpw) \| [Short](https://youtu.be/fZn3ZbTnR8I) |
+| **11** | **WHAT IF EVERYONE VANISHED EXCEPT YOU?** 🌍 | 16:9 Film (2m 25s) + 9:16 Short (37s) | [Full Film](https://youtu.be/0UqrqZB4eaM) \| [Short](https://youtu.be/zZpvZpZEePg) |
 | **10** | **WHAT IF EVERYONE COULD READ YOUR MIND?** 🧠 | 16:9 Film (2m 14s) + 9:16 Short (31s) | [Full Film](https://youtu.be/rMeR7yjSB-w) \| [Short](https://youtu.be/lBjRbJv9qxY) |
 | **9** | **SKIP THIS VIDEO IMMEDIATELY!** 🚫 | 16:9 Film (2m 04s) + 9:16 Short (34s) | [Full Film](https://youtu.be/wtMTzQ93w3k) \| [Short](https://youtu.be/VKDHFbCtrAs) |
 | **8** | **WHAT IF YOU ONLY HAD 1,000 WORDS LEFT?** ⏳ | 16:9 Film (2m 16s) + 9:16 Short (32s) | `out/thousand-words/` |
