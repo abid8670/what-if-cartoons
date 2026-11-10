@@ -1,0 +1,26 @@
+{
+  "ch_1": {
+    "duration": 35.328,
+    "frames": 1060
+  },
+  "ch_2": {
+    "duration": 30.936,
+    "frames": 928
+  },
+  "ch_3": {
+    "duration": 36.816,
+    "frames": 1104
+  },
+  "ch_4": {
+    "duration": 36.0,
+    "frames": 1080
+  },
+  "ch_5": {
+    "duration": 51.768,
+    "frames": 1553
+  },
+  "voice_short": {
+    "duration": 33.936,
+    "frames": 1018
+  }
+}

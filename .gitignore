@@ -1,12 +1,13 @@
-﻿# Secrets
+# Secrets
 .env
 .env.*
 
 # Dependencies
 node_modules/
 what-if-studio/node_modules/
+what-if-studio-me/
 
-# Cloned skill (third-party, has own repo)
+# Cloned skill cache
 .claude/skills/
 
 # Large media / generated output
@@ -16,6 +17,11 @@ out/
 *.webm
 *.wav
 *.mp3
+
+# Scratch, debug frames, and duplicate backups
+f*.png
+test_still*.png
+what-if-studio/public_timer/
 
 # OS / editor
 .DS_Store

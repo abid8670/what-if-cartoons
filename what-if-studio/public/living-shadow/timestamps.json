@@ -1,0 +1,2916 @@
+{
+  "ch_1": [
+    {
+      "t": 0.1,
+      "word": "Pip"
+    },
+    {
+      "t": 0.39,
+      "word": "is"
+    },
+    {
+      "t": 0.52,
+      "word": "sitting"
+    },
+    {
+      "t": 0.82,
+      "word": "on"
+    },
+    {
+      "t": 0.91,
+      "word": "his"
+    },
+    {
+      "t": 1.06,
+      "word": "couch"
+    },
+    {
+      "t": 1.86,
+      "word": "binge-watching"
+    },
+    {
+      "t": 2.47,
+      "word": "cartoons"
+    },
+    {
+      "t": 3.0,
+      "word": "on"
+    },
+    {
+      "t": 3.15,
+      "word": "a"
+    },
+    {
+      "t": 3.22,
+      "word": "Friday"
+    },
+    {
+      "t": 3.63,
+      "word": "night"
+    },
+    {
+      "t": 4.3,
+      "word": "He"
+    },
+    {
+      "t": 4.53,
+      "word": "reaches"
+    },
+    {
+      "t": 4.9,
+      "word": "for"
+    },
+    {
+      "t": 5.03,
+      "word": "the"
+    },
+    {
+      "t": 5.13,
+      "word": "TV"
+    },
+    {
+      "t": 5.47,
+      "word": "remote"
+    },
+    {
+      "t": 5.91,
+      "word": "on"
+    },
+    {
+      "t": 6.03,
+      "word": "the"
+    },
+    {
+      "t": 6.12,
+      "word": "coffee"
+    },
+    {
+      "t": 6.47,
+      "word": "table"
+    },
+    {
+      "t": 7.27,
+      "word": "knocks"
+    },
+    {
+      "t": 7.53,
+      "word": "it"
+    },
+    {
+      "t": 7.63,
+      "word": "over"
+    },
+    {
+      "t": 8.27,
+      "word": "and"
+    },
+    {
+      "t": 8.44,
+      "word": "it"
+    },
+    {
+      "t": 8.55,
+      "word": "falls"
+    },
+    {
+      "t": 9.01,
+      "word": "onto"
+    },
+    {
+      "t": 9.24,
+      "word": "the"
+    },
+    {
+      "t": 9.35,
+      "word": "rug"
+    },
+    {
+      "t": 10.1,
+      "word": "Pip"
+    },
+    {
+      "t": 10.37,
+      "word": "groans"
+    },
+    {
+      "t": 10.94,
+      "word": "too"
+    },
+    {
+      "t": 11.13,
+      "word": "lazy"
+    },
+    {
+      "t": 11.46,
+      "word": "to"
+    },
+    {
+      "t": 11.58,
+      "word": "bend"
+    },
+    {
+      "t": 11.82,
+      "word": "down"
+    },
+    {
+      "t": 12.56,
+      "word": "But"
+    },
+    {
+      "t": 12.8,
+      "word": "then"
+    },
+    {
+      "t": 13.45,
+      "word": "something"
+    },
+    {
+      "t": 13.82,
+      "word": "impossible"
+    },
+    {
+      "t": 14.52,
+      "word": "happens"
+    },
+    {
+      "t": 15.45,
+      "word": "The"
+    },
+    {
+      "t": 15.66,
+      "word": "dark"
+    },
+    {
+      "t": 15.94,
+      "word": "silhouette"
+    },
+    {
+      "t": 16.37,
+      "word": "on"
+    },
+    {
+      "t": 16.51,
+      "word": "the"
+    },
+    {
+      "t": 16.6,
+      "word": "wall"
+    },
+    {
+      "t": 16.87,
+      "word": "behind"
+    },
+    {
+      "t": 17.25,
+      "word": "him"
+    },
+    {
+      "t": 17.4,
+      "word": "peels"
+    },
+    {
+      "t": 17.71,
+      "word": "away"
+    },
+    {
+      "t": 17.99,
+      "word": "from"
+    },
+    {
+      "t": 18.17,
+      "word": "the"
+    },
+    {
+      "t": 18.25,
+      "word": "plaster"
+    },
+    {
+      "t": 19.21,
+      "word": "A"
+    },
+    {
+      "t": 19.43,
+      "word": "pitch-black"
+    },
+    {
+      "t": 19.99,
+      "word": "shadow"
+    },
+    {
+      "t": 20.38,
+      "word": "hand"
+    },
+    {
+      "t": 20.73,
+      "word": "reaches"
+    },
+    {
+      "t": 21.08,
+      "word": "down"
+    },
+    {
+      "t": 21.3,
+      "word": "across"
+    },
+    {
+      "t": 21.63,
+      "word": "the"
+    },
+    {
+      "t": 21.74,
+      "word": "floor"
+    },
+    {
+      "t": 22.48,
+      "word": "grabs"
+    },
+    {
+      "t": 22.79,
+      "word": "the"
+    },
+    {
+      "t": 22.89,
+      "word": "remote"
+    },
+    {
+      "t": 23.59,
+      "word": "and"
+    },
+    {
+      "t": 23.82,
+      "word": "gently"
+    },
+    {
+      "t": 24.15,
+      "word": "places"
+    },
+    {
+      "t": 24.6,
+      "word": "it"
+    },
+    {
+      "t": 24.75,
+      "word": "into"
+    },
+    {
+      "t": 24.95,
+      "word": "Pip's"
+    },
+    {
+      "t": 25.32,
+      "word": "lap"
+    },
+    {
+      "t": 26.08,
+      "word": "Pip"
+    },
+    {
+      "t": 26.37,
+      "word": "freezes"
+    },
+    {
+      "t": 27.31,
+      "word": "He"
+    },
+    {
+      "t": 27.54,
+      "word": "slowly"
+    },
+    {
+      "t": 28.02,
+      "word": "raises"
+    },
+    {
+      "t": 28.4,
+      "word": "his"
+    },
+    {
+      "t": 28.56,
+      "word": "right"
+    },
+    {
+      "t": 28.79,
+      "word": "hand"
+    },
+    {
+      "t": 29.66,
+      "word": "The"
+    },
+    {
+      "t": 29.82,
+      "word": "shadow"
+    },
+    {
+      "t": 30.29,
+      "word": "doesn't"
+    },
+    {
+      "t": 30.57,
+      "word": "copy"
+    },
+    {
+      "t": 30.91,
+      "word": "him"
+    },
+    {
+      "t": 31.45,
+      "word": "instead"
+    },
+    {
+      "t": 32.4,
+      "word": "it"
+    },
+    {
+      "t": 32.51,
+      "word": "crosses"
+    },
+    {
+      "t": 32.99,
+      "word": "its"
+    },
+    {
+      "t": 33.12,
+      "word": "arms"
+    },
+    {
+      "t": 33.82,
+      "word": "taps"
+    },
+    {
+      "t": 34.13,
+      "word": "its"
+    },
+    {
+      "t": 34.3,
+      "word": "foot"
+    },
+    {
+      "t": 34.66,
+      "word": "and"
+    },
+    {
+      "t": 34.86,
+      "word": "winks"
+    },
+    {
+      "t": 35.71,
+      "word": "Pip"
+    },
+    {
+      "t": 35.96,
+      "word": "screams"
+    },
+    {
+      "t": 36.77,
+      "word": "his"
+    },
+    {
+      "t": 36.89,
+      "word": "shadow"
+    },
+    {
+      "t": 37.37,
+      "word": "is"
+    },
+    {
+      "t": 37.48,
+      "word": "alive"
+    },
+    {
+      "t": 38.19,
+      "word": "completely"
+    },
+    {
+      "t": 38.75,
+      "word": "detached"
+    },
+    {
+      "t": 39.67,
+      "word": "and"
+    },
+    {
+      "t": 39.81,
+      "word": "has"
+    },
+    {
+      "t": 39.99,
+      "word": "a"
+    },
+    {
+      "t": 40.05,
+      "word": "mind"
+    },
+    {
+      "t": 40.47,
+      "word": "of"
+    },
+    {
+      "t": 40.56,
+      "word": "its"
+    },
+    {
+      "t": 40.72,
+      "word": "own"
+    }
+  ],
+  "ch_2": [
+    {
+      "t": 0.1,
+      "word": "Once"
+    },
+    {
+      "t": 0.46,
+      "word": "Pip"
+    },
+    {
+      "t": 0.68,
+      "word": "recovers"
+    },
+    {
+      "t": 1.23,
+      "word": "from"
+    },
+    {
+      "t": 1.39,
+      "word": "the"
+    },
+    {
+      "t": 1.47,
+      "word": "initial"
+    },
+    {
+      "t": 1.87,
+      "word": "shock"
+    },
+    {
+      "t": 2.64,
+      "word": "he"
+    },
+    {
+      "t": 2.79,
+      "word": "realizes"
+    },
+    {
+      "t": 3.3,
+      "word": "this"
+    },
+    {
+      "t": 3.52,
+      "word": "might"
+    },
+    {
+      "t": 3.8,
+      "word": "be"
+    },
+    {
+      "t": 3.93,
+      "word": "the"
+    },
+    {
+      "t": 4.06,
+      "word": "greatest"
+    },
+    {
+      "t": 4.6,
+      "word": "superpower"
+    },
+    {
+      "t": 5.38,
+      "word": "on"
+    },
+    {
+      "t": 5.55,
+      "word": "planet"
+    },
+    {
+      "t": 5.93,
+      "word": "Earth"
+    },
+    {
+      "t": 6.66,
+      "word": "Having"
+    },
+    {
+      "t": 7.03,
+      "word": "a"
+    },
+    {
+      "t": 7.11,
+      "word": "living"
+    },
+    {
+      "t": 7.47,
+      "word": "two-dimensional"
+    },
+    {
+      "t": 8.16,
+      "word": "clone"
+    },
+    {
+      "t": 8.55,
+      "word": "is"
+    },
+    {
+      "t": 8.74,
+      "word": "like"
+    },
+    {
+      "t": 8.93,
+      "word": "having"
+    },
+    {
+      "t": 9.24,
+      "word": "the"
+    },
+    {
+      "t": 9.49,
+      "word": "ultimate"
+    },
+    {
+      "t": 9.97,
+      "word": "personal"
+    },
+    {
+      "t": 10.39,
+      "word": "assistant"
+    },
+    {
+      "t": 11.4,
+      "word": "While"
+    },
+    {
+      "t": 11.72,
+      "word": "Pip"
+    },
+    {
+      "t": 11.96,
+      "word": "lounges"
+    },
+    {
+      "t": 12.4,
+      "word": "in"
+    },
+    {
+      "t": 12.54,
+      "word": "bed"
+    },
+    {
+      "t": 12.83,
+      "word": "eating"
+    },
+    {
+      "t": 13.11,
+      "word": "slices"
+    },
+    {
+      "t": 13.56,
+      "word": "of"
+    },
+    {
+      "t": 13.68,
+      "word": "pizza"
+    },
+    {
+      "t": 14.41,
+      "word": "his"
+    },
+    {
+      "t": 14.55,
+      "word": "autonomous"
+    },
+    {
+      "t": 15.13,
+      "word": "shadow"
+    },
+    {
+      "t": 15.66,
+      "word": "glides"
+    },
+    {
+      "t": 16.07,
+      "word": "across"
+    },
+    {
+      "t": 16.42,
+      "word": "the"
+    },
+    {
+      "t": 16.54,
+      "word": "walls"
+    },
+    {
+      "t": 17.33,
+      "word": "washing"
+    },
+    {
+      "t": 17.72,
+      "word": "the"
+    },
+    {
+      "t": 17.83,
+      "word": "dirty"
+    },
+    {
+      "t": 18.12,
+      "word": "dishes"
+    },
+    {
+      "t": 18.99,
+      "word": "vacuuming"
+    },
+    {
+      "t": 19.44,
+      "word": "the"
+    },
+    {
+      "t": 19.54,
+      "word": "living"
+    },
+    {
+      "t": 19.88,
+      "word": "room"
+    },
+    {
+      "t": 20.07,
+      "word": "carpet"
+    },
+    {
+      "t": 20.77,
+      "word": "and"
+    },
+    {
+      "t": 21.19,
+      "word": "even"
+    },
+    {
+      "t": 21.47,
+      "word": "solving"
+    },
+    {
+      "t": 21.94,
+      "word": "Pip's"
+    },
+    {
+      "t": 22.28,
+      "word": "impossible"
+    },
+    {
+      "t": 22.99,
+      "word": "advanced"
+    },
+    {
+      "t": 23.5,
+      "word": "calculus"
+    },
+    {
+      "t": 24.03,
+      "word": "homework"
+    },
+    {
+      "t": 24.99,
+      "word": "Because"
+    },
+    {
+      "t": 25.35,
+      "word": "shadows"
+    },
+    {
+      "t": 25.84,
+      "word": "have"
+    },
+    {
+      "t": 26.08,
+      "word": "zero"
+    },
+    {
+      "t": 26.46,
+      "word": "physical"
+    },
+    {
+      "t": 26.85,
+      "word": "mass"
+    },
+    {
+      "t": 27.54,
+      "word": "it"
+    },
+    {
+      "t": 27.65,
+      "word": "never"
+    },
+    {
+      "t": 28.01,
+      "word": "gets"
+    },
+    {
+      "t": 28.24,
+      "word": "tired"
+    },
+    {
+      "t": 28.96,
+      "word": "never"
+    },
+    {
+      "t": 29.31,
+      "word": "sweats"
+    },
+    {
+      "t": 29.87,
+      "word": "and"
+    },
+    {
+      "t": 30.09,
+      "word": "never"
+    },
+    {
+      "t": 30.41,
+      "word": "asks"
+    },
+    {
+      "t": 30.8,
+      "word": "for"
+    },
+    {
+      "t": 30.94,
+      "word": "a"
+    },
+    {
+      "t": 31.0,
+      "word": "salary"
+    },
+    {
+      "t": 31.88,
+      "word": "Pip"
+    },
+    {
+      "t": 32.15,
+      "word": "thinks"
+    },
+    {
+      "t": 32.34,
+      "word": "he"
+    },
+    {
+      "t": 32.47,
+      "word": "has"
+    },
+    {
+      "t": 32.61,
+      "word": "cracked"
+    },
+    {
+      "t": 33.02,
+      "word": "the"
+    },
+    {
+      "t": 33.13,
+      "word": "secret"
+    },
+    {
+      "t": 33.52,
+      "word": "code"
+    },
+    {
+      "t": 33.85,
+      "word": "to"
+    },
+    {
+      "t": 33.95,
+      "word": "human"
+    },
+    {
+      "t": 34.25,
+      "word": "laziness"
+    },
+    {
+      "t": 35.28,
+      "word": "But"
+    },
+    {
+      "t": 35.47,
+      "word": "having"
+    },
+    {
+      "t": 35.74,
+      "word": "a"
+    },
+    {
+      "t": 35.81,
+      "word": "sentient"
+    },
+    {
+      "t": 36.22,
+      "word": "shadow"
+    },
+    {
+      "t": 36.6,
+      "word": "comes"
+    },
+    {
+      "t": 36.89,
+      "word": "with"
+    },
+    {
+      "t": 37.0,
+      "word": "a"
+    },
+    {
+      "t": 37.08,
+      "word": "terrifying"
+    },
+    {
+      "t": 37.63,
+      "word": "catch"
+    }
+  ],
+  "ch_3": [
+    {
+      "t": 0.1,
+      "word": "Things"
+    },
+    {
+      "t": 0.43,
+      "word": "spiral"
+    },
+    {
+      "t": 0.89,
+      "word": "out"
+    },
+    {
+      "t": 1.0,
+      "word": "of"
+    },
+    {
+      "t": 1.07,
+      "word": "control"
+    },
+    {
+      "t": 1.47,
+      "word": "the"
+    },
+    {
+      "t": 1.56,
+      "word": "moment"
+    },
+    {
+      "t": 1.96,
+      "word": "Pip"
+    },
+    {
+      "t": 2.18,
+      "word": "flips"
+    },
+    {
+      "t": 2.68,
+      "word": "on"
+    },
+    {
+      "t": 2.85,
+      "word": "a"
+    },
+    {
+      "t": 2.93,
+      "word": "second"
+    },
+    {
+      "t": 3.33,
+      "word": "desk"
+    },
+    {
+      "t": 3.63,
+      "word": "lamp"
+    },
+    {
+      "t": 4.37,
+      "word": "In"
+    },
+    {
+      "t": 4.59,
+      "word": "basic"
+    },
+    {
+      "t": 5.0,
+      "word": "optics"
+    },
+    {
+      "t": 5.56,
+      "word": "two"
+    },
+    {
+      "t": 5.81,
+      "word": "light"
+    },
+    {
+      "t": 6.06,
+      "word": "sources"
+    },
+    {
+      "t": 6.52,
+      "word": "cast"
+    },
+    {
+      "t": 6.96,
+      "word": "two"
+    },
+    {
+      "t": 7.2,
+      "word": "distinct"
+    },
+    {
+      "t": 7.68,
+      "word": "shadows"
+    },
+    {
+      "t": 8.67,
+      "word": "Suddenly"
+    },
+    {
+      "t": 9.39,
+      "word": "Pip's"
+    },
+    {
+      "t": 9.67,
+      "word": "single"
+    },
+    {
+      "t": 10.03,
+      "word": "helper"
+    },
+    {
+      "t": 10.37,
+      "word": "splits"
+    },
+    {
+      "t": 10.75,
+      "word": "into"
+    },
+    {
+      "t": 11.02,
+      "word": "two"
+    },
+    {
+      "t": 11.29,
+      "word": "separate"
+    },
+    {
+      "t": 11.71,
+      "word": "sentient"
+    },
+    {
+      "t": 12.1,
+      "word": "shadows"
+    },
+    {
+      "t": 13.02,
+      "word": "And"
+    },
+    {
+      "t": 13.24,
+      "word": "they"
+    },
+    {
+      "t": 13.38,
+      "word": "do"
+    },
+    {
+      "t": 13.5,
+      "word": "not"
+    },
+    {
+      "t": 13.72,
+      "word": "get"
+    },
+    {
+      "t": 13.85,
+      "word": "along"
+    },
+    {
+      "t": 14.71,
+      "word": "The"
+    },
+    {
+      "t": 14.89,
+      "word": "two"
+    },
+    {
+      "t": 15.17,
+      "word": "dark"
+    },
+    {
+      "t": 15.44,
+      "word": "figures"
+    },
+    {
+      "t": 15.83,
+      "word": "start"
+    },
+    {
+      "t": 16.13,
+      "word": "brawling"
+    },
+    {
+      "t": 16.53,
+      "word": "on"
+    },
+    {
+      "t": 16.64,
+      "word": "the"
+    },
+    {
+      "t": 16.72,
+      "word": "wallpaper"
+    },
+    {
+      "t": 17.77,
+      "word": "wrestling"
+    },
+    {
+      "t": 18.25,
+      "word": "over"
+    },
+    {
+      "t": 18.46,
+      "word": "the"
+    },
+    {
+      "t": 18.57,
+      "word": "TV"
+    },
+    {
+      "t": 18.95,
+      "word": "remote"
+    },
+    {
+      "t": 19.29,
+      "word": "control"
+    },
+    {
+      "t": 20.18,
+      "word": "In"
+    },
+    {
+      "t": 20.4,
+      "word": "sheer"
+    },
+    {
+      "t": 20.71,
+      "word": "panic"
+    },
+    {
+      "t": 21.57,
+      "word": "Pip"
+    },
+    {
+      "t": 21.81,
+      "word": "lunges"
+    },
+    {
+      "t": 22.34,
+      "word": "for"
+    },
+    {
+      "t": 22.48,
+      "word": "the"
+    },
+    {
+      "t": 22.59,
+      "word": "light"
+    },
+    {
+      "t": 22.87,
+      "word": "switch"
+    },
+    {
+      "t": 23.53,
+      "word": "and"
+    },
+    {
+      "t": 23.72,
+      "word": "cuts"
+    },
+    {
+      "t": 24.04,
+      "word": "the"
+    },
+    {
+      "t": 24.15,
+      "word": "power"
+    },
+    {
+      "t": 25.0,
+      "word": "Total"
+    },
+    {
+      "t": 25.4,
+      "word": "darkness"
+    },
+    {
+      "t": 25.97,
+      "word": "floods"
+    },
+    {
+      "t": 26.32,
+      "word": "the"
+    },
+    {
+      "t": 26.43,
+      "word": "room"
+    },
+    {
+      "t": 27.2,
+      "word": "Pip"
+    },
+    {
+      "t": 27.48,
+      "word": "sighs"
+    },
+    {
+      "t": 27.78,
+      "word": "in"
+    },
+    {
+      "t": 27.88,
+      "word": "relief"
+    },
+    {
+      "t": 28.63,
+      "word": "no"
+    },
+    {
+      "t": 28.88,
+      "word": "light"
+    },
+    {
+      "t": 29.14,
+      "word": "means"
+    },
+    {
+      "t": 29.43,
+      "word": "no"
+    },
+    {
+      "t": 29.63,
+      "word": "shadow"
+    },
+    {
+      "t": 30.05,
+      "word": "right"
+    },
+    {
+      "t": 30.69,
+      "word": "Wrong"
+    },
+    {
+      "t": 31.62,
+      "word": "In"
+    },
+    {
+      "t": 31.89,
+      "word": "absolute"
+    },
+    {
+      "t": 32.45,
+      "word": "darkness"
+    },
+    {
+      "t": 33.27,
+      "word": "the"
+    },
+    {
+      "t": 33.38,
+      "word": "shadow"
+    },
+    {
+      "t": 33.87,
+      "word": "doesn't"
+    },
+    {
+      "t": 34.2,
+      "word": "disappear"
+    },
+    {
+      "t": 35.18,
+      "word": "it"
+    },
+    {
+      "t": 35.28,
+      "word": "merges"
+    },
+    {
+      "t": 35.73,
+      "word": "with"
+    },
+    {
+      "t": 35.85,
+      "word": "the"
+    },
+    {
+      "t": 35.92,
+      "word": "entire"
+    },
+    {
+      "t": 36.55,
+      "word": "pitch-black"
+    },
+    {
+      "t": 37.11,
+      "word": "room"
+    },
+    {
+      "t": 37.85,
+      "word": "Suddenly"
+    },
+    {
+      "t": 38.72,
+      "word": "icy"
+    },
+    {
+      "t": 39.08,
+      "word": "cold"
+    },
+    {
+      "t": 39.38,
+      "word": "hands"
+    },
+    {
+      "t": 39.72,
+      "word": "tap"
+    },
+    {
+      "t": 40.0,
+      "word": "Pip"
+    },
+    {
+      "t": 40.24,
+      "word": "right"
+    },
+    {
+      "t": 40.46,
+      "word": "on"
+    },
+    {
+      "t": 40.58,
+      "word": "the"
+    },
+    {
+      "t": 40.71,
+      "word": "back"
+    },
+    {
+      "t": 41.0,
+      "word": "of"
+    },
+    {
+      "t": 41.08,
+      "word": "his"
+    },
+    {
+      "t": 41.23,
+      "word": "neck"
+    }
+  ],
+  "ch_4": [
+    {
+      "t": 0.1,
+      "word": "When"
+    },
+    {
+      "t": 0.37,
+      "word": "Pip"
+    },
+    {
+      "t": 0.61,
+      "word": "flicks"
+    },
+    {
+      "t": 0.94,
+      "word": "the"
+    },
+    {
+      "t": 1.06,
+      "word": "lights"
+    },
+    {
+      "t": 1.33,
+      "word": "back"
+    },
+    {
+      "t": 1.57,
+      "word": "on"
+    },
+    {
+      "t": 2.31,
+      "word": "his"
+    },
+    {
+      "t": 2.44,
+      "word": "shadow"
+    },
+    {
+      "t": 2.95,
+      "word": "is"
+    },
+    {
+      "t": 3.16,
+      "word": "done"
+    },
+    {
+      "t": 3.43,
+      "word": "taking"
+    },
+    {
+      "t": 3.77,
+      "word": "orders"
+    },
+    {
+      "t": 4.61,
+      "word": "The"
+    },
+    {
+      "t": 4.78,
+      "word": "rebellion"
+    },
+    {
+      "t": 5.29,
+      "word": "has"
+    },
+    {
+      "t": 5.47,
+      "word": "begun"
+    },
+    {
+      "t": 6.36,
+      "word": "Pip"
+    },
+    {
+      "t": 6.65,
+      "word": "tries"
+    },
+    {
+      "t": 6.97,
+      "word": "to"
+    },
+    {
+      "t": 7.1,
+      "word": "walk"
+    },
+    {
+      "t": 7.37,
+      "word": "left"
+    },
+    {
+      "t": 7.7,
+      "word": "toward"
+    },
+    {
+      "t": 7.9,
+      "word": "the"
+    },
+    {
+      "t": 7.99,
+      "word": "kitchen"
+    },
+    {
+      "t": 8.75,
+      "word": "but"
+    },
+    {
+      "t": 8.87,
+      "word": "his"
+    },
+    {
+      "t": 9.09,
+      "word": "rogue"
+    },
+    {
+      "t": 9.37,
+      "word": "shadow"
+    },
+    {
+      "t": 9.78,
+      "word": "plants"
+    },
+    {
+      "t": 10.13,
+      "word": "its"
+    },
+    {
+      "t": 10.3,
+      "word": "feet"
+    },
+    {
+      "t": 10.72,
+      "word": "and"
+    },
+    {
+      "t": 10.88,
+      "word": "pulls"
+    },
+    {
+      "t": 11.18,
+      "word": "him"
+    },
+    {
+      "t": 11.37,
+      "word": "violently"
+    },
+    {
+      "t": 11.87,
+      "word": "to"
+    },
+    {
+      "t": 11.98,
+      "word": "the"
+    },
+    {
+      "t": 12.09,
+      "word": "right"
+    },
+    {
+      "t": 12.73,
+      "word": "Pip"
+    },
+    {
+      "t": 13.02,
+      "word": "tries"
+    },
+    {
+      "t": 13.34,
+      "word": "to"
+    },
+    {
+      "t": 13.48,
+      "word": "wave"
+    },
+    {
+      "t": 13.8,
+      "word": "politely"
+    },
+    {
+      "t": 14.37,
+      "word": "at"
+    },
+    {
+      "t": 14.48,
+      "word": "his"
+    },
+    {
+      "t": 14.65,
+      "word": "neighbor"
+    },
+    {
+      "t": 15.03,
+      "word": "outside"
+    },
+    {
+      "t": 15.46,
+      "word": "the"
+    },
+    {
+      "t": 15.54,
+      "word": "window"
+    },
+    {
+      "t": 16.3,
+      "word": "but"
+    },
+    {
+      "t": 16.49,
+      "word": "the"
+    },
+    {
+      "t": 16.59,
+      "word": "shadow"
+    },
+    {
+      "t": 17.06,
+      "word": "raises"
+    },
+    {
+      "t": 17.48,
+      "word": "both"
+    },
+    {
+      "t": 17.78,
+      "word": "arms"
+    },
+    {
+      "t": 18.19,
+      "word": "and"
+    },
+    {
+      "t": 18.36,
+      "word": "mocks"
+    },
+    {
+      "t": 18.64,
+      "word": "him"
+    },
+    {
+      "t": 19.3,
+      "word": "Even"
+    },
+    {
+      "t": 19.69,
+      "word": "worse"
+    },
+    {
+      "t": 20.16,
+      "word": "a"
+    },
+    {
+      "t": 20.28,
+      "word": "2D"
+    },
+    {
+      "t": 20.79,
+      "word": "shadow"
+    },
+    {
+      "t": 21.35,
+      "word": "isn't"
+    },
+    {
+      "t": 21.6,
+      "word": "bound"
+    },
+    {
+      "t": 21.92,
+      "word": "by"
+    },
+    {
+      "t": 22.11,
+      "word": "3D"
+    },
+    {
+      "t": 22.61,
+      "word": "human"
+    },
+    {
+      "t": 22.94,
+      "word": "anatomy"
+    },
+    {
+      "t": 23.86,
+      "word": "It"
+    },
+    {
+      "t": 24.05,
+      "word": "can"
+    },
+    {
+      "t": 24.2,
+      "word": "stretch"
+    },
+    {
+      "t": 24.6,
+      "word": "fifty"
+    },
+    {
+      "t": 24.9,
+      "word": "feet"
+    },
+    {
+      "t": 25.12,
+      "word": "tall"
+    },
+    {
+      "t": 25.84,
+      "word": "flatten"
+    },
+    {
+      "t": 26.26,
+      "word": "itself"
+    },
+    {
+      "t": 26.68,
+      "word": "to"
+    },
+    {
+      "t": 26.8,
+      "word": "slip"
+    },
+    {
+      "t": 27.14,
+      "word": "under"
+    },
+    {
+      "t": 27.42,
+      "word": "locked"
+    },
+    {
+      "t": 27.73,
+      "word": "bedroom"
+    },
+    {
+      "t": 28.19,
+      "word": "doors"
+    },
+    {
+      "t": 28.93,
+      "word": "and"
+    },
+    {
+      "t": 29.19,
+      "word": "infiltrate"
+    },
+    {
+      "t": 30.03,
+      "word": "any"
+    },
+    {
+      "t": 30.26,
+      "word": "secret"
+    },
+    {
+      "t": 30.69,
+      "word": "safe"
+    },
+    {
+      "t": 31.02,
+      "word": "in"
+    },
+    {
+      "t": 31.11,
+      "word": "the"
+    },
+    {
+      "t": 31.19,
+      "word": "city"
+    },
+    {
+      "t": 31.96,
+      "word": "Pip"
+    },
+    {
+      "t": 32.21,
+      "word": "realizes"
+    },
+    {
+      "t": 32.8,
+      "word": "he"
+    },
+    {
+      "t": 32.95,
+      "word": "is"
+    },
+    {
+      "t": 33.12,
+      "word": "no"
+    },
+    {
+      "t": 33.48,
+      "word": "longer"
+    },
+    {
+      "t": 33.8,
+      "word": "the"
+    },
+    {
+      "t": 33.88,
+      "word": "master"
+    },
+    {
+      "t": 34.83,
+      "word": "he"
+    },
+    {
+      "t": 34.92,
+      "word": "has"
+    },
+    {
+      "t": 35.06,
+      "word": "become"
+    },
+    {
+      "t": 35.45,
+      "word": "the"
+    },
+    {
+      "t": 35.56,
+      "word": "biological"
+    },
+    {
+      "t": 36.29,
+      "word": "hostage"
+    },
+    {
+      "t": 36.77,
+      "word": "of"
+    },
+    {
+      "t": 36.87,
+      "word": "his"
+    },
+    {
+      "t": 37.04,
+      "word": "own"
+    },
+    {
+      "t": 37.28,
+      "word": "silhouette"
+    }
+  ],
+  "ch_5": [
+    {
+      "t": 0.1,
+      "word": "Now"
+    },
+    {
+      "t": 0.48,
+      "word": "let's"
+    },
+    {
+      "t": 0.69,
+      "word": "examine"
+    },
+    {
+      "t": 1.14,
+      "word": "the"
+    },
+    {
+      "t": 1.24,
+      "word": "terrifying"
+    },
+    {
+      "t": 1.92,
+      "word": "physics"
+    },
+    {
+      "t": 2.36,
+      "word": "of"
+    },
+    {
+      "t": 2.48,
+      "word": "a"
+    },
+    {
+      "t": 2.55,
+      "word": "living"
+    },
+    {
+      "t": 2.94,
+      "word": "shadow"
+    },
+    {
+      "t": 3.82,
+      "word": "In"
+    },
+    {
+      "t": 4.08,
+      "word": "real"
+    },
+    {
+      "t": 4.33,
+      "word": "science"
+    },
+    {
+      "t": 4.94,
+      "word": "a"
+    },
+    {
+      "t": 5.0,
+      "word": "shadow"
+    },
+    {
+      "t": 5.56,
+      "word": "is"
+    },
+    {
+      "t": 5.77,
+      "word": "just"
+    },
+    {
+      "t": 6.09,
+      "word": "an"
+    },
+    {
+      "t": 6.23,
+      "word": "absence"
+    },
+    {
+      "t": 6.65,
+      "word": "of"
+    },
+    {
+      "t": 6.76,
+      "word": "light"
+    },
+    {
+      "t": 7.5,
+      "word": "it"
+    },
+    {
+      "t": 7.57,
+      "word": "has"
+    },
+    {
+      "t": 7.84,
+      "word": "no"
+    },
+    {
+      "t": 8.14,
+      "word": "energy"
+    },
+    {
+      "t": 9.07,
+      "word": "no"
+    },
+    {
+      "t": 9.26,
+      "word": "mass"
+    },
+    {
+      "t": 9.77,
+      "word": "and"
+    },
+    {
+      "t": 10.03,
+      "word": "cannot"
+    },
+    {
+      "t": 10.49,
+      "word": "push"
+    },
+    {
+      "t": 10.77,
+      "word": "matter"
+    },
+    {
+      "t": 11.59,
+      "word": "For"
+    },
+    {
+      "t": 11.8,
+      "word": "a"
+    },
+    {
+      "t": 11.86,
+      "word": "shadow"
+    },
+    {
+      "t": 12.28,
+      "word": "to"
+    },
+    {
+      "t": 12.43,
+      "word": "touch"
+    },
+    {
+      "t": 12.72,
+      "word": "objects"
+    },
+    {
+      "t": 13.39,
+      "word": "grab"
+    },
+    {
+      "t": 13.69,
+      "word": "remotes"
+    },
+    {
+      "t": 14.18,
+      "word": "and"
+    },
+    {
+      "t": 14.46,
+      "word": "move"
+    },
+    {
+      "t": 14.72,
+      "word": "physical"
+    },
+    {
+      "t": 15.13,
+      "word": "mass"
+    },
+    {
+      "t": 15.91,
+      "word": "it"
+    },
+    {
+      "t": 16.02,
+      "word": "must"
+    },
+    {
+      "t": 16.34,
+      "word": "actively"
+    },
+    {
+      "t": 16.85,
+      "word": "absorb"
+    },
+    {
+      "t": 17.27,
+      "word": "incoming"
+    },
+    {
+      "t": 17.7,
+      "word": "photons"
+    },
+    {
+      "t": 18.7,
+      "word": "That"
+    },
+    {
+      "t": 18.97,
+      "word": "means"
+    },
+    {
+      "t": 19.3,
+      "word": "Pip's"
+    },
+    {
+      "t": 19.55,
+      "word": "shadow"
+    },
+    {
+      "t": 20.03,
+      "word": "acts"
+    },
+    {
+      "t": 20.34,
+      "word": "like"
+    },
+    {
+      "t": 20.58,
+      "word": "a"
+    },
+    {
+      "t": 20.64,
+      "word": "localized"
+    },
+    {
+      "t": 21.36,
+      "word": "microscopic"
+    },
+    {
+      "t": 22.11,
+      "word": "black"
+    },
+    {
+      "t": 22.4,
+      "word": "hole"
+    },
+    {
+      "t": 23.23,
+      "word": "vacuuming"
+    },
+    {
+      "t": 23.82,
+      "word": "every"
+    },
+    {
+      "t": 24.14,
+      "word": "speck"
+    },
+    {
+      "t": 24.54,
+      "word": "of"
+    },
+    {
+      "t": 24.7,
+      "word": "thermal"
+    },
+    {
+      "t": 25.15,
+      "word": "radiation"
+    },
+    {
+      "t": 25.71,
+      "word": "in"
+    },
+    {
+      "t": 25.79,
+      "word": "the"
+    },
+    {
+      "t": 25.89,
+      "word": "room"
+    },
+    {
+      "t": 26.64,
+      "word": "Within"
+    },
+    {
+      "t": 27.05,
+      "word": "minutes"
+    },
+    {
+      "t": 27.77,
+      "word": "the"
+    },
+    {
+      "t": 27.89,
+      "word": "bedroom"
+    },
+    {
+      "t": 28.33,
+      "word": "temperature"
+    },
+    {
+      "t": 28.82,
+      "word": "plunges"
+    },
+    {
+      "t": 29.35,
+      "word": "below"
+    },
+    {
+      "t": 29.7,
+      "word": "negative"
+    },
+    {
+      "t": 30.15,
+      "word": "forty"
+    },
+    {
+      "t": 30.49,
+      "word": "degrees"
+    },
+    {
+      "t": 31.45,
+      "word": "Pip's"
+    },
+    {
+      "t": 31.79,
+      "word": "breath"
+    },
+    {
+      "t": 32.14,
+      "word": "turns"
+    },
+    {
+      "t": 32.48,
+      "word": "into"
+    },
+    {
+      "t": 32.72,
+      "word": "white"
+    },
+    {
+      "t": 32.99,
+      "word": "clouds"
+    },
+    {
+      "t": 33.38,
+      "word": "of"
+    },
+    {
+      "t": 33.46,
+      "word": "vapor"
+    },
+    {
+      "t": 34.25,
+      "word": "thick"
+    },
+    {
+      "t": 34.47,
+      "word": "frost"
+    },
+    {
+      "t": 34.83,
+      "word": "crystallizes"
+    },
+    {
+      "t": 35.54,
+      "word": "across"
+    },
+    {
+      "t": 35.89,
+      "word": "the"
+    },
+    {
+      "t": 36.0,
+      "word": "windows"
+    },
+    {
+      "t": 36.85,
+      "word": "and"
+    },
+    {
+      "t": 37.04,
+      "word": "his"
+    },
+    {
+      "t": 37.23,
+      "word": "fingers"
+    },
+    {
+      "t": 37.68,
+      "word": "go"
+    },
+    {
+      "t": 37.83,
+      "word": "numb"
+    },
+    {
+      "t": 38.13,
+      "word": "with"
+    },
+    {
+      "t": 38.27,
+      "word": "hypothermia"
+    },
+    {
+      "t": 39.46,
+      "word": "His"
+    },
+    {
+      "t": 39.78,
+      "word": "rogue"
+    },
+    {
+      "t": 40.04,
+      "word": "shadow"
+    },
+    {
+      "t": 40.52,
+      "word": "is"
+    },
+    {
+      "t": 40.74,
+      "word": "literally"
+    },
+    {
+      "t": 41.25,
+      "word": "freezing"
+    },
+    {
+      "t": 41.7,
+      "word": "him"
+    },
+    {
+      "t": 41.86,
+      "word": "to"
+    },
+    {
+      "t": 41.94,
+      "word": "death"
+    }
+  ],
+  "ch_6": [
+    {
+      "t": 0.1,
+      "word": "Shivering"
+    },
+    {
+      "t": 0.65,
+      "word": "and"
+    },
+    {
+      "t": 0.8,
+      "word": "fighting"
+    },
+    {
+      "t": 1.19,
+      "word": "for"
+    },
+    {
+      "t": 1.33,
+      "word": "his"
+    },
+    {
+      "t": 1.46,
+      "word": "life"
+    },
+    {
+      "t": 2.21,
+      "word": "Pip"
+    },
+    {
+      "t": 2.43,
+      "word": "comes"
+    },
+    {
+      "t": 2.75,
+      "word": "up"
+    },
+    {
+      "t": 2.95,
+      "word": "with"
+    },
+    {
+      "t": 3.12,
+      "word": "a"
+    },
+    {
+      "t": 3.21,
+      "word": "brilliant"
+    },
+    {
+      "t": 3.89,
+      "word": "scientific"
+    },
+    {
+      "t": 4.51,
+      "word": "counterattack"
+    },
+    {
+      "t": 5.62,
+      "word": "He"
+    },
+    {
+      "t": 5.83,
+      "word": "wheels"
+    },
+    {
+      "t": 6.11,
+      "word": "in"
+    },
+    {
+      "t": 6.3,
+      "word": "four"
+    },
+    {
+      "t": 6.62,
+      "word": "high-powered"
+    },
+    {
+      "t": 7.3,
+      "word": "ten-thousand-lumen"
+    },
+    {
+      "t": 8.31,
+      "word": "stadium"
+    },
+    {
+      "t": 8.75,
+      "word": "floodlights"
+    },
+    {
+      "t": 9.7,
+      "word": "creating"
+    },
+    {
+      "t": 10.17,
+      "word": "a"
+    },
+    {
+      "t": 10.23,
+      "word": "seamless"
+    },
+    {
+      "t": 10.86,
+      "word": "three-hundred-sixty-degree"
+    },
+    {
+      "t": 12.32,
+      "word": "omnidirectional"
+    },
+    {
+      "t": 13.12,
+      "word": "beam"
+    },
+    {
+      "t": 13.88,
+      "word": "When"
+    },
+    {
+      "t": 14.14,
+      "word": "light"
+    },
+    {
+      "t": 14.37,
+      "word": "floods"
+    },
+    {
+      "t": 14.75,
+      "word": "an"
+    },
+    {
+      "t": 14.89,
+      "word": "object"
+    },
+    {
+      "t": 15.3,
+      "word": "equally"
+    },
+    {
+      "t": 15.75,
+      "word": "from"
+    },
+    {
+      "t": 16.15,
+      "word": "every"
+    },
+    {
+      "t": 16.42,
+      "word": "single"
+    },
+    {
+      "t": 16.76,
+      "word": "angle"
+    },
+    {
+      "t": 17.48,
+      "word": "there"
+    },
+    {
+      "t": 17.65,
+      "word": "is"
+    },
+    {
+      "t": 17.83,
+      "word": "zero"
+    },
+    {
+      "t": 18.22,
+      "word": "darkness"
+    },
+    {
+      "t": 18.79,
+      "word": "and"
+    },
+    {
+      "t": 19.13,
+      "word": "zero"
+    },
+    {
+      "t": 19.48,
+      "word": "cast"
+    },
+    {
+      "t": 19.78,
+      "word": "shadows"
+    },
+    {
+      "t": 20.73,
+      "word": "Trapped"
+    },
+    {
+      "t": 21.11,
+      "word": "inside"
+    },
+    {
+      "t": 21.51,
+      "word": "the"
+    },
+    {
+      "t": 21.6,
+      "word": "blinding"
+    },
+    {
+      "t": 22.03,
+      "word": "halo"
+    },
+    {
+      "t": 22.78,
+      "word": "the"
+    },
+    {
+      "t": 22.91,
+      "word": "rogue"
+    },
+    {
+      "t": 23.19,
+      "word": "shadow"
+    },
+    {
+      "t": 23.61,
+      "word": "shrinks"
+    },
+    {
+      "t": 24.01,
+      "word": "down"
+    },
+    {
+      "t": 24.49,
+      "word": "shivering"
+    },
+    {
+      "t": 25.03,
+      "word": "with"
+    },
+    {
+      "t": 25.22,
+      "word": "nowhere"
+    },
+    {
+      "t": 25.75,
+      "word": "to"
+    },
+    {
+      "t": 25.88,
+      "word": "hide"
+    },
+    {
+      "t": 26.65,
+      "word": "Pip"
+    },
+    {
+      "t": 26.93,
+      "word": "looks"
+    },
+    {
+      "t": 27.17,
+      "word": "down"
+    },
+    {
+      "t": 27.48,
+      "word": "and"
+    },
+    {
+      "t": 27.67,
+      "word": "realizes"
+    },
+    {
+      "t": 28.62,
+      "word": "without"
+    },
+    {
+      "t": 28.95,
+      "word": "him"
+    },
+    {
+      "t": 29.54,
+      "word": "the"
+    },
+    {
+      "t": 29.65,
+      "word": "shadow"
+    },
+    {
+      "t": 30.16,
+      "word": "cannot"
+    },
+    {
+      "t": 30.55,
+      "word": "exist"
+    },
+    {
+      "t": 31.46,
+      "word": "And"
+    },
+    {
+      "t": 31.76,
+      "word": "without"
+    },
+    {
+      "t": 32.04,
+      "word": "his"
+    },
+    {
+      "t": 32.15,
+      "word": "shadow"
+    },
+    {
+      "t": 32.72,
+      "word": "Pip"
+    },
+    {
+      "t": 32.91,
+      "word": "is"
+    },
+    {
+      "t": 33.05,
+      "word": "incomplete"
+    },
+    {
+      "t": 34.09,
+      "word": "Pip"
+    },
+    {
+      "t": 34.39,
+      "word": "dims"
+    },
+    {
+      "t": 34.76,
+      "word": "three"
+    },
+    {
+      "t": 35.05,
+      "word": "of"
+    },
+    {
+      "t": 35.13,
+      "word": "the"
+    },
+    {
+      "t": 35.22,
+      "word": "spotlights"
+    },
+    {
+      "t": 36.18,
+      "word": "extends"
+    },
+    {
+      "t": 36.66,
+      "word": "his"
+    },
+    {
+      "t": 36.82,
+      "word": "hand"
+    },
+    {
+      "t": 37.55,
+      "word": "and"
+    },
+    {
+      "t": 37.77,
+      "word": "the"
+    },
+    {
+      "t": 37.85,
+      "word": "shadow"
+    },
+    {
+      "t": 38.44,
+      "word": "reconnects"
+    },
+    {
+      "t": 39.01,
+      "word": "to"
+    },
+    {
+      "t": 39.12,
+      "word": "his"
+    },
+    {
+      "t": 39.26,
+      "word": "boots"
+    },
+    {
+      "t": 40.06,
+      "word": "high-fiving"
+    },
+    {
+      "t": 40.6,
+      "word": "him"
+    },
+    {
+      "t": 41.25,
+      "word": "Could"
+    },
+    {
+      "t": 41.46,
+      "word": "you"
+    },
+    {
+      "t": 41.53,
+      "word": "handle"
+    },
+    {
+      "t": 41.82,
+      "word": "a"
+    },
+    {
+      "t": 41.89,
+      "word": "living"
+    },
+    {
+      "t": 42.15,
+      "word": "shadow"
+    },
+    {
+      "t": 42.93,
+      "word": "Smash"
+    },
+    {
+      "t": 43.55,
+      "word": "that"
+    },
+    {
+      "t": 43.78,
+      "word": "subscribe"
+    },
+    {
+      "t": 44.35,
+      "word": "button"
+    },
+    {
+      "t": 44.78,
+      "word": "and"
+    },
+    {
+      "t": 44.95,
+      "word": "tap"
+    },
+    {
+      "t": 45.24,
+      "word": "the"
+    },
+    {
+      "t": 45.35,
+      "word": "bell"
+    },
+    {
+      "t": 45.63,
+      "word": "for"
+    },
+    {
+      "t": 45.79,
+      "word": "more"
+    },
+    {
+      "t": 46.07,
+      "word": "weekly"
+    },
+    {
+      "t": 46.45,
+      "word": "animated"
+    },
+    {
+      "t": 47.0,
+      "word": "what-if"
+    },
+    {
+      "t": 47.34,
+      "word": "adventures"
+    }
+  ],
+  "short": [
+    {
+      "t": 0.1,
+      "word": "What"
+    },
+    {
+      "t": 0.32,
+      "word": "if"
+    },
+    {
+      "t": 0.39,
+      "word": "your"
+    },
+    {
+      "t": 0.51,
+      "word": "shadow"
+    },
+    {
+      "t": 0.98,
+      "word": "suddenly"
+    },
+    {
+      "t": 1.41,
+      "word": "moved"
+    },
+    {
+      "t": 1.73,
+      "word": "on"
+    },
+    {
+      "t": 1.85,
+      "word": "its"
+    },
+    {
+      "t": 2.0,
+      "word": "own"
+    },
+    {
+      "t": 2.72,
+      "word": "At"
+    },
+    {
+      "t": 2.96,
+      "word": "first"
+    },
+    {
+      "t": 3.66,
+      "word": "it's"
+    },
+    {
+      "t": 3.81,
+      "word": "the"
+    },
+    {
+      "t": 3.98,
+      "word": "ultimate"
+    },
+    {
+      "t": 4.44,
+      "word": "roommate"
+    },
+    {
+      "t": 5.27,
+      "word": "doing"
+    },
+    {
+      "t": 5.47,
+      "word": "your"
+    },
+    {
+      "t": 5.6,
+      "word": "chores"
+    },
+    {
+      "t": 6.08,
+      "word": "and"
+    },
+    {
+      "t": 6.38,
+      "word": "solving"
+    },
+    {
+      "t": 6.82,
+      "word": "your"
+    },
+    {
+      "t": 6.94,
+      "word": "homework"
+    },
+    {
+      "t": 7.86,
+      "word": "But"
+    },
+    {
+      "t": 8.07,
+      "word": "turn"
+    },
+    {
+      "t": 8.3,
+      "word": "on"
+    },
+    {
+      "t": 8.44,
+      "word": "two"
+    },
+    {
+      "t": 8.67,
+      "word": "lights"
+    },
+    {
+      "t": 9.11,
+      "word": "and"
+    },
+    {
+      "t": 9.44,
+      "word": "two"
+    },
+    {
+      "t": 9.69,
+      "word": "rogue"
+    },
+    {
+      "t": 9.93,
+      "word": "shadows"
+    },
+    {
+      "t": 10.39,
+      "word": "start"
+    },
+    {
+      "t": 10.6,
+      "word": "fighting"
+    },
+    {
+      "t": 11.4,
+      "word": "Even"
+    },
+    {
+      "t": 11.78,
+      "word": "worse"
+    },
+    {
+      "t": 12.24,
+      "word": "to"
+    },
+    {
+      "t": 12.36,
+      "word": "touch"
+    },
+    {
+      "t": 12.67,
+      "word": "matter"
+    },
+    {
+      "t": 13.2,
+      "word": "a"
+    },
+    {
+      "t": 13.27,
+      "word": "shadow"
+    },
+    {
+      "t": 13.78,
+      "word": "would"
+    },
+    {
+      "t": 13.91,
+      "word": "have"
+    },
+    {
+      "t": 14.06,
+      "word": "to"
+    },
+    {
+      "t": 14.18,
+      "word": "absorb"
+    },
+    {
+      "t": 14.67,
+      "word": "all"
+    },
+    {
+      "t": 14.87,
+      "word": "light"
+    },
+    {
+      "t": 15.11,
+      "word": "like"
+    },
+    {
+      "t": 15.3,
+      "word": "a"
+    },
+    {
+      "t": 15.39,
+      "word": "black"
+    },
+    {
+      "t": 15.68,
+      "word": "hole"
+    },
+    {
+      "t": 16.47,
+      "word": "freezing"
+    },
+    {
+      "t": 16.84,
+      "word": "your"
+    },
+    {
+      "t": 17.02,
+      "word": "room"
+    },
+    {
+      "t": 17.27,
+      "word": "to"
+    },
+    {
+      "t": 17.42,
+      "word": "negative"
+    },
+    {
+      "t": 17.95,
+      "word": "forty"
+    },
+    {
+      "t": 18.27,
+      "word": "degrees"
+    },
+    {
+      "t": 19.2,
+      "word": "Smash"
+    },
+    {
+      "t": 19.73,
+      "word": "subscribe"
+    },
+    {
+      "t": 20.3,
+      "word": "for"
+    },
+    {
+      "t": 20.45,
+      "word": "more"
+    },
+    {
+      "t": 20.69,
+      "word": "mind-bending"
+    },
+    {
+      "t": 21.29,
+      "word": "what-ifs"
+    }
+  ]
+}

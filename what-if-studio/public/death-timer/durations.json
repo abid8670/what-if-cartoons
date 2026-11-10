@@ -1,0 +1,32 @@
+{
+  "ch_1": {
+    "seconds": 31.42,
+    "frames": 943,
+    "file": "ch_1_mixed.wav"
+  },
+  "ch_2": {
+    "seconds": 40.59,
+    "frames": 1218,
+    "file": "ch_2_mixed.wav"
+  },
+  "ch_3": {
+    "seconds": 31.9,
+    "frames": 957,
+    "file": "ch_3_mixed.wav"
+  },
+  "ch_4": {
+    "seconds": 52.48,
+    "frames": 1575,
+    "file": "ch_4_mixed.wav"
+  },
+  "ch_5": {
+    "seconds": 47.74,
+    "frames": 1432,
+    "file": "ch_5_mixed.wav"
+  },
+  "short": {
+    "seconds": 31.72,
+    "frames": 951,
+    "file": "short_mixed.wav"
+  }
+}

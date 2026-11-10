@@ -1,0 +1,281 @@
+{
+ "slug": "pause",
+ "title": "WHAT IF YOU COULD PAUSE EVERYONE BUT YOU?",
+ "fps": 30,
+ "total": 1339,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 55,
+   "t0": 0,
+   "t1": 55,
+   "line": "Your coffee mug slips."
+  },
+  {
+   "shot": "S2",
+   "a": 55,
+   "b": 120,
+   "t0": 0,
+   "t1": 65,
+   "line": "Freeze. Midair. You",
+   "look": "freeze"
+  },
+  {
+   "shot": "S3",
+   "a": 120,
+   "b": 200,
+   "t0": 0,
+   "t1": 80,
+   "line": "slide a coaster under it. Safe."
+  },
+  {
+   "shot": "S4",
+   "a": 200,
+   "b": 266,
+   "t0": 0,
+   "t1": 66,
+   "line": "Mo is falling down the stairs."
+  },
+  {
+   "shot": "S5",
+   "a": 266,
+   "b": 304,
+   "t0": 0,
+   "t1": 38,
+   "line": "Freeze. You",
+   "look": "freeze"
+  },
+  {
+   "shot": "S6",
+   "a": 304,
+   "b": 369,
+   "t0": 0,
+   "t1": 65,
+   "line": "pull him back before he hits."
+  },
+  {
+   "shot": "S7",
+   "a": 369,
+   "b": 429,
+   "t0": 0,
+   "t1": 60,
+   "line": "A car blows through a red light."
+  },
+  {
+   "shot": "S8",
+   "a": 429,
+   "b": 553,
+   "t0": 0,
+   "t1": 124,
+   "line": "Freeze. Frozen an inch away. You step aside.",
+   "look": "freeze"
+  },
+  {
+   "shot": "S9",
+   "a": 553,
+   "b": 643,
+   "t0": 0,
+   "t1": 90,
+   "line": "What if you could pause everyone but you? Sounds like"
+  },
+  {
+   "shot": "S10",
+   "a": 643,
+   "b": 814,
+   "t0": 0,
+   "t1": 171,
+   "line": "the ultimate superpower. One terrifying catch: if time stops, light stops."
+  },
+  {
+   "shot": "S11",
+   "a": 814,
+   "b": 1005,
+   "t0": 0,
+   "t1": 191,
+   "line": "Photons travel at 300000 kilometres a second. Frozen, none can enter your eyes. You're"
+  },
+  {
+   "shot": "S12",
+   "a": 1005,
+   "b": 1067,
+   "t0": 0,
+   "t1": 62,
+   "line": "blind in pitch black. And air"
+  },
+  {
+   "shot": "S13",
+   "a": 1067,
+   "b": 1246,
+   "t0": 0,
+   "t1": 179,
+   "line": "molecules freeze into solid glass walls. You can't even breathe. That's real. So if"
+  },
+  {
+   "shot": "S14",
+   "a": 1246,
+   "b": 1339,
+   "t0": 0,
+   "t1": 93,
+   "line": "you pause the world... who unfreezes you?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "key": 12,
+   "len": 55,
+   "first": 0,
+   "line": "Your coffee mug slips.",
+   "note": "Pip's mug tips from the kitchen counter edge"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert",
+   "key": 16,
+   "len": 65,
+   "first": 55,
+   "line": "Freeze. Midair. You",
+   "note": "mug suspended mid-air in cyan frost glow"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 18,
+   "len": 80,
+   "first": 120,
+   "line": "slide a coaster under it. Safe.",
+   "note": "Pip slides a coaster underneath the frozen mug"
+  },
+  {
+   "id": "S4",
+   "size": "over the shoulder",
+   "key": 15,
+   "len": 66,
+   "first": 200,
+   "line": "Mo is falling down the stairs.",
+   "note": "Mo losing balance tumbling down the stairwell"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 20,
+   "len": 38,
+   "first": 266,
+   "line": "Freeze. You",
+   "note": "Freeze activated: Mo locked in mid-air tilt with pause icon"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 22,
+   "len": 65,
+   "first": 304,
+   "line": "pull him back before he hits.",
+   "note": "Pip pulling Mo safely back onto the platform"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 15,
+   "len": 60,
+   "first": 369,
+   "line": "A car blows through a red light.",
+   "note": "Speeding car heading straight towards the crosswalk"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 18,
+   "len": 124,
+   "first": 429,
+   "line": "Freeze. Frozen an inch away. You step aside.",
+   "note": "Freeze: Car bumper inches from Pip, frozen headlight beams"
+  },
+  {
+   "id": "S9",
+   "size": "title card",
+   "key": 30,
+   "len": 90,
+   "first": 553,
+   "line": "What if you could pause everyone but you? Sounds like",
+   "note": "Title Card: WHAT IF YOU COULD PAUSE EVERYONE BUT YOU?"
+  },
+  {
+   "id": "S10",
+   "size": "wide",
+   "key": 20,
+   "len": 171,
+   "first": 643,
+   "line": "the ultimate superpower. One terrifying catch: if time stops, light stops.",
+   "note": "Pip walking freely while the entire world is statue still"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 30,
+   "len": 191,
+   "first": 814,
+   "line": "Photons travel at 300000 kilometres a second. Frozen, none can enter your eyes. You're",
+   "note": "Science breakdown: 300,000 km/s photon wave collapsing to 0"
+  },
+  {
+   "id": "S12",
+   "size": "close-up",
+   "key": 25,
+   "len": 62,
+   "first": 1005,
+   "line": "blind in pitch black. And air",
+   "note": "Pitch blackness enveloping Pip's eyes as light stops"
+  },
+  {
+   "id": "S13",
+   "size": "medium",
+   "key": 22,
+   "len": 179,
+   "first": 1067,
+   "line": "molecules freeze into solid glass walls. You can't even breathe. That's real. So if",
+   "note": "Pip pushing against invisible solid wall of frozen air molecules"
+  },
+  {
+   "id": "S14",
+   "size": "wide cliffhanger",
+   "key": 30,
+   "len": 93,
+   "first": 1246,
+   "line": "you pause the world... who unfreezes you?",
+   "note": "Pip trapped in darkness, silent frozen world"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#a5f3fc",
+   "f": 55
+  },
+  {
+   "kind": "flash",
+   "color": "#a5f3fc",
+   "f": 266
+  },
+  {
+   "kind": "flash",
+   "color": "#a5f3fc",
+   "f": 429
+  },
+  {
+   "kind": "shake",
+   "amp": 6,
+   "f": 553
+  }
+ ],
+ "audio": {
+  "voice": "pause/voice.wav",
+  "sfx": "pause/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.4103,
+  "music": "pause/music.wav",
+  "musicVol": 0.1691
+ }
+}

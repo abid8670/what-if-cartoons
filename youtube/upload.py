@@ -1,4 +1,4 @@
-﻿"""YouTube upload script."""
+"""YouTube upload script."""
 import argparse, json, os, sys
 from google.oauth2.credentials import Credentials
 from google.auth.transport.requests import Request
@@ -56,8 +56,11 @@ def upload(args):
     print(f"UPLOADED: https://youtu.be/{video_id}")
 
     if args.thumbnail and os.path.exists(args.thumbnail):
-        youtube.thumbnails().set(videoId=video_id, media_body=MediaFileUpload(args.thumbnail)).execute()
-        print("Thumbnail set.")
+        try:
+            youtube.thumbnails().set(videoId=video_id, media_body=MediaFileUpload(args.thumbnail)).execute()
+            print("Thumbnail set.")
+        except Exception as e:
+            print(f"Thumbnail upload notice: {e}")
 
     if args.playlist:
         youtube.playlistItems().insert(part="snippet", body={

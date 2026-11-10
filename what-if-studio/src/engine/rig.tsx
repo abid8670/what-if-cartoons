@@ -33,12 +33,51 @@ export type Look = {
 };
 export type CastName = 'pip' | 'pipHood' | 'pipInk' | 'mo' | 'sis' | 'mom' | 'suit';
 export const LOOKS: Record<CastName, Look> = {
-  // A: Pip as built
-  pip: { skin: C.skin, skinShade: C.skinShade, hand: C.skin, jacket: C.jacket, jacketShade: C.jacketShade, accent: C.jacketShade, limb: C.limb, line: C.ink, shoe: C.shoe, face: C.ink, hair: C.ink },
-  // B: Pip in a dark hoodie with mustard drawstrings: the body goes dark and catches the rim light, the head stays the brightest thing
-  pipHood: { skin: C.skin, skinShade: C.skinShade, hand: C.skin, jacket: '#2E2B3D', jacketShade: '#24212F', accent: C.jacket, limb: '#2E2B3D', line: '#121019', shoe: C.shoe, face: C.ink, hair: C.ink, extra: 'hood' },
-  // C: a dark head with light features, the genre's high-contrast convention, in Pip's mustard
-  pipInk: { skin: '#26232F', skinShade: '#1C1A24', hand: '#26232F', jacket: C.jacket, jacketShade: C.jacketShade, accent: C.jacketShade, limb: '#26232F', line: '#121019', shoe: C.shoe, face: '#F6EFE3', hair: '#26232F' },
+  // A: Pip as built - canonical stickman in Iflord style (dark head, white slit eyes/mouth, mustard yellow hoodie, white drawstrings)
+  pip: {
+    skin: '#1C1A24',
+    skinShade: '#121018',
+    hand: '#1C1A24',
+    jacket: '#F59E0B',
+    jacketShade: '#D97706',
+    accent: '#FFFFFF',
+    limb: '#1C1A24',
+    line: '#0B0A10',
+    shoe: '#D97706',
+    face: '#FFFFFF',
+    hair: '#1C1A24',
+    extra: 'hood',
+  },
+  // B: PipHood - identical to canonical Pip
+  pipHood: {
+    skin: '#1C1A24',
+    skinShade: '#121018',
+    hand: '#1C1A24',
+    jacket: '#F59E0B',
+    jacketShade: '#D97706',
+    accent: '#FFFFFF',
+    limb: '#1C1A24',
+    line: '#0B0A10',
+    shoe: '#D97706',
+    face: '#FFFFFF',
+    hair: '#1C1A24',
+    extra: 'hood',
+  },
+  // C: PipInk - high contrast dark head with white face
+  pipInk: {
+    skin: '#1C1A24',
+    skinShade: '#121018',
+    hand: '#1C1A24',
+    jacket: '#F59E0B',
+    jacketShade: '#D97706',
+    accent: '#FFFFFF',
+    limb: '#1C1A24',
+    line: '#0B0A10',
+    shoe: '#D97706',
+    face: '#FFFFFF',
+    hair: '#1C1A24',
+    extra: 'hood',
+  },
   // Mo, Pip's friend: a second recurring character with his own costume (curly hair, headphones round his neck)
   mo: { skin: '#C98E68', skinShade: '#B07A58', hand: '#C98E68', jacket: '#5E6E46', jacketShade: '#4C5A38', accent: '#E9C46A', limb: '#3A3446', line: '#1A1622', shoe: '#D9534F', face: C.ink, hair: '#2A1C18', extra: 'curls' },
   // the formula's recurring cast (beats 5 and 6): Pip's little sister (draw her at about 0.7 of Pip's scale), his mum,
@@ -241,13 +280,14 @@ const Face: React.FC<{ expr: Expr; blink: number; look: number; glasses: number;
           {expr === 'tired' ? <path d={`M ${cx - 12} ${eyeY + 15} Q ${cx} ${eyeY + 22} ${cx + 12} ${eyeY + 15}`} stroke="#8C7AA6" strokeWidth={4.5} fill="none" strokeLinecap="round" opacity={0.85} /> : null}
         </g>
       );
+    const isWhiteInk = ink.toLowerCase() === '#ffffff' || ink.toLowerCase() === '#f6efe3';
     const big = expr === 'shock';
-    const rx = big ? 11 : 7;
-    const ry = (big ? 13 : 10) * open;
+    const rx = isWhiteInk ? (big ? 13 : 13) : (big ? 11 : 7);
+    const ry = isWhiteInk ? (big ? 14 : 7 * open) : ((big ? 13 : 10) * open);
     return (
       <g>
         <ellipse cx={cx + ex} cy={eyeY + (lid ? 3 : 0)} rx={rx} ry={ry} fill={ink} />
-        {big && open > 0.5 ? <circle cx={cx + ex + 3.5} cy={eyeY - 4} r={3.4} fill="#fff" /> : null}
+        {!isWhiteInk && big && open > 0.5 ? <circle cx={cx + ex + 3.5} cy={eyeY - 4} r={3.4} fill="#fff" /> : null}
         {lid ? <path d={expr === 'tired' ? `M ${cx - 13} ${eyeY - 1} Q ${cx} ${eyeY - 5} ${cx + 13} ${eyeY - 1}` : `M ${cx - 12} ${eyeY - 4} L ${cx + 12} ${eyeY - 2}`} stroke={ink} strokeWidth={4} strokeLinecap="round" fill="none" /> : null}
         {expr === 'tired' ? <path d={`M ${cx - 12} ${eyeY + 14} Q ${cx} ${eyeY + 21} ${cx + 12} ${eyeY + 14}`} stroke="#8C7AA6" strokeWidth={4.5} fill="none" strokeLinecap="round" opacity={0.85} /> : null}
       </g>
@@ -266,7 +306,7 @@ const Face: React.FC<{ expr: Expr; blink: number; look: number; glasses: number;
   };
   const mY = HEAD.y + 28;
   const mouth: Record<Expr, React.ReactNode> = {
-    neutral: <path d={`M -10 ${mY} Q 0 ${mY + 4} 10 ${mY}`} stroke={ink} strokeWidth={5} fill="none" strokeLinecap="round" />,
+    neutral: <path d={`M -10 ${mY} L 10 ${mY}`} stroke={ink} strokeWidth={5} fill="none" strokeLinecap="round" />,
     happy: <path d={`M -18 ${mY - 4} Q 0 ${mY + 20} 18 ${mY - 4} Z`} fill={ink} />,
     smug: <path d={`M -12 ${mY + 2} Q 4 ${mY + 8} 16 ${mY - 6}`} stroke={ink} strokeWidth={5} fill="none" strokeLinecap="round" />,
     shock: <ellipse cx={0} cy={mY + 4} rx={10} ry={14} fill={ink} />,
@@ -309,7 +349,55 @@ const Face: React.FC<{ expr: Expr; blink: number; look: number; glasses: number;
   );
 };
 
-export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?: Look }> = ({ pose, shadow = 1, rimId = 'rimR', look = LOOKS.pipHood }) => {
+export const Hero: React.FC<{ pose: any; shadow?: number; rimId?: string; look?: Look }> = ({
+  pose: inPose,
+  shadow = 1,
+  rimId = '',
+  look = LOOKS.pipHood,
+}) => {
+  const pAny = inPose || {};
+  const exprCandidate = pAny.expr ?? pAny.head?.expr ?? basePose.expr;
+  const validExprs = ['neutral', 'happy', 'smug', 'shock', 'worried', 'oops', 'cool', 'dizzy', 'tired'];
+  const safeExpr: Expr = (validExprs.includes(exprCandidate) ? exprCandidate : 'neutral') as Expr;
+
+  const lookVal =
+    typeof pAny.look === 'number'
+      ? pAny.look
+      : typeof pAny.head?.look?.x === 'number'
+      ? pAny.head.look.x
+      : typeof pAny.head?.look === 'number'
+      ? pAny.head.look
+      : basePose.look;
+
+  const headTiltVal = pAny.headTilt ?? pAny.head?.tilt ?? basePose.headTilt;
+
+  const facingVal: 1 | -1 = (pAny.facing === -1 || pAny.facing === 1) ? pAny.facing : basePose.facing;
+
+  const pose: Pose = {
+    ...basePose,
+    ...pAny,
+    x: typeof pAny.x === 'number' ? pAny.x : basePose.x,
+    y: typeof pAny.y === 'number' ? pAny.y : basePose.y,
+    scale: typeof pAny.scale === 'number' ? pAny.scale : basePose.scale,
+    facing: facingVal,
+    tilt: typeof pAny.tilt === 'number' ? pAny.tilt : basePose.tilt,
+    spin: typeof pAny.spin === 'number' ? pAny.spin : basePose.spin,
+    headTilt: typeof headTiltVal === 'number' ? headTiltVal : basePose.headTilt,
+    armL: { ...basePose.armL, ...(pAny.armL || {}) },
+    armR: { ...basePose.armR, ...(pAny.armR || {}) },
+    legL: { ...basePose.legL, ...(pAny.legL || {}) },
+    legR: { ...basePose.legR, ...(pAny.legR || {}) },
+    expr: safeExpr,
+    blink: typeof pAny.blink === 'number' ? pAny.blink : basePose.blink,
+    look: typeof lookVal === 'number' ? lookVal : basePose.look,
+    glasses: typeof pAny.glasses === 'number' ? pAny.glasses : basePose.glasses,
+    yaw: typeof pAny.yaw === 'number' ? pAny.yaw : (pAny.facing !== undefined ? pAny.facing * 0.4 : basePose.yaw),
+    squash: typeof pAny.squash === 'number' ? pAny.squash : basePose.squash,
+    handL: pAny.handL ?? basePose.handL,
+    handR: pAny.handR ?? basePose.handR,
+    sway: typeof pAny.sway === 'number' ? pAny.sway : basePose.sway,
+  };
+
   const j = joints(pose);
   const L = look;
   // limbs are light with a dark outline, so they read on the dark sets (navy limbs vanished on navy walls)
@@ -410,7 +498,7 @@ export const Hero: React.FC<{ pose: Pose; shadow?: number; rimId?: string; look?
   return (
     <g>
       {shadow > 0 ? <ellipse cx={pose.x} cy={pose.y + LEG_LEN * pose.scale + 10} rx={70 * pose.scale} ry={12 * pose.scale} fill="#000" opacity={0.25 * shadow} /> : null}
-      <g transform={`translate(${pose.x} ${pose.y}) scale(${pose.scale}) rotate(${pose.spin} 0 -90)`} filter={`url(#${rimId})`}>
+      <g transform={`translate(${pose.x} ${pose.y}) scale(${pose.scale}) rotate(${pose.spin} 0 -90)`} filter={rimId ? `url(#${rimId})` : undefined}>
         <g transform={`translate(0 ${LEG_LEN}) scale(${1 + 0.6 * pose.squash} ${1 - pose.squash}) translate(0 ${-LEG_LEN})`}>
           {/* the far side is drawn first, so a turned body overlaps itself the right way */}
           {pose.yaw < 0 ? <>{limb(j.legR, 12)}{shoe(j.legR)}{limb(j.legL, 12)}{shoe(j.legL)}</> : <>{limb(j.legL, 12)}{shoe(j.legL)}{limb(j.legR, 12)}{shoe(j.legR)}</>}

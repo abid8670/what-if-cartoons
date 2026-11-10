@@ -1,0 +1,393 @@
+{
+  "id": "OwnShadow",
+  "slug": "own-shadow",
+  "topic": "What if your shadow could move on its own?",
+  "title": [
+    "WHAT IF YOUR SHADOW",
+    "MOVED ON ITS OWN?"
+  ],
+  "accent": "MOVED",
+  "power": {
+    "word": "Wake.",
+    "rule": "one word and your shadow moves on its own; it can do anything you'd rather not",
+    "look": "a soft cyan rim tracing the free shadow's edge; a WAKE chip; the shadow's outline shudders like loose film"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (small and selfish)",
+      "text": "The dishes? Wake. It scrubs. You nap."
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "Wake. Homework too. Done."
+    },
+    {
+      "beat": "1 cold open, demo 3 (a little uncanny)",
+      "text": "Wave at Mo. Wake. It waves first."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "What if your shadow could move on its own?"
+    },
+    {
+      "beat": "4 the turn: the cost, one real fact",
+      "text": "One catch: a shadow can't outrun what makes it. The Moon's shadow crossed America in 90 minutes, faster than the Concorde ever flew. That's real."
+    },
+    {
+      "beat": "5-7 folded into a question",
+      "text": "So who's waving?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "A shadow can't outrun what makes it.",
+      "working": "A shadow edge exists only where light is being blocked, so it cannot outrun the light that draws it. Any change in a shadow - the edge jumping as the blocker or the lamp moves - propagates from the blocker at the speed of light, c = 299,792,458 m/s, the physical speed limit for anything that carries information. A shadow that moves ahead of its light isn't a shadow: the rule is what makes the cost real.",
+      "source": "geometrical optics (a shadow is the projection of the blocker's silhouette); special relativity (nothing carrying information exceeds c)"
+    },
+    {
+      "claim": "The Moon's shadow crossed America in 90 minutes, faster than the Concorde ever flew.",
+      "working": "The 21 August 2017 total solar eclipse: the Moon's umbra entered the United States at Madras, Oregon at about 17:19 UTC and left the coast near Charleston, South Carolina at about 18:49 UTC, roughly 90 minutes from coast to coast over a ground path of about 4,000 km. 4,000 km / 1.5 h is about 2,700 km/h on average (faster mid-track). Concorde cruised at about 2,180 km/h (Mach 2.05); even its record 30 June 1973 eclipse flight ran at about 2,150 km/h and held totality for 74 minutes. The ground shadow beat the fastest passenger jet ever flown.",
+      "source": "NASA, total solar eclipse of 21 August 2017; Concorde 001's solar-eclipse flight, 30 June 1973 (Mach 2.05, 74 minutes of totality)"
+    }
+  ],
+  "cast": [
+    "pipHood",
+    "mo"
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide",
+      "set": "kitchen",
+      "key": 30,
+      "note": "first light in the kitchen: Pip asleep on his feet behind the island; his shadow at the sink, free, scrubbing a plate in suds"
+    },
+    {
+      "id": "S2",
+      "size": "macro insert, high angle",
+      "set": "kitchen (sink)",
+      "key": 30,
+      "note": "top-down: the shadow's ink mitten scrubs a plate through the suds; the Wake pops a cyan ring"
+    },
+    {
+      "id": "S3",
+      "size": "medium",
+      "set": "study",
+      "key": 20,
+      "note": "Pip yawns at his desk at night; his shadow's ink arm leans in from the wall and writes his homework"
+    },
+    {
+      "id": "S4",
+      "size": "macro insert",
+      "set": "study (desk top)",
+      "key": 12,
+      "note": "the ink mitten writes the last line; a DONE tick pops on the sheet"
+    },
+    {
+      "id": "S5",
+      "size": "medium wide, low angle",
+      "set": "stairwell",
+      "key": 36,
+      "note": "Pip raises a wave at Mo on the stairs; the shadow's arm on the wall is up and waving first; Mo hesitates"
+    },
+    {
+      "id": "S6",
+      "size": "wide",
+      "set": "rooftop",
+      "key": 40,
+      "note": "the premise over the city at dusk; Pip small on the deck, his shadow beside him waving on its own"
+    },
+    {
+      "id": "S7",
+      "size": "macro insert",
+      "set": "rooftop",
+      "key": 40,
+      "note": "Pip's mitten hangs still; beside it the ink hand rises and waves on its own"
+    },
+    {
+      "id": "S8",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 40,
+      "note": "the umbra sweeps a coastline; 4,000 KM counting; a dial runs to 90:00"
+    },
+    {
+      "id": "S9",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 50,
+      "note": "ground speed 2,700 km/h vs CONCORDE 2,180; the shadow's lane finishes first; THAT'S REAL"
+    },
+    {
+      "id": "S10",
+      "size": "extreme close-up",
+      "set": "rooftop",
+      "key": 30,
+      "note": "Pip's worried face as the light reddens; behind his shoulder, out of focus, the ink hand waves"
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "dishes"
+    },
+    {
+      "shot": "S2",
+      "at": "scrubs",
+      "look": "wake"
+    },
+    {
+      "shot": "S3",
+      "at": "Wake"
+    },
+    {
+      "shot": "S4",
+      "at": "Done"
+    },
+    {
+      "shot": "S5",
+      "at": "Wave",
+      "look": "wake"
+    },
+    {
+      "shot": "S6",
+      "at": "What"
+    },
+    {
+      "shot": "S7",
+      "at": "One"
+    },
+    {
+      "shot": "S8",
+      "at": "Moon's"
+    },
+    {
+      "shot": "S9",
+      "at": "faster"
+    },
+    {
+      "shot": "S10",
+      "at": "who's"
+    }
+  ],
+  "tail": 1.0,
+  "fx": [
+    {
+      "at": "Wake+8",
+      "kind": "flash",
+      "color": "#DFF6FF",
+      "o": 0.25
+    },
+    {
+      "at": "Done+6",
+      "kind": "flash",
+      "color": "#DDF2FF",
+      "o": 0.4
+    },
+    {
+      "at": "Wake#3+14",
+      "kind": "flash",
+      "color": "#DFF6FF",
+      "o": 0.2
+    },
+    {
+      "at": "S6",
+      "kind": "flash",
+      "color": "#FFF3DC"
+    },
+    {
+      "at": "That's+2",
+      "kind": "flash",
+      "color": "#FF3344"
+    },
+    {
+      "at": "That's+2",
+      "kind": "shake",
+      "len": 10,
+      "amp": 8
+    }
+  ],
+  "sound": {
+    "clips": {
+      "dawn_birds": [
+        "a few birds chirping at first light, distant traffic, quiet street, no voices",
+        8.0
+      ],
+      "wake_swish": [
+        "a soft airy whoosh like a shadow sliding along a wall, short and curious",
+        0.8
+      ],
+      "dish_scrub": [
+        "a sponge scrubbing a ceramic plate in soapy water, squeak and bubbles, close",
+        1.4
+      ],
+      "pencil_scrawl": [
+        "a pencil scribbling quickly across paper, hasty strokes, short",
+        1.2
+      ],
+      "shadow_flick": [
+        "a dry papery flutter like a shadow flickering on a wall, unsettling, short",
+        1.0
+      ],
+      "music": [
+        "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+        17.0
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "power_hum": [
+        "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+        3.0
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "ding": [
+        "a correct answer ding, bright bell chime",
+        0.8
+      ],
+      "gasp": [
+        "two young people gasping in surprise at the same moment, cartoon, short",
+        0.8
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "dawn_birds",
+        0.06,
+        "onset",
+        "S6"
+      ],
+      [
+        "Wake#1+12",
+        "wake_swish",
+        0.36
+      ],
+      [
+        "nap+4",
+        "dish_scrub",
+        0.3
+      ],
+      [
+        "Wake#2+10",
+        "wake_swish",
+        0.36
+      ],
+      [
+        "too+3",
+        "pencil_scrawl",
+        0.24
+      ],
+      [
+        "Done+6",
+        "ding",
+        0.4
+      ],
+      [
+        "Mo+2",
+        "gasp",
+        0.22
+      ],
+      [
+        "Wake#3+14",
+        "wake_swish",
+        0.36,
+        "peak",
+        "f:210"
+      ],
+      [
+        "S6",
+        "title_boom",
+        0.28,
+        "peak"
+      ],
+      [
+        "S6",
+        "roof_wind",
+        0.16,
+        "onset"
+      ],
+      [
+        "One+2",
+        "shadow_flick",
+        0.22
+      ],
+      [
+        "One+2",
+        "power_hum",
+        0.12,
+        "onset",
+        "S10"
+      ],
+      [
+        "America+2",
+        "counter_tick",
+        0.16,
+        "onset",
+        "faster#1"
+      ],
+      [
+        "That's+6",
+        "drone_hit",
+        0.3
+      ],
+      [
+        "who's+8",
+        "shadow_flick",
+        0.25
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "nap+4",
+        "clip": "dish_scrub",
+        "n": 3,
+        "every": 9,
+        "gain": [
+          0.22,
+          0.3
+        ],
+        "pitch": [
+          0.92,
+          1.12
+        ],
+        "note": "the shadow keeps scrubbing through the wide"
+      },
+      {
+        "at": "too+3",
+        "clip": "pencil_scrawl",
+        "n": 2,
+        "every": 14,
+        "gain": [
+          0.18,
+          0.24
+        ],
+        "pitch": [
+          0.94,
+          1.1
+        ],
+        "note": "the shadow keeps writing"
+      }
+    ],
+    "music": {
+      "clip": "music",
+      "until": "S7"
+    },
+    "levels": {
+      "sfx_lu": -6.5,
+      "music_lu": -10.5
+    }
+  }
+}

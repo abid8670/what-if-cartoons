@@ -1,0 +1,30 @@
+{
+  "intro_mixed.wav": {
+    "duration": 3.5,
+    "frames": 105
+  },
+  "ch_1_mixed.wav": {
+    "duration": 29.472,
+    "frames": 884
+  },
+  "ch_2_mixed.wav": {
+    "duration": 30.983995,
+    "frames": 930
+  },
+  "ch_3_mixed.wav": {
+    "duration": 30.023995,
+    "frames": 901
+  },
+  "ch_4_mixed.wav": {
+    "duration": 26.01601,
+    "frames": 780
+  },
+  "ch_5_mixed.wav": {
+    "duration": 25.8,
+    "frames": 774
+  },
+  "short_mixed.wav": {
+    "duration": 38.97601,
+    "frames": 1169
+  }
+}

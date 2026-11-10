@@ -1,11 +1,11 @@
-﻿"""YouTube OAuth2 setup. Run once to get a refresh token.
+"""YouTube OAuth2 setup. Run once to get a refresh token.
 Usage: python auth.py
 Opens browser for authorization, saves token.json for reuse.
 """
 import json, os
 from google_auth_oauthlib.flow import InstalledAppFlow
 
-CLIENT_SECRET = r"D:\client_secret_574389904023-a3tp7jmohg1m5ia2llr7hl5iop78o08h.apps.googleusercontent.com.json"
+CLIENT_SECRET = r"D:\AI-Cartoons\youtube\client_secret.json"
 TOKEN_FILE = r"D:\AI-Cartoons\youtube\token.json"
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload",
           "https://www.googleapis.com/auth/youtube"]

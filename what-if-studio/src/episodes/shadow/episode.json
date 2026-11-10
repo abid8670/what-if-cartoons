@@ -1,0 +1,157 @@
+{
+ "id": "Shadow",
+ "slug": "shadow",
+ "topic": "What if your shadow could move on its own?",
+ "title": [
+  "WHAT IF YOUR SHADOW",
+  "MOVED ON ITS OWN?"
+ ],
+ "accent": "OWN?",
+ "power": {
+  "word": "Detach.",
+  "rule": "your shadow stands up off the wall and acts for you, on your command",
+  "look": "the picture sinks a stop while the DETACH chip blinks; the silhouette's edge ripples as it peels off"
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (small and selfish)",
+   "text": "Detach. Your shadow fetches the remote."
+  },
+  {
+   "beat": "1 cold open, demo 2 (useful)",
+   "text": "Detach. It flips the light off across the room."
+  },
+  {
+   "beat": "1 cold open, demo 3 (a little uncanny)",
+   "text": "Detach. It waves at Mo without being asked."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "What if your shadow could move on its own?"
+  },
+  {
+   "beat": "4 the turn: the cost, one real fact",
+   "text": "One catch: your shadow's just a hole in the light. On the Moon, its edge sweeps by at thirteen times light speed. That's real."
+  },
+  {
+   "beat": "5-7 folded into a question",
+   "text": "So where does it go at night?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "On the Moon, a shadow's edge sweeps by at thirteen times the speed of light.",
+   "working": "A tight beam behind you projects your silhouette onto the Moon (mean distance 384,400 km = 3.844e8 m). A quick wrist flick sweeps about 1 radian in 0.1 s, so the angle rate omega = 10 rad/s. The spot's edge moves at v = r * omega = 3.844e8 m * 10 rad/s = 3.84e9 m/s = 3.84e9 / 2.998e8 ≈ 12.8c. A quicker flick (0.05 s per radian) gives about 26c; 0.1 s is the conservative read, so 'thirteen times light speed' holds.",
+   "source": "NASA (mean Earth-Moon distance: 384,400 km); special relativity — the speed limit applies to matter and information; a shadow is the absence of photons, a spot that carries none, so no limit"
+  },
+  {
+   "claim": "Your shadow is just a hole in the light — not a thing.",
+   "working": "A shadow is the region the rays no longer reach: no photons, no mass, no energy of its own (weight 0). It exists only where a light source and a blocker agree.",
+   "source": "Physics of shadows: an absence of photons, not an object"
+  }
+ ],
+ "cast": [
+  "pipHood",
+  "mo"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 16,
+   "note": "night, lamp on: Pip sits up in bed and points at the dresser; the DETACH chip blinks"
+  },
+  {
+   "id": "S2",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 12,
+   "note": "his black silhouette peels off the floor and walks toward the dresser under the window"
+  },
+  {
+   "id": "S3",
+   "size": "top-down insert",
+   "set": "bedroom (dresser top)",
+   "key": 20,
+   "note": "the shadow's mitten lifts the remote off the dresser among the plant and the speaker"
+  },
+  {
+   "id": "S4",
+   "size": "medium wide, high angle",
+   "set": "bedroom",
+   "key": 26,
+   "note": "the shadow reaches the nightstand lamp and pulls it dark; the room falls to moonlight"
+  },
+  {
+   "id": "S5",
+   "size": "over the shoulder",
+   "set": "bedroom",
+   "key": 22,
+   "note": "Mo leans in at the lit doorway waving; the shadow on the floor waves back first"
+  },
+  {
+   "id": "S6",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 16,
+   "note": "Pip, uneasy in the moonlight, looks from the wave to Mo"
+  },
+  {
+   "id": "S7",
+   "size": "title, wide",
+   "set": "bedroom",
+   "key": 52,
+   "note": "the title over Pip and his shadow standing side by side on the moonlit floor"
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 56,
+   "note": "A SHADOW IS A HOLE IN THE LIGHT: rays part around a blocker icon; NO PHOTONS, NO MASS"
+  },
+  {
+   "id": "S9",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 76,
+   "note": "the beam lands on the Moon, 384,400 km; a hand flick sweeps 1 radian in 0.1 s; the counter climbs to 12.8x light speed"
+  },
+  {
+   "id": "S10",
+   "size": "extreme close-up",
+   "set": "bedroom",
+   "key": 16,
+   "note": "That's real: Pip, worried, the rims cooling toward red"
+  },
+  {
+   "id": "S11",
+   "size": "wide, low angle",
+   "set": "bedroom",
+   "key": 54,
+   "note": "the shadow, taller now, waves on its own behind still Pip, then walks out through the door and fades into the hall light"
+  }
+ ],
+ "edit": [
+  { "shot": "S1", "at": "Detach", "look": "shadow" },
+  { "shot": "S2", "at": "Your", "look": "shadow" },
+  { "shot": "S3", "at": "fetches", "look": "shadow" },
+  { "shot": "S4", "at": "Detach#1", "look": "shadow" },
+  { "shot": "S5", "at": "Detach#1", "look": "shadow" },
+  { "shot": "S6", "at": "asked" },
+  { "shot": "S7", "at": "What" },
+  { "shot": "S8", "at": "One" },
+  { "shot": "S9", "at": "Moon" },
+  { "shot": "S10", "at": "That's" },
+  { "shot": "S11", "at": "So" }
+ ],
+ "tail": 1.0,
+ "fx": [
+  { "at": "S2+6", "kind": "flash", "color": "#C9D4FF", "o": 0.3 },
+  { "at": "S4+46", "kind": "flash", "color": "#C9D4FF", "o": 0.3 },
+  { "at": "S7", "kind": "flash", "color": "#FFF3DC", "o": 0.35 },
+  { "at": "S11", "kind": "flash", "color": "#FF3344", "o": 0.4 },
+  { "at": "S11", "kind": "shake", "len": 10, "amp": 9 }
+ ]
+}

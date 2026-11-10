@@ -1,0 +1,226 @@
+{
+ "slug": "own-shadow",
+ "title": "WHAT IF YOUR SHADOW MOVED ON ITS OWN?",
+ "fps": 30,
+ "total": 585,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 52,
+   "t0": 0,
+   "t1": 52,
+   "line": "The dishes? Wake. It"
+  },
+  {
+   "shot": "S2",
+   "a": 52,
+   "b": 96,
+   "t0": 0,
+   "t1": 44,
+   "line": "scrubs. You nap.",
+   "look": "wake"
+  },
+  {
+   "shot": "S3",
+   "a": 96,
+   "b": 145,
+   "t0": 0,
+   "t1": 49,
+   "line": "Wake. Homework too."
+  },
+  {
+   "shot": "S4",
+   "a": 145,
+   "b": 161,
+   "t0": 0,
+   "t1": 16,
+   "line": "Done."
+  },
+  {
+   "shot": "S5",
+   "a": 161,
+   "b": 242,
+   "t0": 0,
+   "t1": 81,
+   "line": "Wave at Mo. Wake. It waves first.",
+   "look": "wake"
+  },
+  {
+   "shot": "S6",
+   "a": 242,
+   "b": 302,
+   "t0": 0,
+   "t1": 60,
+   "line": "What if your shadow could move on its own?"
+  },
+  {
+   "shot": "S7",
+   "a": 302,
+   "b": 391,
+   "t0": 0,
+   "t1": 89,
+   "line": "One catch: a shadow can't outrun what makes it. The"
+  },
+  {
+   "shot": "S8",
+   "a": 391,
+   "b": 459,
+   "t0": 0,
+   "t1": 68,
+   "line": "Moon's shadow crossed America in 90 minutes,"
+  },
+  {
+   "shot": "S9",
+   "a": 459,
+   "b": 538,
+   "t0": 0,
+   "t1": 79,
+   "line": "faster than the Concorde ever flew. That's real. So"
+  },
+  {
+   "shot": "S10",
+   "a": 538,
+   "b": 585,
+   "t0": 0,
+   "t1": 47,
+   "line": "who's waving?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 30,
+   "len": 52,
+   "first": 0,
+   "line": "The dishes? Wake. It",
+   "note": "first light in the kitchen: Pip asleep on his feet behind the island; his shadow at the sink, free, scrubbing a plate in suds"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 30,
+   "len": 44,
+   "first": 52,
+   "line": "scrubs. You nap.",
+   "note": "top-down: the shadow's ink mitten scrubs a plate through the suds; the Wake pops a cyan ring"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 20,
+   "len": 49,
+   "first": 96,
+   "line": "Wake. Homework too.",
+   "note": "Pip yawns at his desk at night; his shadow's ink arm leans in from the wall and writes his homework"
+  },
+  {
+   "id": "S4",
+   "size": "macro insert",
+   "key": 12,
+   "len": 16,
+   "first": 145,
+   "line": "Done.",
+   "note": "the ink mitten writes the last line; a DONE tick pops on the sheet"
+  },
+  {
+   "id": "S5",
+   "size": "medium wide, low angle",
+   "key": 36,
+   "len": 81,
+   "first": 161,
+   "line": "Wave at Mo. Wake. It waves first.",
+   "note": "Pip raises a wave at Mo on the stairs; the shadow's arm on the wall is up and waving first; Mo hesitates"
+  },
+  {
+   "id": "S6",
+   "size": "wide",
+   "key": 40,
+   "len": 60,
+   "first": 242,
+   "line": "What if your shadow could move on its own?",
+   "note": "the premise over the city at dusk; Pip small on the deck, his shadow beside him waving on its own"
+  },
+  {
+   "id": "S7",
+   "size": "macro insert",
+   "key": 40,
+   "len": 89,
+   "first": 302,
+   "line": "One catch: a shadow can't outrun what makes it. The",
+   "note": "Pip's mitten hangs still; beside it the ink hand rises and waves on its own"
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "key": 40,
+   "len": 68,
+   "first": 391,
+   "line": "Moon's shadow crossed America in 90 minutes,",
+   "note": "the umbra sweeps a coastline; 4,000 KM counting; a dial runs to 90:00"
+  },
+  {
+   "id": "S9",
+   "size": "schematic",
+   "key": 50,
+   "len": 79,
+   "first": 459,
+   "line": "faster than the Concorde ever flew. That's real. So",
+   "note": "ground speed 2,700 km/h vs CONCORDE 2,180; the shadow's lane finishes first; THAT'S REAL"
+  },
+  {
+   "id": "S10",
+   "size": "extreme close-up",
+   "key": 30,
+   "len": 47,
+   "first": 538,
+   "line": "who's waving?",
+   "note": "Pip's worried face as the light reddens; behind his shoulder, out of focus, the ink hand waves"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DFF6FF",
+   "o": 0.25,
+   "f": 37
+  },
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.4,
+   "f": 153
+  },
+  {
+   "kind": "flash",
+   "color": "#DFF6FF",
+   "o": 0.2,
+   "f": 203
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 242
+  },
+  {
+   "kind": "flash",
+   "color": "#FF3344",
+   "f": 514
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 8,
+   "f": 514
+  }
+ ],
+ "audio": {
+  "voice": "own-shadow/voice.wav",
+  "sfx": "own-shadow/sfx.wav",
+  "voiceVol": 0.8,
+  "sfxVol": 0.2033,
+  "music": "own-shadow/music.wav",
+  "musicVol": 0.1043
+ }
+}

@@ -1,0 +1,2852 @@
+{
+  "ch_1": {
+    "duration_sec": 38.9,
+    "frames": 1182,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "When"
+      },
+      {
+        "t": 0.31,
+        "word": "you"
+      },
+      {
+        "t": 0.4,
+        "word": "picture"
+      },
+      {
+        "t": 0.73,
+        "word": "the"
+      },
+      {
+        "t": 0.84,
+        "word": "Stone"
+      },
+      {
+        "t": 1.17,
+        "word": "Age"
+      },
+      {
+        "t": 1.85,
+        "word": "you"
+      },
+      {
+        "t": 1.93,
+        "word": "probably"
+      },
+      {
+        "t": 2.48,
+        "word": "imagine"
+      },
+      {
+        "t": 2.93,
+        "word": "cold"
+      },
+      {
+        "t": 3.77,
+        "word": "shivering"
+      },
+      {
+        "t": 4.23,
+        "word": "humans"
+      },
+      {
+        "t": 4.77,
+        "word": "running"
+      },
+      {
+        "t": 5.1,
+        "word": "for"
+      },
+      {
+        "t": 5.22,
+        "word": "their"
+      },
+      {
+        "t": 5.44,
+        "word": "lives"
+      },
+      {
+        "t": 5.95,
+        "word": "from"
+      },
+      {
+        "t": 6.18,
+        "word": "massive"
+      },
+      {
+        "t": 6.64,
+        "word": "saber-toothed"
+      },
+      {
+        "t": 7.37,
+        "word": "tigers"
+      },
+      {
+        "t": 8.26,
+        "word": "surviving"
+      },
+      {
+        "t": 8.79,
+        "word": "on"
+      },
+      {
+        "t": 8.98,
+        "word": "raw"
+      },
+      {
+        "t": 9.19,
+        "word": "dirt"
+      },
+      {
+        "t": 9.68,
+        "word": "and"
+      },
+      {
+        "t": 9.85,
+        "word": "pure"
+      },
+      {
+        "t": 10.22,
+        "word": "terror"
+      },
+      {
+        "t": 11.02,
+        "word": "But"
+      },
+      {
+        "t": 11.41,
+        "word": "anthropology"
+      },
+      {
+        "t": 12.21,
+        "word": "reveals"
+      },
+      {
+        "t": 12.65,
+        "word": "a"
+      },
+      {
+        "t": 12.71,
+        "word": "shocking"
+      },
+      {
+        "t": 13.17,
+        "word": "secret"
+      },
+      {
+        "t": 14.04,
+        "word": "Prehistoric"
+      },
+      {
+        "t": 14.8,
+        "word": "humans"
+      },
+      {
+        "t": 15.33,
+        "word": "actually"
+      },
+      {
+        "t": 15.83,
+        "word": "worked"
+      },
+      {
+        "t": 16.17,
+        "word": "LESS"
+      },
+      {
+        "t": 16.45,
+        "word": "than"
+      },
+      {
+        "t": 16.59,
+        "word": "you"
+      },
+      {
+        "t": 16.71,
+        "word": "do"
+      },
+      {
+        "t": 16.87,
+        "word": "today"
+      },
+      {
+        "t": 17.67,
+        "word": "While"
+      },
+      {
+        "t": 17.97,
+        "word": "you"
+      },
+      {
+        "t": 18.11,
+        "word": "slave"
+      },
+      {
+        "t": 18.45,
+        "word": "away"
+      },
+      {
+        "t": 18.72,
+        "word": "forty"
+      },
+      {
+        "t": 19.08,
+        "word": "to"
+      },
+      {
+        "t": 19.2,
+        "word": "sixty"
+      },
+      {
+        "t": 19.64,
+        "word": "hours"
+      },
+      {
+        "t": 19.95,
+        "word": "a"
+      },
+      {
+        "t": 20.03,
+        "word": "week"
+      },
+      {
+        "t": 20.35,
+        "word": "at"
+      },
+      {
+        "t": 20.45,
+        "word": "an"
+      },
+      {
+        "t": 20.57,
+        "word": "office"
+      },
+      {
+        "t": 20.94,
+        "word": "desk"
+      },
+      {
+        "t": 21.74,
+        "word": "hunter-gatherers"
+      },
+      {
+        "t": 22.49,
+        "word": "secured"
+      },
+      {
+        "t": 23.14,
+        "word": "all"
+      },
+      {
+        "t": 23.31,
+        "word": "their"
+      },
+      {
+        "t": 23.48,
+        "word": "food"
+      },
+      {
+        "t": 23.82,
+        "word": "in"
+      },
+      {
+        "t": 24.07,
+        "word": "just"
+      },
+      {
+        "t": 24.35,
+        "word": "fifteen"
+      },
+      {
+        "t": 24.93,
+        "word": "to"
+      },
+      {
+        "t": 25.03,
+        "word": "twenty"
+      },
+      {
+        "t": 25.37,
+        "word": "hours"
+      },
+      {
+        "t": 25.63,
+        "word": "a"
+      },
+      {
+        "t": 25.69,
+        "word": "week"
+      },
+      {
+        "t": 26.45,
+        "word": "That"
+      },
+      {
+        "t": 26.71,
+        "word": "left"
+      },
+      {
+        "t": 26.96,
+        "word": "them"
+      },
+      {
+        "t": 27.15,
+        "word": "with"
+      },
+      {
+        "t": 27.32,
+        "word": "four"
+      },
+      {
+        "t": 27.73,
+        "word": "to"
+      },
+      {
+        "t": 27.84,
+        "word": "six"
+      },
+      {
+        "t": 28.21,
+        "word": "hours"
+      },
+      {
+        "t": 28.58,
+        "word": "of"
+      },
+      {
+        "t": 28.7,
+        "word": "pure"
+      },
+      {
+        "t": 29.5,
+        "word": "uninterrupted"
+      },
+      {
+        "t": 30.21,
+        "word": "free"
+      },
+      {
+        "t": 30.51,
+        "word": "time"
+      },
+      {
+        "t": 31.11,
+        "word": "every"
+      },
+      {
+        "t": 31.42,
+        "word": "single"
+      },
+      {
+        "t": 31.75,
+        "word": "day"
+      },
+      {
+        "t": 32.48,
+        "word": "No"
+      },
+      {
+        "t": 32.77,
+        "word": "smartphones"
+      },
+      {
+        "t": 33.62,
+        "word": "no"
+      },
+      {
+        "t": 33.87,
+        "word": "electricity"
+      },
+      {
+        "t": 34.72,
+        "word": "no"
+      },
+      {
+        "t": 34.93,
+        "word": "Netflix"
+      },
+      {
+        "t": 35.91,
+        "word": "So"
+      },
+      {
+        "t": 36.96,
+        "word": "what"
+      },
+      {
+        "t": 37.1,
+        "word": "on"
+      },
+      {
+        "t": 37.27,
+        "word": "earth"
+      },
+      {
+        "t": 37.47,
+        "word": "did"
+      },
+      {
+        "t": 37.6,
+        "word": "they"
+      },
+      {
+        "t": 37.72,
+        "word": "do"
+      },
+      {
+        "t": 37.93,
+        "word": "for"
+      },
+      {
+        "t": 38.06,
+        "word": "pleasure"
+      }
+    ]
+  },
+  "ch_2": {
+    "duration_sec": 47.3,
+    "frames": 1434,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "First"
+      },
+      {
+        "t": 0.49,
+        "word": "up"
+      },
+      {
+        "t": 1.01,
+        "word": "getting"
+      },
+      {
+        "t": 1.29,
+        "word": "buzzed"
+      },
+      {
+        "t": 2.11,
+        "word": "Humans"
+      },
+      {
+        "t": 2.61,
+        "word": "did"
+      },
+      {
+        "t": 2.78,
+        "word": "not"
+      },
+      {
+        "t": 3.08,
+        "word": "invent"
+      },
+      {
+        "t": 3.47,
+        "word": "alcohol"
+      },
+      {
+        "t": 4.02,
+        "word": "in"
+      },
+      {
+        "t": 4.14,
+        "word": "a"
+      },
+      {
+        "t": 4.21,
+        "word": "lab"
+      },
+      {
+        "t": 4.99,
+        "word": "nature"
+      },
+      {
+        "t": 5.39,
+        "word": "handed"
+      },
+      {
+        "t": 5.69,
+        "word": "it"
+      },
+      {
+        "t": 5.8,
+        "word": "to"
+      },
+      {
+        "t": 5.9,
+        "word": "them"
+      },
+      {
+        "t": 6.13,
+        "word": "on"
+      },
+      {
+        "t": 6.28,
+        "word": "a"
+      },
+      {
+        "t": 6.34,
+        "word": "silver"
+      },
+      {
+        "t": 6.77,
+        "word": "platter"
+      },
+      {
+        "t": 7.61,
+        "word": "Tens"
+      },
+      {
+        "t": 7.96,
+        "word": "of"
+      },
+      {
+        "t": 8.07,
+        "word": "thousands"
+      },
+      {
+        "t": 8.53,
+        "word": "of"
+      },
+      {
+        "t": 8.61,
+        "word": "years"
+      },
+      {
+        "t": 8.91,
+        "word": "ago"
+      },
+      {
+        "t": 9.65,
+        "word": "prehistoric"
+      },
+      {
+        "t": 10.39,
+        "word": "foragers"
+      },
+      {
+        "t": 11.02,
+        "word": "stumbled"
+      },
+      {
+        "t": 11.48,
+        "word": "upon"
+      },
+      {
+        "t": 11.82,
+        "word": "wild"
+      },
+      {
+        "t": 12.21,
+        "word": "berries"
+      },
+      {
+        "t": 12.85,
+        "word": "and"
+      },
+      {
+        "t": 13.12,
+        "word": "rotting"
+      },
+      {
+        "t": 13.47,
+        "word": "tree"
+      },
+      {
+        "t": 13.7,
+        "word": "fruit"
+      },
+      {
+        "t": 14.05,
+        "word": "that"
+      },
+      {
+        "t": 14.18,
+        "word": "had"
+      },
+      {
+        "t": 14.38,
+        "word": "naturally"
+      },
+      {
+        "t": 14.95,
+        "word": "fermented"
+      },
+      {
+        "t": 15.49,
+        "word": "in"
+      },
+      {
+        "t": 15.56,
+        "word": "the"
+      },
+      {
+        "t": 15.64,
+        "word": "sun"
+      },
+      {
+        "t": 16.41,
+        "word": "Curious"
+      },
+      {
+        "t": 16.96,
+        "word": "cavemen"
+      },
+      {
+        "t": 17.42,
+        "word": "took"
+      },
+      {
+        "t": 17.59,
+        "word": "a"
+      },
+      {
+        "t": 17.67,
+        "word": "bite"
+      },
+      {
+        "t": 18.25,
+        "word": "and"
+      },
+      {
+        "t": 18.46,
+        "word": "suddenly"
+      },
+      {
+        "t": 18.92,
+        "word": "the"
+      },
+      {
+        "t": 19.03,
+        "word": "cave"
+      },
+      {
+        "t": 19.37,
+        "word": "walls"
+      },
+      {
+        "t": 19.73,
+        "word": "were"
+      },
+      {
+        "t": 19.88,
+        "word": "spinning"
+      },
+      {
+        "t": 20.34,
+        "word": "in"
+      },
+      {
+        "t": 20.43,
+        "word": "the"
+      },
+      {
+        "t": 20.55,
+        "word": "best"
+      },
+      {
+        "t": 20.92,
+        "word": "way"
+      },
+      {
+        "t": 21.03,
+        "word": "possible"
+      },
+      {
+        "t": 22.03,
+        "word": "In"
+      },
+      {
+        "t": 22.26,
+        "word": "China"
+      },
+      {
+        "t": 23.05,
+        "word": "archaeologists"
+      },
+      {
+        "t": 23.96,
+        "word": "discovered"
+      },
+      {
+        "t": 24.5,
+        "word": "nine-thousand-year-old"
+      },
+      {
+        "t": 25.63,
+        "word": "pottery"
+      },
+      {
+        "t": 26.03,
+        "word": "jars"
+      },
+      {
+        "t": 26.49,
+        "word": "at"
+      },
+      {
+        "t": 26.65,
+        "word": "Jiahu"
+      },
+      {
+        "t": 27.15,
+        "word": "packed"
+      },
+      {
+        "t": 27.54,
+        "word": "with"
+      },
+      {
+        "t": 27.7,
+        "word": "residue"
+      },
+      {
+        "t": 28.18,
+        "word": "of"
+      },
+      {
+        "t": 28.33,
+        "word": "the"
+      },
+      {
+        "t": 28.45,
+        "word": "world's"
+      },
+      {
+        "t": 28.93,
+        "word": "oldest"
+      },
+      {
+        "t": 29.29,
+        "word": "known"
+      },
+      {
+        "t": 29.53,
+        "word": "cocktail"
+      },
+      {
+        "t": 30.5,
+        "word": "fermented"
+      },
+      {
+        "t": 30.97,
+        "word": "rice"
+      },
+      {
+        "t": 31.71,
+        "word": "wild"
+      },
+      {
+        "t": 32.13,
+        "word": "honey"
+      },
+      {
+        "t": 32.62,
+        "word": "and"
+      },
+      {
+        "t": 32.89,
+        "word": "hawthorn"
+      },
+      {
+        "t": 33.44,
+        "word": "fruit"
+      },
+      {
+        "t": 34.2,
+        "word": "And"
+      },
+      {
+        "t": 34.43,
+        "word": "at"
+      },
+      {
+        "t": 34.53,
+        "word": "the"
+      },
+      {
+        "t": 34.59,
+        "word": "eleven-thousand-year-old"
+      },
+      {
+        "t": 35.74,
+        "word": "temple"
+      },
+      {
+        "t": 36.08,
+        "word": "of"
+      },
+      {
+        "t": 36.2,
+        "word": "Gobekli"
+      },
+      {
+        "t": 36.75,
+        "word": "Tepe"
+      },
+      {
+        "t": 37.54,
+        "word": "researchers"
+      },
+      {
+        "t": 38.28,
+        "word": "uncovered"
+      },
+      {
+        "t": 38.85,
+        "word": "massive"
+      },
+      {
+        "t": 39.33,
+        "word": "stone"
+      },
+      {
+        "t": 39.71,
+        "word": "vats"
+      },
+      {
+        "t": 40.05,
+        "word": "capable"
+      },
+      {
+        "t": 40.54,
+        "word": "of"
+      },
+      {
+        "t": 40.71,
+        "word": "brewing"
+      },
+      {
+        "t": 41.13,
+        "word": "forty"
+      },
+      {
+        "t": 41.51,
+        "word": "gallons"
+      },
+      {
+        "t": 42.03,
+        "word": "of"
+      },
+      {
+        "t": 42.19,
+        "word": "primitive"
+      },
+      {
+        "t": 42.65,
+        "word": "beer"
+      },
+      {
+        "t": 43.39,
+        "word": "Ancient"
+      },
+      {
+        "t": 43.84,
+        "word": "humans"
+      },
+      {
+        "t": 44.26,
+        "word": "were"
+      },
+      {
+        "t": 44.39,
+        "word": "throwing"
+      },
+      {
+        "t": 44.92,
+        "word": "wild"
+      },
+      {
+        "t": 45.34,
+        "word": "prehistoric"
+      },
+      {
+        "t": 46.18,
+        "word": "block"
+      },
+      {
+        "t": 46.43,
+        "word": "parties"
+      }
+    ]
+  },
+  "ch_3": {
+    "duration_sec": 51.48,
+    "frames": 1559,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "Now"
+      },
+      {
+        "t": 0.51,
+        "word": "let"
+      },
+      {
+        "t": 0.68,
+        "word": "us"
+      },
+      {
+        "t": 0.82,
+        "word": "talk"
+      },
+      {
+        "t": 1.05,
+        "word": "about"
+      },
+      {
+        "t": 1.27,
+        "word": "the"
+      },
+      {
+        "t": 1.37,
+        "word": "birds"
+      },
+      {
+        "t": 2.14,
+        "word": "the"
+      },
+      {
+        "t": 2.25,
+        "word": "bees"
+      },
+      {
+        "t": 2.84,
+        "word": "and"
+      },
+      {
+        "t": 3.06,
+        "word": "the"
+      },
+      {
+        "t": 3.16,
+        "word": "cave"
+      },
+      {
+        "t": 3.5,
+        "word": "bears"
+      },
+      {
+        "t": 4.33,
+        "word": "Without"
+      },
+      {
+        "t": 4.76,
+        "word": "birth"
+      },
+      {
+        "t": 5.05,
+        "word": "control"
+      },
+      {
+        "t": 5.67,
+        "word": "or"
+      },
+      {
+        "t": 5.86,
+        "word": "dating"
+      },
+      {
+        "t": 6.19,
+        "word": "apps"
+      },
+      {
+        "t": 6.93,
+        "word": "prehistoric"
+      },
+      {
+        "t": 7.63,
+        "word": "romance"
+      },
+      {
+        "t": 8.21,
+        "word": "was"
+      },
+      {
+        "t": 8.46,
+        "word": "deeply"
+      },
+      {
+        "t": 8.88,
+        "word": "primal"
+      },
+      {
+        "t": 9.49,
+        "word": "and"
+      },
+      {
+        "t": 9.7,
+        "word": "surprisingly"
+      },
+      {
+        "t": 10.43,
+        "word": "creative"
+      },
+      {
+        "t": 11.42,
+        "word": "Anthropologists"
+      },
+      {
+        "t": 12.44,
+        "word": "found"
+      },
+      {
+        "t": 12.74,
+        "word": "that"
+      },
+      {
+        "t": 13.04,
+        "word": "ancient"
+      },
+      {
+        "t": 13.39,
+        "word": "humans"
+      },
+      {
+        "t": 13.86,
+        "word": "used"
+      },
+      {
+        "t": 14.2,
+        "word": "all"
+      },
+      {
+        "t": 14.42,
+        "word": "kinds"
+      },
+      {
+        "t": 14.86,
+        "word": "of"
+      },
+      {
+        "t": 14.97,
+        "word": "natural"
+      },
+      {
+        "t": 15.43,
+        "word": "aphrodisiacs"
+      },
+      {
+        "t": 16.55,
+        "word": "from"
+      },
+      {
+        "t": 16.77,
+        "word": "wild"
+      },
+      {
+        "t": 17.23,
+        "word": "ginger"
+      },
+      {
+        "t": 17.88,
+        "word": "and"
+      },
+      {
+        "t": 18.06,
+        "word": "crushed"
+      },
+      {
+        "t": 18.51,
+        "word": "beetle"
+      },
+      {
+        "t": 18.8,
+        "word": "shells"
+      },
+      {
+        "t": 19.25,
+        "word": "to"
+      },
+      {
+        "t": 19.43,
+        "word": "rare"
+      },
+      {
+        "t": 19.78,
+        "word": "mountain"
+      },
+      {
+        "t": 20.15,
+        "word": "herbs"
+      },
+      {
+        "t": 20.98,
+        "word": "Even"
+      },
+      {
+        "t": 21.31,
+        "word": "more"
+      },
+      {
+        "t": 21.53,
+        "word": "fascinating"
+      },
+      {
+        "t": 22.48,
+        "word": "the"
+      },
+      {
+        "t": 22.61,
+        "word": "world's"
+      },
+      {
+        "t": 23.1,
+        "word": "oldest"
+      },
+      {
+        "t": 23.47,
+        "word": "musical"
+      },
+      {
+        "t": 23.88,
+        "word": "instrument"
+      },
+      {
+        "t": 24.56,
+        "word": "ever"
+      },
+      {
+        "t": 24.81,
+        "word": "found"
+      },
+      {
+        "t": 25.22,
+        "word": "is"
+      },
+      {
+        "t": 25.33,
+        "word": "a"
+      },
+      {
+        "t": 25.43,
+        "word": "forty-thousand-year-old"
+      },
+      {
+        "t": 26.64,
+        "word": "flute"
+      },
+      {
+        "t": 27.06,
+        "word": "carved"
+      },
+      {
+        "t": 27.42,
+        "word": "from"
+      },
+      {
+        "t": 27.61,
+        "word": "the"
+      },
+      {
+        "t": 27.7,
+        "word": "hollow"
+      },
+      {
+        "t": 28.1,
+        "word": "wing"
+      },
+      {
+        "t": 28.34,
+        "word": "bone"
+      },
+      {
+        "t": 28.68,
+        "word": "of"
+      },
+      {
+        "t": 28.79,
+        "word": "a"
+      },
+      {
+        "t": 28.87,
+        "word": "giant"
+      },
+      {
+        "t": 29.3,
+        "word": "vulture"
+      },
+      {
+        "t": 30.16,
+        "word": "discovered"
+      },
+      {
+        "t": 30.71,
+        "word": "in"
+      },
+      {
+        "t": 30.83,
+        "word": "Hohle"
+      },
+      {
+        "t": 31.11,
+        "word": "Fels"
+      },
+      {
+        "t": 31.48,
+        "word": "cave"
+      },
+      {
+        "t": 31.82,
+        "word": "in"
+      },
+      {
+        "t": 31.93,
+        "word": "Germany"
+      },
+      {
+        "t": 32.8,
+        "word": "Yes"
+      },
+      {
+        "t": 33.63,
+        "word": "ancient"
+      },
+      {
+        "t": 33.96,
+        "word": "cavemen"
+      },
+      {
+        "t": 34.48,
+        "word": "literally"
+      },
+      {
+        "t": 34.9,
+        "word": "played"
+      },
+      {
+        "t": 35.24,
+        "word": "romantic"
+      },
+      {
+        "t": 35.73,
+        "word": "serenades"
+      },
+      {
+        "t": 36.38,
+        "word": "by"
+      },
+      {
+        "t": 36.54,
+        "word": "the"
+      },
+      {
+        "t": 36.65,
+        "word": "campfire"
+      },
+      {
+        "t": 37.27,
+        "word": "to"
+      },
+      {
+        "t": 37.39,
+        "word": "seduce"
+      },
+      {
+        "t": 37.84,
+        "word": "potential"
+      },
+      {
+        "t": 38.35,
+        "word": "partners"
+      },
+      {
+        "t": 39.26,
+        "word": "And"
+      },
+      {
+        "t": 39.5,
+        "word": "sculpted"
+      },
+      {
+        "t": 39.98,
+        "word": "Venus"
+      },
+      {
+        "t": 40.33,
+        "word": "figurines"
+      },
+      {
+        "t": 41.19,
+        "word": "shell"
+      },
+      {
+        "t": 41.49,
+        "word": "necklaces"
+      },
+      {
+        "t": 42.23,
+        "word": "and"
+      },
+      {
+        "t": 42.48,
+        "word": "bright"
+      },
+      {
+        "t": 42.87,
+        "word": "red"
+      },
+      {
+        "t": 43.13,
+        "word": "ochre"
+      },
+      {
+        "t": 43.45,
+        "word": "body"
+      },
+      {
+        "t": 43.78,
+        "word": "paint"
+      },
+      {
+        "t": 44.05,
+        "word": "prove"
+      },
+      {
+        "t": 44.44,
+        "word": "that"
+      },
+      {
+        "t": 44.69,
+        "word": "looking"
+      },
+      {
+        "t": 44.99,
+        "word": "attractive"
+      },
+      {
+        "t": 45.66,
+        "word": "and"
+      },
+      {
+        "t": 45.86,
+        "word": "feeling"
+      },
+      {
+        "t": 46.29,
+        "word": "desirable"
+      },
+      {
+        "t": 46.89,
+        "word": "has"
+      },
+      {
+        "t": 47.11,
+        "word": "been"
+      },
+      {
+        "t": 47.3,
+        "word": "hardwired"
+      },
+      {
+        "t": 47.93,
+        "word": "into"
+      },
+      {
+        "t": 48.14,
+        "word": "human"
+      },
+      {
+        "t": 48.5,
+        "word": "psychology"
+      },
+      {
+        "t": 49.24,
+        "word": "for"
+      },
+      {
+        "t": 49.41,
+        "word": "hundreds"
+      },
+      {
+        "t": 49.88,
+        "word": "of"
+      },
+      {
+        "t": 50.0,
+        "word": "thousands"
+      },
+      {
+        "t": 50.54,
+        "word": "of"
+      },
+      {
+        "t": 50.61,
+        "word": "years"
+      }
+    ]
+  },
+  "ch_4": {
+    "duration_sec": 44.28,
+    "frames": 1343,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "Long"
+      },
+      {
+        "t": 0.45,
+        "word": "before"
+      },
+      {
+        "t": 0.77,
+        "word": "PlayStation"
+      },
+      {
+        "t": 1.53,
+        "word": "or"
+      },
+      {
+        "t": 1.75,
+        "word": "poker"
+      },
+      {
+        "t": 2.47,
+        "word": "ancient"
+      },
+      {
+        "t": 2.78,
+        "word": "humans"
+      },
+      {
+        "t": 3.22,
+        "word": "were"
+      },
+      {
+        "t": 3.38,
+        "word": "hopelessly"
+      },
+      {
+        "t": 3.93,
+        "word": "addicted"
+      },
+      {
+        "t": 4.31,
+        "word": "to"
+      },
+      {
+        "t": 4.42,
+        "word": "games"
+      },
+      {
+        "t": 5.3,
+        "word": "Archaeologists"
+      },
+      {
+        "t": 6.25,
+        "word": "have"
+      },
+      {
+        "t": 6.42,
+        "word": "dug"
+      },
+      {
+        "t": 6.7,
+        "word": "up"
+      },
+      {
+        "t": 6.87,
+        "word": "five-thousand-year-old"
+      },
+      {
+        "t": 8.01,
+        "word": "animal"
+      },
+      {
+        "t": 8.44,
+        "word": "knucklebones"
+      },
+      {
+        "t": 9.41,
+        "word": "known"
+      },
+      {
+        "t": 9.73,
+        "word": "as"
+      },
+      {
+        "t": 9.86,
+        "word": "astragaloi"
+      },
+      {
+        "t": 10.97,
+        "word": "from"
+      },
+      {
+        "t": 11.19,
+        "word": "prehistoric"
+      },
+      {
+        "t": 12.0,
+        "word": "sites"
+      },
+      {
+        "t": 12.48,
+        "word": "worldwide"
+      },
+      {
+        "t": 13.5,
+        "word": "Because"
+      },
+      {
+        "t": 13.88,
+        "word": "these"
+      },
+      {
+        "t": 14.19,
+        "word": "ankle"
+      },
+      {
+        "t": 14.5,
+        "word": "bones"
+      },
+      {
+        "t": 14.81,
+        "word": "have"
+      },
+      {
+        "t": 15.03,
+        "word": "four"
+      },
+      {
+        "t": 15.4,
+        "word": "distinct"
+      },
+      {
+        "t": 15.85,
+        "word": "sides"
+      },
+      {
+        "t": 16.24,
+        "word": "when"
+      },
+      {
+        "t": 16.38,
+        "word": "tossed"
+      },
+      {
+        "t": 17.31,
+        "word": "ancient"
+      },
+      {
+        "t": 17.63,
+        "word": "tribes"
+      },
+      {
+        "t": 18.01,
+        "word": "used"
+      },
+      {
+        "t": 18.27,
+        "word": "them"
+      },
+      {
+        "t": 18.5,
+        "word": "as"
+      },
+      {
+        "t": 18.65,
+        "word": "the"
+      },
+      {
+        "t": 18.81,
+        "word": "earliest"
+      },
+      {
+        "t": 19.35,
+        "word": "dice"
+      },
+      {
+        "t": 20.15,
+        "word": "betting"
+      },
+      {
+        "t": 20.45,
+        "word": "their"
+      },
+      {
+        "t": 20.63,
+        "word": "precious"
+      },
+      {
+        "t": 21.13,
+        "word": "flint"
+      },
+      {
+        "t": 21.41,
+        "word": "arrowheads"
+      },
+      {
+        "t": 22.33,
+        "word": "animal"
+      },
+      {
+        "t": 22.72,
+        "word": "pelts"
+      },
+      {
+        "t": 23.1,
+        "word": "and"
+      },
+      {
+        "t": 23.41,
+        "word": "dried"
+      },
+      {
+        "t": 23.78,
+        "word": "meat"
+      },
+      {
+        "t": 23.98,
+        "word": "on"
+      },
+      {
+        "t": 24.2,
+        "word": "lucky"
+      },
+      {
+        "t": 24.52,
+        "word": "rolls"
+      },
+      {
+        "t": 25.43,
+        "word": "In"
+      },
+      {
+        "t": 25.63,
+        "word": "the"
+      },
+      {
+        "t": 25.75,
+        "word": "ancient"
+      },
+      {
+        "t": 26.12,
+        "word": "city"
+      },
+      {
+        "t": 26.4,
+        "word": "of"
+      },
+      {
+        "t": 26.47,
+        "word": "Ur"
+      },
+      {
+        "t": 27.33,
+        "word": "royals"
+      },
+      {
+        "t": 27.71,
+        "word": "played"
+      },
+      {
+        "t": 27.96,
+        "word": "the"
+      },
+      {
+        "t": 28.1,
+        "word": "legendary"
+      },
+      {
+        "t": 28.69,
+        "word": "Royal"
+      },
+      {
+        "t": 29.01,
+        "word": "Game"
+      },
+      {
+        "t": 29.31,
+        "word": "of"
+      },
+      {
+        "t": 29.43,
+        "word": "Ur"
+      },
+      {
+        "t": 29.97,
+        "word": "on"
+      },
+      {
+        "t": 30.15,
+        "word": "gorgeous"
+      },
+      {
+        "t": 30.61,
+        "word": "mosaic"
+      },
+      {
+        "t": 31.09,
+        "word": "boards"
+      },
+      {
+        "t": 31.89,
+        "word": "a"
+      },
+      {
+        "t": 32.16,
+        "word": "high-stakes"
+      },
+      {
+        "t": 32.93,
+        "word": "strategy"
+      },
+      {
+        "t": 33.46,
+        "word": "game"
+      },
+      {
+        "t": 33.8,
+        "word": "so"
+      },
+      {
+        "t": 34.1,
+        "word": "addictive"
+      },
+      {
+        "t": 34.67,
+        "word": "that"
+      },
+      {
+        "t": 35.1,
+        "word": "ancient"
+      },
+      {
+        "t": 35.49,
+        "word": "cuneiform"
+      },
+      {
+        "t": 36.17,
+        "word": "tablets"
+      },
+      {
+        "t": 36.69,
+        "word": "reveal"
+      },
+      {
+        "t": 37.08,
+        "word": "players"
+      },
+      {
+        "t": 37.68,
+        "word": "betting"
+      },
+      {
+        "t": 38.02,
+        "word": "their"
+      },
+      {
+        "t": 38.22,
+        "word": "family"
+      },
+      {
+        "t": 38.65,
+        "word": "fortunes"
+      },
+      {
+        "t": 39.67,
+        "word": "When"
+      },
+      {
+        "t": 39.88,
+        "word": "the"
+      },
+      {
+        "t": 39.98,
+        "word": "sun"
+      },
+      {
+        "t": 40.28,
+        "word": "went"
+      },
+      {
+        "t": 40.45,
+        "word": "down"
+      },
+      {
+        "t": 41.13,
+        "word": "ancient"
+      },
+      {
+        "t": 41.46,
+        "word": "humans"
+      },
+      {
+        "t": 41.88,
+        "word": "were"
+      },
+      {
+        "t": 42.04,
+        "word": "arguing"
+      },
+      {
+        "t": 42.55,
+        "word": "over"
+      },
+      {
+        "t": 42.83,
+        "word": "who"
+      },
+      {
+        "t": 42.97,
+        "word": "cheated"
+      },
+      {
+        "t": 43.35,
+        "word": "at"
+      },
+      {
+        "t": 43.47,
+        "word": "dice"
+      }
+    ]
+  },
+  "ch_5": {
+    "duration_sec": 40.82,
+    "frames": 1239,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "Perhaps"
+      },
+      {
+        "t": 0.56,
+        "word": "the"
+      },
+      {
+        "t": 0.68,
+        "word": "greatest"
+      },
+      {
+        "t": 1.19,
+        "word": "pleasure"
+      },
+      {
+        "t": 1.51,
+        "word": "of"
+      },
+      {
+        "t": 1.7,
+        "word": "all"
+      },
+      {
+        "t": 2.02,
+        "word": "was"
+      },
+      {
+        "t": 2.21,
+        "word": "prehistoric"
+      },
+      {
+        "t": 2.98,
+        "word": "cinema"
+      },
+      {
+        "t": 3.82,
+        "word": "Deep"
+      },
+      {
+        "t": 4.13,
+        "word": "inside"
+      },
+      {
+        "t": 4.54,
+        "word": "dark"
+      },
+      {
+        "t": 4.84,
+        "word": "underground"
+      },
+      {
+        "t": 5.33,
+        "word": "caverns"
+      },
+      {
+        "t": 5.81,
+        "word": "like"
+      },
+      {
+        "t": 6.05,
+        "word": "Chauvet"
+      },
+      {
+        "t": 6.54,
+        "word": "and"
+      },
+      {
+        "t": 6.69,
+        "word": "Lascaux"
+      },
+      {
+        "t": 7.56,
+        "word": "artists"
+      },
+      {
+        "t": 8.07,
+        "word": "painted"
+      },
+      {
+        "t": 8.47,
+        "word": "galloping"
+      },
+      {
+        "t": 8.98,
+        "word": "bison"
+      },
+      {
+        "t": 9.56,
+        "word": "and"
+      },
+      {
+        "t": 9.76,
+        "word": "lions"
+      },
+      {
+        "t": 10.22,
+        "word": "with"
+      },
+      {
+        "t": 10.39,
+        "word": "multiple"
+      },
+      {
+        "t": 11.03,
+        "word": "overlapping"
+      },
+      {
+        "t": 11.58,
+        "word": "legs"
+      },
+      {
+        "t": 12.44,
+        "word": "Why"
+      },
+      {
+        "t": 13.3,
+        "word": "Because"
+      },
+      {
+        "t": 13.67,
+        "word": "when"
+      },
+      {
+        "t": 13.8,
+        "word": "you"
+      },
+      {
+        "t": 13.91,
+        "word": "hold"
+      },
+      {
+        "t": 14.13,
+        "word": "a"
+      },
+      {
+        "t": 14.19,
+        "word": "flickering"
+      },
+      {
+        "t": 14.66,
+        "word": "torch"
+      },
+      {
+        "t": 14.97,
+        "word": "near"
+      },
+      {
+        "t": 15.17,
+        "word": "the"
+      },
+      {
+        "t": 15.27,
+        "word": "wall"
+      },
+      {
+        "t": 15.95,
+        "word": "the"
+      },
+      {
+        "t": 16.08,
+        "word": "dancing"
+      },
+      {
+        "t": 16.55,
+        "word": "shadows"
+      },
+      {
+        "t": 17.06,
+        "word": "create"
+      },
+      {
+        "t": 17.45,
+        "word": "an"
+      },
+      {
+        "t": 17.63,
+        "word": "optical"
+      },
+      {
+        "t": 18.06,
+        "word": "illusion"
+      },
+      {
+        "t": 18.97,
+        "word": "making"
+      },
+      {
+        "t": 19.21,
+        "word": "the"
+      },
+      {
+        "t": 19.31,
+        "word": "painted"
+      },
+      {
+        "t": 19.72,
+        "word": "beasts"
+      },
+      {
+        "t": 20.03,
+        "word": "appear"
+      },
+      {
+        "t": 20.38,
+        "word": "to"
+      },
+      {
+        "t": 20.5,
+        "word": "sprint"
+      },
+      {
+        "t": 20.89,
+        "word": "across"
+      },
+      {
+        "t": 21.23,
+        "word": "the"
+      },
+      {
+        "t": 21.34,
+        "word": "rock"
+      },
+      {
+        "t": 22.06,
+        "word": "Around"
+      },
+      {
+        "t": 22.53,
+        "word": "the"
+      },
+      {
+        "t": 22.6,
+        "word": "campfire"
+      },
+      {
+        "t": 23.61,
+        "word": "master"
+      },
+      {
+        "t": 24.04,
+        "word": "storytellers"
+      },
+      {
+        "t": 24.8,
+        "word": "would"
+      },
+      {
+        "t": 24.98,
+        "word": "perform"
+      },
+      {
+        "t": 25.5,
+        "word": "tribal"
+      },
+      {
+        "t": 25.92,
+        "word": "legends"
+      },
+      {
+        "t": 26.76,
+        "word": "mimicking"
+      },
+      {
+        "t": 27.22,
+        "word": "beast"
+      },
+      {
+        "t": 27.59,
+        "word": "roars"
+      },
+      {
+        "t": 28.06,
+        "word": "and"
+      },
+      {
+        "t": 28.29,
+        "word": "spirit"
+      },
+      {
+        "t": 28.72,
+        "word": "voices"
+      },
+      {
+        "t": 29.29,
+        "word": "while"
+      },
+      {
+        "t": 29.46,
+        "word": "the"
+      },
+      {
+        "t": 29.54,
+        "word": "entire"
+      },
+      {
+        "t": 30.09,
+        "word": "tribe"
+      },
+      {
+        "t": 30.47,
+        "word": "sat"
+      },
+      {
+        "t": 30.72,
+        "word": "mesmerized"
+      },
+      {
+        "t": 31.86,
+        "word": "It"
+      },
+      {
+        "t": 32.03,
+        "word": "was"
+      },
+      {
+        "t": 32.16,
+        "word": "human"
+      },
+      {
+        "t": 32.53,
+        "word": "imagination"
+      },
+      {
+        "t": 33.38,
+        "word": "coming"
+      },
+      {
+        "t": 33.7,
+        "word": "alive"
+      },
+      {
+        "t": 34.64,
+        "word": "lighting"
+      },
+      {
+        "t": 34.97,
+        "word": "up"
+      },
+      {
+        "t": 35.13,
+        "word": "dopamine"
+      },
+      {
+        "t": 35.57,
+        "word": "pathways"
+      },
+      {
+        "t": 36.13,
+        "word": "in"
+      },
+      {
+        "t": 36.2,
+        "word": "the"
+      },
+      {
+        "t": 36.3,
+        "word": "brain"
+      },
+      {
+        "t": 36.93,
+        "word": "and"
+      },
+      {
+        "t": 37.14,
+        "word": "binding"
+      },
+      {
+        "t": 37.56,
+        "word": "the"
+      },
+      {
+        "t": 37.65,
+        "word": "community"
+      },
+      {
+        "t": 38.19,
+        "word": "together"
+      },
+      {
+        "t": 38.72,
+        "word": "into"
+      },
+      {
+        "t": 39.01,
+        "word": "an"
+      },
+      {
+        "t": 39.25,
+        "word": "unbreakable"
+      },
+      {
+        "t": 39.95,
+        "word": "family"
+      }
+    ]
+  },
+  "ch_6": {
+    "duration_sec": 45.26,
+    "frames": 1372,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "Evolutionary"
+      },
+      {
+        "t": 0.9,
+        "word": "biologists"
+      },
+      {
+        "t": 1.64,
+        "word": "believe"
+      },
+      {
+        "t": 2.04,
+        "word": "pleasure"
+      },
+      {
+        "t": 2.48,
+        "word": "was"
+      },
+      {
+        "t": 2.65,
+        "word": "not"
+      },
+      {
+        "t": 2.88,
+        "word": "a"
+      },
+      {
+        "t": 2.94,
+        "word": "luxury"
+      },
+      {
+        "t": 3.77,
+        "word": "it"
+      },
+      {
+        "t": 3.86,
+        "word": "was"
+      },
+      {
+        "t": 4.0,
+        "word": "a"
+      },
+      {
+        "t": 4.07,
+        "word": "survival"
+      },
+      {
+        "t": 4.6,
+        "word": "necessity"
+      },
+      {
+        "t": 5.56,
+        "word": "The"
+      },
+      {
+        "t": 5.74,
+        "word": "joy"
+      },
+      {
+        "t": 6.06,
+        "word": "of"
+      },
+      {
+        "t": 6.2,
+        "word": "sharing"
+      },
+      {
+        "t": 6.63,
+        "word": "food"
+      },
+      {
+        "t": 7.34,
+        "word": "laughing"
+      },
+      {
+        "t": 7.68,
+        "word": "around"
+      },
+      {
+        "t": 7.95,
+        "word": "a"
+      },
+      {
+        "t": 8.01,
+        "word": "fire"
+      },
+      {
+        "t": 8.78,
+        "word": "making"
+      },
+      {
+        "t": 9.08,
+        "word": "music"
+      },
+      {
+        "t": 9.61,
+        "word": "and"
+      },
+      {
+        "t": 9.84,
+        "word": "enjoying"
+      },
+      {
+        "t": 10.41,
+        "word": "intimate"
+      },
+      {
+        "t": 10.83,
+        "word": "connection"
+      },
+      {
+        "t": 11.47,
+        "word": "triggered"
+      },
+      {
+        "t": 11.91,
+        "word": "oxytocin"
+      },
+      {
+        "t": 12.79,
+        "word": "and"
+      },
+      {
+        "t": 13.02,
+        "word": "serotonin"
+      },
+      {
+        "t": 14.16,
+        "word": "which"
+      },
+      {
+        "t": 14.39,
+        "word": "kept"
+      },
+      {
+        "t": 14.71,
+        "word": "tribes"
+      },
+      {
+        "t": 15.07,
+        "word": "bonded"
+      },
+      {
+        "t": 15.66,
+        "word": "and"
+      },
+      {
+        "t": 15.88,
+        "word": "stopped"
+      },
+      {
+        "t": 16.29,
+        "word": "them"
+      },
+      {
+        "t": 16.49,
+        "word": "from"
+      },
+      {
+        "t": 16.69,
+        "word": "fighting"
+      },
+      {
+        "t": 17.16,
+        "word": "during"
+      },
+      {
+        "t": 17.45,
+        "word": "brutal"
+      },
+      {
+        "t": 17.84,
+        "word": "ice-age"
+      },
+      {
+        "t": 18.21,
+        "word": "winters"
+      },
+      {
+        "t": 19.14,
+        "word": "In"
+      },
+      {
+        "t": 19.33,
+        "word": "a"
+      },
+      {
+        "t": 19.38,
+        "word": "harsh"
+      },
+      {
+        "t": 19.76,
+        "word": "world"
+      },
+      {
+        "t": 20.16,
+        "word": "where"
+      },
+      {
+        "t": 20.34,
+        "word": "a"
+      },
+      {
+        "t": 20.41,
+        "word": "broken"
+      },
+      {
+        "t": 20.85,
+        "word": "tooth"
+      },
+      {
+        "t": 21.2,
+        "word": "could"
+      },
+      {
+        "t": 21.38,
+        "word": "be"
+      },
+      {
+        "t": 21.53,
+        "word": "fatal"
+      },
+      {
+        "t": 22.44,
+        "word": "human"
+      },
+      {
+        "t": 22.8,
+        "word": "joy"
+      },
+      {
+        "t": 23.18,
+        "word": "was"
+      },
+      {
+        "t": 23.38,
+        "word": "the"
+      },
+      {
+        "t": 23.62,
+        "word": "ultimate"
+      },
+      {
+        "t": 24.12,
+        "word": "shield"
+      },
+      {
+        "t": 25.05,
+        "word": "Next"
+      },
+      {
+        "t": 25.37,
+        "word": "time"
+      },
+      {
+        "t": 25.54,
+        "word": "you"
+      },
+      {
+        "t": 25.64,
+        "word": "grab"
+      },
+      {
+        "t": 25.91,
+        "word": "a"
+      },
+      {
+        "t": 25.98,
+        "word": "drink"
+      },
+      {
+        "t": 26.22,
+        "word": "with"
+      },
+      {
+        "t": 26.37,
+        "word": "friends"
+      },
+      {
+        "t": 26.89,
+        "word": "or"
+      },
+      {
+        "t": 27.13,
+        "word": "play"
+      },
+      {
+        "t": 27.32,
+        "word": "a"
+      },
+      {
+        "t": 27.39,
+        "word": "video"
+      },
+      {
+        "t": 27.73,
+        "word": "game"
+      },
+      {
+        "t": 28.24,
+        "word": "remember"
+      },
+      {
+        "t": 29.12,
+        "word": "you"
+      },
+      {
+        "t": 29.21,
+        "word": "are"
+      },
+      {
+        "t": 29.35,
+        "word": "carrying"
+      },
+      {
+        "t": 29.84,
+        "word": "on"
+      },
+      {
+        "t": 29.99,
+        "word": "a"
+      },
+      {
+        "t": 30.06,
+        "word": "fifty-thousand-year-old"
+      },
+      {
+        "t": 31.2,
+        "word": "human"
+      },
+      {
+        "t": 31.52,
+        "word": "tradition"
+      },
+      {
+        "t": 32.08,
+        "word": "of"
+      },
+      {
+        "t": 32.25,
+        "word": "chasing"
+      },
+      {
+        "t": 32.7,
+        "word": "pleasure"
+      },
+      {
+        "t": 33.55,
+        "word": "What"
+      },
+      {
+        "t": 33.79,
+        "word": "is"
+      },
+      {
+        "t": 33.9,
+        "word": "your"
+      },
+      {
+        "t": 34.03,
+        "word": "favorite"
+      },
+      {
+        "t": 34.33,
+        "word": "way"
+      },
+      {
+        "t": 34.44,
+        "word": "to"
+      },
+      {
+        "t": 34.52,
+        "word": "relax"
+      },
+      {
+        "t": 35.46,
+        "word": "Tell"
+      },
+      {
+        "t": 35.69,
+        "word": "us"
+      },
+      {
+        "t": 35.83,
+        "word": "in"
+      },
+      {
+        "t": 35.91,
+        "word": "the"
+      },
+      {
+        "t": 36.0,
+        "word": "comments"
+      },
+      {
+        "t": 36.92,
+        "word": "If"
+      },
+      {
+        "t": 37.14,
+        "word": "you"
+      },
+      {
+        "t": 37.26,
+        "word": "enjoyed"
+      },
+      {
+        "t": 37.67,
+        "word": "this"
+      },
+      {
+        "t": 37.85,
+        "word": "thought"
+      },
+      {
+        "t": 38.06,
+        "word": "experiment"
+      },
+      {
+        "t": 39.02,
+        "word": "smash"
+      },
+      {
+        "t": 39.54,
+        "word": "that"
+      },
+      {
+        "t": 39.8,
+        "word": "Subscribe"
+      },
+      {
+        "t": 40.38,
+        "word": "button"
+      },
+      {
+        "t": 40.69,
+        "word": "right"
+      },
+      {
+        "t": 40.89,
+        "word": "now"
+      },
+      {
+        "t": 41.22,
+        "word": "and"
+      },
+      {
+        "t": 41.54,
+        "word": "ring"
+      },
+      {
+        "t": 41.74,
+        "word": "the"
+      },
+      {
+        "t": 41.81,
+        "word": "notification"
+      },
+      {
+        "t": 42.56,
+        "word": "bell"
+      },
+      {
+        "t": 42.84,
+        "word": "for"
+      },
+      {
+        "t": 43.02,
+        "word": "more"
+      },
+      {
+        "t": 43.29,
+        "word": "weekly"
+      },
+      {
+        "t": 43.68,
+        "word": "animated"
+      },
+      {
+        "t": 44.18,
+        "word": "cartoons"
+      }
+    ]
+  },
+  "short": {
+    "duration_sec": 12.96,
+    "frames": 420,
+    "words": [
+      {
+        "t": 0.1,
+        "word": "What"
+      },
+      {
+        "t": 0.31,
+        "word": "did"
+      },
+      {
+        "t": 0.46,
+        "word": "ancient"
+      },
+      {
+        "t": 0.79,
+        "word": "humans"
+      },
+      {
+        "t": 1.17,
+        "word": "actually"
+      },
+      {
+        "t": 1.62,
+        "word": "do"
+      },
+      {
+        "t": 1.77,
+        "word": "for"
+      },
+      {
+        "t": 1.92,
+        "word": "pleasure"
+      },
+      {
+        "t": 2.74,
+        "word": "They"
+      },
+      {
+        "t": 2.97,
+        "word": "worked"
+      },
+      {
+        "t": 3.27,
+        "word": "less"
+      },
+      {
+        "t": 3.45,
+        "word": "than"
+      },
+      {
+        "t": 3.59,
+        "word": "you"
+      },
+      {
+        "t": 4.12,
+        "word": "spent"
+      },
+      {
+        "t": 4.44,
+        "word": "four"
+      },
+      {
+        "t": 4.73,
+        "word": "hours"
+      },
+      {
+        "t": 5.03,
+        "word": "a"
+      },
+      {
+        "t": 5.12,
+        "word": "day"
+      },
+      {
+        "t": 5.33,
+        "word": "partying"
+      },
+      {
+        "t": 5.75,
+        "word": "with"
+      },
+      {
+        "t": 5.91,
+        "word": "fermented"
+      },
+      {
+        "t": 6.38,
+        "word": "berry"
+      },
+      {
+        "t": 6.68,
+        "word": "booze"
+      },
+      {
+        "t": 7.44,
+        "word": "played"
+      },
+      {
+        "t": 7.74,
+        "word": "bone"
+      },
+      {
+        "t": 7.96,
+        "word": "flutes"
+      },
+      {
+        "t": 8.4,
+        "word": "and"
+      },
+      {
+        "t": 8.72,
+        "word": "gambled"
+      },
+      {
+        "t": 9.15,
+        "word": "with"
+      },
+      {
+        "t": 9.3,
+        "word": "animal"
+      },
+      {
+        "t": 9.65,
+        "word": "bones"
+      },
+      {
+        "t": 10.54,
+        "word": "Subscribe"
+      },
+      {
+        "t": 11.22,
+        "word": "for"
+      },
+      {
+        "t": 11.34,
+        "word": "the"
+      },
+      {
+        "t": 11.46,
+        "word": "full"
+      },
+      {
+        "t": 11.72,
+        "word": "wild"
+      },
+      {
+        "t": 12.06,
+        "word": "story"
+      }
+    ]
+  }
+}

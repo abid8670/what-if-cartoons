@@ -1,0 +1,26 @@
+{
+  "ch_1": {
+    "duration": 30.69601,
+    "frames": 920
+  },
+  "ch_2": {
+    "duration": 30.21601,
+    "frames": 906
+  },
+  "ch_3": {
+    "duration": 35.592,
+    "frames": 1067
+  },
+  "ch_4": {
+    "duration": 30.528005,
+    "frames": 915
+  },
+  "ch_5": {
+    "duration": 35.183995,
+    "frames": 1055
+  },
+  "short": {
+    "duration": 51.792,
+    "frames": 1553
+  }
+}

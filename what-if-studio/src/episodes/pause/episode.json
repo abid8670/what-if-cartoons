@@ -1,0 +1,229 @@
+{
+  "id": "PauseEveryone",
+  "slug": "pause",
+  "topic": "What if you could pause everyone but you?",
+  "title": [
+    "WHAT IF YOU COULD",
+    "PAUSE EVERYONE BUT YOU?"
+  ],
+  "accent": "PAUSE",
+  "power": {
+    "word": "Freeze",
+    "rule": "everyone and everything freezes in place on your command, only you can move",
+    "look": "frozen objects gain a cyan-white crystal rim with glowing pause symbols while the environment dims into monochrome steel"
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (small and selfish)",
+      "text": "Your coffee mug slips. Freeze. Mid-air. You slide a coaster under it. Safe."
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "Mo is falling down the stairs. Freeze. You pull him back before he hits."
+    },
+    {
+      "beat": "1 cold open, demo 3 (a little uncanny)",
+      "text": "A car blows through a red light. Freeze. Frozen an inch away. You step aside."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "What if you could pause everyone but you?"
+    },
+    {
+      "beat": "3 the fun",
+      "text": "Sounds like the ultimate superpower."
+    },
+    {
+      "beat": "4 the turn: real science fact 1",
+      "text": "One terrifying catch: if time stops, light stops. Photons travel at 300,000 kilometres a second. Frozen, none can enter your eyes. You're blind in pitch black."
+    },
+    {
+      "beat": "4 the turn: real science fact 2",
+      "text": "And air molecules freeze into solid glass walls. You can't even breathe. That's real."
+    },
+    {
+      "beat": "5-7 cliffhanger",
+      "text": "So if you pause the world... who unfreezes you?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "If time stops, photons stop moving: you are completely blind because no light can enter your pupil.",
+      "working": "Photons travel at c = 299,792,458 m/s (~300,000 km/s). Vision requires photons to strike rhodopsin photopigments in retinal rod and cone cells. If temporal progress dt = 0 for external space, photon velocity v = dx/dt drops to zero relative to the observer's frame. Without photon flux into the pupil, the retina receives zero signal: complete absolute darkness.",
+      "source": "Maxwell's equations, Einstein's special relativity (light cone & photon geodesics), human retinal phototransduction"
+    },
+    {
+      "claim": "Air molecules freeze into an immovable barrier, preventing inhalation and forward motion.",
+      "working": "Room temperature air molecules (N2, O2) travel at root-mean-square thermal speeds of ~500 m/s. Displacing air (walking or breathing) relies on fluid dynamics and particle collision kinetics. When external particle kinetics cease, air molecules cannot be deflected or inhaled, acting as a continuous rigid crystalline lattice with infinite effective drag.",
+      "source": "Kinetic theory of gases (Maxwell-Boltzmann distribution); fluid dynamics Navier-Stokes limit as viscosity approaches infinity"
+    }
+  ],
+  "cast": [
+    "pipHood",
+    "mo"
+  ],
+  "shots": [
+    {
+      "id": "S1",
+      "size": "medium",
+      "set": "kitchen",
+      "key": 12,
+      "note": "Pip's mug tips from the kitchen counter edge"
+    },
+    {
+      "id": "S2",
+      "size": "macro insert",
+      "set": "kitchen",
+      "key": 16,
+      "note": "mug suspended mid-air in cyan frost glow"
+    },
+    {
+      "id": "S3",
+      "size": "close-up",
+      "set": "kitchen",
+      "key": 18,
+      "note": "Pip slides a coaster underneath the frozen mug"
+    },
+    {
+      "id": "S4",
+      "size": "over the shoulder",
+      "set": "stairwell",
+      "key": 15,
+      "note": "Mo losing balance tumbling down the stairwell"
+    },
+    {
+      "id": "S5",
+      "size": "medium",
+      "set": "stairwell",
+      "key": 20,
+      "note": "Freeze activated: Mo locked in mid-air tilt with pause icon"
+    },
+    {
+      "id": "S6",
+      "size": "medium",
+      "set": "stairwell",
+      "key": 22,
+      "note": "Pip pulling Mo safely back onto the platform"
+    },
+    {
+      "id": "S7",
+      "size": "wide",
+      "set": "street",
+      "key": 15,
+      "note": "Speeding car heading straight towards the crosswalk"
+    },
+    {
+      "id": "S8",
+      "size": "close-up",
+      "set": "street",
+      "key": 18,
+      "note": "Freeze: Car bumper inches from Pip, frozen headlight beams"
+    },
+    {
+      "id": "S9",
+      "size": "title card",
+      "set": "title",
+      "key": 30,
+      "note": "Title Card: WHAT IF YOU COULD PAUSE EVERYONE BUT YOU?"
+    },
+    {
+      "id": "S10",
+      "size": "wide",
+      "set": "street",
+      "key": 20,
+      "note": "Pip walking freely while the entire world is statue still"
+    },
+    {
+      "id": "S11",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 30,
+      "note": "Science breakdown: 300,000 km/s photon wave collapsing to 0"
+    },
+    {
+      "id": "S12",
+      "size": "close-up",
+      "set": "darkness",
+      "key": 25,
+      "note": "Pitch blackness enveloping Pip's eyes as light stops"
+    },
+    {
+      "id": "S13",
+      "size": "medium",
+      "set": "frozen-air",
+      "key": 22,
+      "note": "Pip pushing against invisible solid wall of frozen air molecules"
+    },
+    {
+      "id": "S14",
+      "size": "wide cliffhanger",
+      "set": "street",
+      "key": 30,
+      "note": "Pip trapped in darkness, silent frozen world"
+    }
+  ],
+  "edit": [
+    { "shot": "S1", "at": "Your" },
+    { "shot": "S2", "at": "Freeze", "look": "freeze" },
+    { "shot": "S3", "at": "slide" },
+    { "shot": "S4", "at": "Mo" },
+    { "shot": "S5", "at": "Freeze", "look": "freeze" },
+    { "shot": "S6", "at": "pull" },
+    { "shot": "S7", "at": "car" },
+    { "shot": "S8", "at": "Freeze", "look": "freeze" },
+    { "shot": "S9", "at": "What" },
+    { "shot": "S10", "at": "ultimate" },
+    { "shot": "S11", "at": "Photons" },
+    { "shot": "S12", "at": "blind" },
+    { "shot": "S13", "at": "molecules" },
+    { "shot": "S14", "at": "pause" }
+  ],
+  "fx": [
+    { "at": "S2+0", "kind": "flash", "color": "#a5f3fc" },
+    { "at": "S5+0", "kind": "flash", "color": "#a5f3fc" },
+    { "at": "S8+0", "kind": "flash", "color": "#a5f3fc" },
+    { "at": "S9+0", "kind": "shake", "amp": 6 }
+  ],
+  "sound": {
+    "clips": {
+      "clink": ["a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape", 0.7],
+      "fall_whoosh": ["a small object falling fast through the air, short soft whoosh", 0.6],
+      "clock_back": ["a clock ticking very fast then spinning backwards, mechanical ratchet whirr", 1.6],
+      "catch": ["a hand catching a ceramic mug mid-air, soft slap and thud", 0.5],
+      "tumble": ["a cartoon character tumbling down wooden stairs, a quick series of bumps and thuds", 1.3],
+      "title_boom": ["a cinematic whoosh rising into a deep boom impact", 1.6],
+      "drone_hit": ["a dark ominous low drone hit, deep cinematic horror sting", 2.6],
+      "gasp": ["two young people gasping in surprise at the same moment, cartoon, short", 0.8],
+      "glitch": ["a short digital glitch, an electric buzz and crackle flickering like an unstable hologram", 1.5],
+      "room_tone": ["quiet indoor room tone in the evening, faint distant city hum, no voices", 12.5],
+      "roof_wind": ["a gentle evening breeze on a city rooftop, distant traffic", 7.0],
+      "music": ["playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals", 17.0]
+    },
+    "events": [
+      ["S1", "room_tone", 0.12, "onset", "S4"],
+      ["S1+8", "clink", 0.15],
+      ["S2", "clock_back", 0.22, "peak"],
+      ["S3+10", "catch", 0.18],
+      ["S4+5", "tumble", 0.2],
+      ["S5", "clock_back", 0.22, "peak"],
+      ["S6+12", "catch", 0.18],
+      ["S7+10", "fall_whoosh", 0.25, "peak"],
+      ["S8", "clock_back", 0.22, "peak"],
+      ["S9", "title_boom", 0.25, "peak"],
+      ["S10", "roof_wind", 0.12, "onset", "S12"],
+      ["S11+15", "glitch", 0.2],
+      ["S12", "drone_hit", 0.28, "peak"],
+      ["S13+8", "gasp", 0.22],
+      ["S14", "drone_hit", 0.28, "peak"]
+    ],
+    "music": {
+      "clip": "music",
+      "until": "S12"
+    },
+    "levels": {
+      "sfx_lu": -5.5,
+      "music_lu": -10.5
+    }
+  }
+}
+

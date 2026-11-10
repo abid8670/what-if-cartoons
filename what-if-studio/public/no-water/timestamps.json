@@ -1,0 +1,2672 @@
+{
+  "ch_1": [
+    {
+      "t": 0.1,
+      "word": "It"
+    },
+    {
+      "t": 0.24,
+      "word": "is"
+    },
+    {
+      "t": 0.34,
+      "word": "a"
+    },
+    {
+      "t": 0.41,
+      "word": "scorching"
+    },
+    {
+      "t": 0.94,
+      "word": "hot"
+    },
+    {
+      "t": 1.22,
+      "word": "Tuesday"
+    },
+    {
+      "t": 1.59,
+      "word": "morning"
+    },
+    {
+      "t": 2.9,
+      "word": "Pip"
+    },
+    {
+      "t": 3.18,
+      "word": "turns"
+    },
+    {
+      "t": 3.51,
+      "word": "on"
+    },
+    {
+      "t": 3.64,
+      "word": "his"
+    },
+    {
+      "t": 3.8,
+      "word": "kitchen"
+    },
+    {
+      "t": 4.16,
+      "word": "faucet"
+    },
+    {
+      "t": 4.59,
+      "word": "to"
+    },
+    {
+      "t": 4.68,
+      "word": "pour"
+    },
+    {
+      "t": 4.94,
+      "word": "a"
+    },
+    {
+      "t": 5.01,
+      "word": "tall"
+    },
+    {
+      "t": 5.32,
+      "word": "glass"
+    },
+    {
+      "t": 5.67,
+      "word": "of"
+    },
+    {
+      "t": 5.78,
+      "word": "ice"
+    },
+    {
+      "t": 6.0,
+      "word": "water"
+    },
+    {
+      "t": 7.27,
+      "word": "But"
+    },
+    {
+      "t": 7.44,
+      "word": "before"
+    },
+    {
+      "t": 7.8,
+      "word": "the"
+    },
+    {
+      "t": 7.91,
+      "word": "liquid"
+    },
+    {
+      "t": 8.25,
+      "word": "even"
+    },
+    {
+      "t": 8.54,
+      "word": "touches"
+    },
+    {
+      "t": 8.93,
+      "word": "the"
+    },
+    {
+      "t": 9.04,
+      "word": "glass"
+    },
+    {
+      "t": 9.72,
+      "word": "the"
+    },
+    {
+      "t": 9.85,
+      "word": "water"
+    },
+    {
+      "t": 10.18,
+      "word": "stream"
+    },
+    {
+      "t": 10.56,
+      "word": "vanishes"
+    },
+    {
+      "t": 11.1,
+      "word": "in"
+    },
+    {
+      "t": 11.25,
+      "word": "mid-air"
+    },
+    {
+      "t": 12.6,
+      "word": "Not"
+    },
+    {
+      "t": 12.89,
+      "word": "a"
+    },
+    {
+      "t": 12.96,
+      "word": "single"
+    },
+    {
+      "t": 13.35,
+      "word": "droplet"
+    },
+    {
+      "t": 13.77,
+      "word": "comes"
+    },
+    {
+      "t": 14.07,
+      "word": "out"
+    },
+    {
+      "t": 15.23,
+      "word": "Across"
+    },
+    {
+      "t": 15.69,
+      "word": "town"
+    },
+    {
+      "t": 16.21,
+      "word": "Mo"
+    },
+    {
+      "t": 16.5,
+      "word": "is"
+    },
+    {
+      "t": 16.65,
+      "word": "standing"
+    },
+    {
+      "t": 17.05,
+      "word": "in"
+    },
+    {
+      "t": 17.11,
+      "word": "the"
+    },
+    {
+      "t": 17.18,
+      "word": "shower"
+    },
+    {
+      "t": 17.6,
+      "word": "covered"
+    },
+    {
+      "t": 17.9,
+      "word": "in"
+    },
+    {
+      "t": 18.0,
+      "word": "dry"
+    },
+    {
+      "t": 18.26,
+      "word": "soap"
+    },
+    {
+      "t": 18.93,
+      "word": "screaming"
+    },
+    {
+      "t": 19.49,
+      "word": "in"
+    },
+    {
+      "t": 19.6,
+      "word": "confusion"
+    },
+    {
+      "t": 21.14,
+      "word": "Around"
+    },
+    {
+      "t": 21.54,
+      "word": "the"
+    },
+    {
+      "t": 21.63,
+      "word": "world"
+    },
+    {
+      "t": 22.26,
+      "word": "people"
+    },
+    {
+      "t": 22.58,
+      "word": "look"
+    },
+    {
+      "t": 22.77,
+      "word": "at"
+    },
+    {
+      "t": 22.84,
+      "word": "their"
+    },
+    {
+      "t": 23.0,
+      "word": "coffee"
+    },
+    {
+      "t": 23.37,
+      "word": "cups"
+    },
+    {
+      "t": 23.98,
+      "word": "swimming"
+    },
+    {
+      "t": 24.38,
+      "word": "pools"
+    },
+    {
+      "t": 25.12,
+      "word": "and"
+    },
+    {
+      "t": 25.3,
+      "word": "garden"
+    },
+    {
+      "t": 25.66,
+      "word": "hoses"
+    },
+    {
+      "t": 26.09,
+      "word": "in"
+    },
+    {
+      "t": 26.25,
+      "word": "pure"
+    },
+    {
+      "t": 26.54,
+      "word": "shock"
+    },
+    {
+      "t": 27.86,
+      "word": "Every"
+    },
+    {
+      "t": 28.2,
+      "word": "single"
+    },
+    {
+      "t": 28.59,
+      "word": "liquid"
+    },
+    {
+      "t": 28.91,
+      "word": "water"
+    },
+    {
+      "t": 29.21,
+      "word": "molecule"
+    },
+    {
+      "t": 29.83,
+      "word": "on"
+    },
+    {
+      "t": 29.96,
+      "word": "planet"
+    },
+    {
+      "t": 30.35,
+      "word": "Earth"
+    },
+    {
+      "t": 30.62,
+      "word": "has"
+    },
+    {
+      "t": 30.8,
+      "word": "instantly"
+    },
+    {
+      "t": 31.29,
+      "word": "disappeared"
+    },
+    {
+      "t": 31.86,
+      "word": "into"
+    },
+    {
+      "t": 32.05,
+      "word": "thin"
+    },
+    {
+      "t": 32.34,
+      "word": "air"
+    },
+    {
+      "t": 32.94,
+      "word": "one"
+    },
+    {
+      "t": 33.17,
+      "word": "point"
+    },
+    {
+      "t": 33.45,
+      "word": "three"
+    },
+    {
+      "t": 33.75,
+      "word": "eight"
+    },
+    {
+      "t": 33.99,
+      "word": "billion"
+    },
+    {
+      "t": 34.37,
+      "word": "cubic"
+    },
+    {
+      "t": 34.7,
+      "word": "kilometers"
+    },
+    {
+      "t": 35.27,
+      "word": "of"
+    },
+    {
+      "t": 35.38,
+      "word": "water"
+    },
+    {
+      "t": 35.98,
+      "word": "completely"
+    },
+    {
+      "t": 36.52,
+      "word": "wiped"
+    },
+    {
+      "t": 36.84,
+      "word": "off"
+    },
+    {
+      "t": 37.04,
+      "word": "the"
+    },
+    {
+      "t": 37.15,
+      "word": "globe"
+    }
+  ],
+  "ch_2": [
+    {
+      "t": 0.1,
+      "word": "Within"
+    },
+    {
+      "t": 0.52,
+      "word": "five"
+    },
+    {
+      "t": 0.85,
+      "word": "minutes"
+    },
+    {
+      "t": 1.48,
+      "word": "the"
+    },
+    {
+      "t": 1.6,
+      "word": "planetary"
+    },
+    {
+      "t": 2.21,
+      "word": "map"
+    },
+    {
+      "t": 2.53,
+      "word": "changes"
+    },
+    {
+      "t": 3.01,
+      "word": "forever"
+    },
+    {
+      "t": 4.41,
+      "word": "Seventy-one"
+    },
+    {
+      "t": 5.08,
+      "word": "percent"
+    },
+    {
+      "t": 5.47,
+      "word": "of"
+    },
+    {
+      "t": 5.56,
+      "word": "the"
+    },
+    {
+      "t": 5.67,
+      "word": "Earth's"
+    },
+    {
+      "t": 6.01,
+      "word": "surface"
+    },
+    {
+      "t": 6.47,
+      "word": "was"
+    },
+    {
+      "t": 6.64,
+      "word": "covered"
+    },
+    {
+      "t": 6.97,
+      "word": "by"
+    },
+    {
+      "t": 7.11,
+      "word": "vast"
+    },
+    {
+      "t": 7.5,
+      "word": "oceans"
+    },
+    {
+      "t": 8.94,
+      "word": "Now"
+    },
+    {
+      "t": 9.49,
+      "word": "the"
+    },
+    {
+      "t": 9.6,
+      "word": "Pacific"
+    },
+    {
+      "t": 10.4,
+      "word": "Atlantic"
+    },
+    {
+      "t": 11.17,
+      "word": "and"
+    },
+    {
+      "t": 11.29,
+      "word": "Indian"
+    },
+    {
+      "t": 11.7,
+      "word": "Oceans"
+    },
+    {
+      "t": 12.1,
+      "word": "are"
+    },
+    {
+      "t": 12.21,
+      "word": "transformed"
+    },
+    {
+      "t": 12.86,
+      "word": "into"
+    },
+    {
+      "t": 13.06,
+      "word": "terrifying"
+    },
+    {
+      "t": 13.99,
+      "word": "miles-deep"
+    },
+    {
+      "t": 14.56,
+      "word": "barren"
+    },
+    {
+      "t": 14.89,
+      "word": "canyons"
+    },
+    {
+      "t": 16.38,
+      "word": "Giant"
+    },
+    {
+      "t": 16.8,
+      "word": "cargo"
+    },
+    {
+      "t": 17.22,
+      "word": "container"
+    },
+    {
+      "t": 17.71,
+      "word": "ships"
+    },
+    {
+      "t": 18.33,
+      "word": "luxury"
+    },
+    {
+      "t": 18.76,
+      "word": "cruise"
+    },
+    {
+      "t": 19.11,
+      "word": "liners"
+    },
+    {
+      "t": 19.88,
+      "word": "and"
+    },
+    {
+      "t": 20.08,
+      "word": "nuclear"
+    },
+    {
+      "t": 20.47,
+      "word": "submarines"
+    },
+    {
+      "t": 21.13,
+      "word": "plummet"
+    },
+    {
+      "t": 21.49,
+      "word": "thirty-six"
+    },
+    {
+      "t": 22.06,
+      "word": "thousand"
+    },
+    {
+      "t": 22.48,
+      "word": "feet"
+    },
+    {
+      "t": 22.74,
+      "word": "down"
+    },
+    {
+      "t": 23.0,
+      "word": "to"
+    },
+    {
+      "t": 23.08,
+      "word": "the"
+    },
+    {
+      "t": 23.19,
+      "word": "jagged"
+    },
+    {
+      "t": 23.58,
+      "word": "tectonic"
+    },
+    {
+      "t": 24.13,
+      "word": "rock"
+    },
+    {
+      "t": 24.42,
+      "word": "of"
+    },
+    {
+      "t": 24.5,
+      "word": "the"
+    },
+    {
+      "t": 24.59,
+      "word": "Mariana"
+    },
+    {
+      "t": 25.08,
+      "word": "Trench"
+    },
+    {
+      "t": 25.78,
+      "word": "snapping"
+    },
+    {
+      "t": 26.24,
+      "word": "their"
+    },
+    {
+      "t": 26.37,
+      "word": "steel"
+    },
+    {
+      "t": 26.75,
+      "word": "hulls"
+    },
+    {
+      "t": 27.06,
+      "word": "in"
+    },
+    {
+      "t": 27.16,
+      "word": "half"
+    },
+    {
+      "t": 27.52,
+      "word": "with"
+    },
+    {
+      "t": 27.68,
+      "word": "deafening"
+    },
+    {
+      "t": 28.13,
+      "word": "thuds"
+    },
+    {
+      "t": 29.49,
+      "word": "Millions"
+    },
+    {
+      "t": 30.0,
+      "word": "of"
+    },
+    {
+      "t": 30.11,
+      "word": "whales"
+    },
+    {
+      "t": 30.78,
+      "word": "sharks"
+    },
+    {
+      "t": 31.44,
+      "word": "and"
+    },
+    {
+      "t": 31.61,
+      "word": "vibrant"
+    },
+    {
+      "t": 32.08,
+      "word": "coral"
+    },
+    {
+      "t": 32.45,
+      "word": "reefs"
+    },
+    {
+      "t": 32.74,
+      "word": "are"
+    },
+    {
+      "t": 32.9,
+      "word": "left"
+    },
+    {
+      "t": 33.17,
+      "word": "stranded"
+    },
+    {
+      "t": 33.63,
+      "word": "on"
+    },
+    {
+      "t": 33.79,
+      "word": "vast"
+    },
+    {
+      "t": 34.44,
+      "word": "toxic"
+    },
+    {
+      "t": 34.88,
+      "word": "salt"
+    },
+    {
+      "t": 35.17,
+      "word": "flats"
+    },
+    {
+      "t": 36.59,
+      "word": "The"
+    },
+    {
+      "t": 36.77,
+      "word": "ocean"
+    },
+    {
+      "t": 37.16,
+      "word": "floor"
+    },
+    {
+      "t": 37.8,
+      "word": "hidden"
+    },
+    {
+      "t": 38.03,
+      "word": "in"
+    },
+    {
+      "t": 38.16,
+      "word": "darkness"
+    },
+    {
+      "t": 38.62,
+      "word": "for"
+    },
+    {
+      "t": 38.77,
+      "word": "billions"
+    },
+    {
+      "t": 39.21,
+      "word": "of"
+    },
+    {
+      "t": 39.28,
+      "word": "years"
+    },
+    {
+      "t": 40.01,
+      "word": "is"
+    },
+    {
+      "t": 40.15,
+      "word": "exposed"
+    },
+    {
+      "t": 40.67,
+      "word": "to"
+    },
+    {
+      "t": 40.78,
+      "word": "open"
+    },
+    {
+      "t": 41.1,
+      "word": "sunlight"
+    },
+    {
+      "t": 41.59,
+      "word": "for"
+    },
+    {
+      "t": 41.7,
+      "word": "the"
+    },
+    {
+      "t": 41.78,
+      "word": "very"
+    },
+    {
+      "t": 42.08,
+      "word": "first"
+    },
+    {
+      "t": 42.4,
+      "word": "time"
+    }
+  ],
+  "ch_3": [
+    {
+      "t": 0.1,
+      "word": "Things"
+    },
+    {
+      "t": 0.44,
+      "word": "get"
+    },
+    {
+      "t": 0.6,
+      "word": "exponentially"
+    },
+    {
+      "t": 1.3,
+      "word": "worse"
+    },
+    {
+      "t": 1.63,
+      "word": "by"
+    },
+    {
+      "t": 1.85,
+      "word": "hour"
+    },
+    {
+      "t": 2.19,
+      "word": "one"
+    },
+    {
+      "t": 3.33,
+      "word": "Why"
+    },
+    {
+      "t": 4.62,
+      "word": "Because"
+    },
+    {
+      "t": 4.96,
+      "word": "water"
+    },
+    {
+      "t": 5.34,
+      "word": "is"
+    },
+    {
+      "t": 5.47,
+      "word": "incredibly"
+    },
+    {
+      "t": 6.08,
+      "word": "heavy"
+    },
+    {
+      "t": 7.37,
+      "word": "The"
+    },
+    {
+      "t": 7.51,
+      "word": "world's"
+    },
+    {
+      "t": 7.94,
+      "word": "oceans"
+    },
+    {
+      "t": 8.31,
+      "word": "exerted"
+    },
+    {
+      "t": 8.76,
+      "word": "one"
+    },
+    {
+      "t": 9.03,
+      "word": "point"
+    },
+    {
+      "t": 9.28,
+      "word": "four"
+    },
+    {
+      "t": 9.59,
+      "word": "quintillion"
+    },
+    {
+      "t": 10.19,
+      "word": "metric"
+    },
+    {
+      "t": 10.57,
+      "word": "tons"
+    },
+    {
+      "t": 10.92,
+      "word": "of"
+    },
+    {
+      "t": 11.01,
+      "word": "hydrostatic"
+    },
+    {
+      "t": 11.71,
+      "word": "pressure"
+    },
+    {
+      "t": 12.42,
+      "word": "pinning"
+    },
+    {
+      "t": 12.71,
+      "word": "down"
+    },
+    {
+      "t": 13.01,
+      "word": "Earth's"
+    },
+    {
+      "t": 13.33,
+      "word": "oceanic"
+    },
+    {
+      "t": 13.88,
+      "word": "crust"
+    },
+    {
+      "t": 15.24,
+      "word": "With"
+    },
+    {
+      "t": 15.44,
+      "word": "that"
+    },
+    {
+      "t": 15.66,
+      "word": "colossal"
+    },
+    {
+      "t": 16.2,
+      "word": "weight"
+    },
+    {
+      "t": 16.44,
+      "word": "suddenly"
+    },
+    {
+      "t": 16.87,
+      "word": "lifted"
+    },
+    {
+      "t": 17.51,
+      "word": "the"
+    },
+    {
+      "t": 17.63,
+      "word": "seabed"
+    },
+    {
+      "t": 18.12,
+      "word": "rebounds"
+    },
+    {
+      "t": 18.57,
+      "word": "upward"
+    },
+    {
+      "t": 18.92,
+      "word": "like"
+    },
+    {
+      "t": 19.09,
+      "word": "a"
+    },
+    {
+      "t": 19.16,
+      "word": "compressed"
+    },
+    {
+      "t": 19.62,
+      "word": "steel"
+    },
+    {
+      "t": 19.94,
+      "word": "spring"
+    },
+    {
+      "t": 21.24,
+      "word": "Tectonic"
+    },
+    {
+      "t": 21.84,
+      "word": "plates"
+    },
+    {
+      "t": 22.17,
+      "word": "violently"
+    },
+    {
+      "t": 22.68,
+      "word": "crack"
+    },
+    {
+      "t": 23.08,
+      "word": "open"
+    },
+    {
+      "t": 23.34,
+      "word": "across"
+    },
+    {
+      "t": 23.7,
+      "word": "the"
+    },
+    {
+      "t": 23.8,
+      "word": "Pacific"
+    },
+    {
+      "t": 24.32,
+      "word": "Ring"
+    },
+    {
+      "t": 24.58,
+      "word": "of"
+    },
+    {
+      "t": 24.67,
+      "word": "Fire"
+    },
+    {
+      "t": 26.02,
+      "word": "Countless"
+    },
+    {
+      "t": 26.49,
+      "word": "submarine"
+    },
+    {
+      "t": 27.05,
+      "word": "volcanoes"
+    },
+    {
+      "t": 27.73,
+      "word": "and"
+    },
+    {
+      "t": 27.86,
+      "word": "continental"
+    },
+    {
+      "t": 28.45,
+      "word": "fault"
+    },
+    {
+      "t": 28.76,
+      "word": "lines"
+    },
+    {
+      "t": 29.11,
+      "word": "rupture"
+    },
+    {
+      "t": 29.5,
+      "word": "simultaneously"
+    },
+    {
+      "t": 30.81,
+      "word": "erupting"
+    },
+    {
+      "t": 31.26,
+      "word": "superheated"
+    },
+    {
+      "t": 31.87,
+      "word": "molten"
+    },
+    {
+      "t": 32.26,
+      "word": "lava"
+    },
+    {
+      "t": 32.88,
+      "word": "poisonous"
+    },
+    {
+      "t": 33.35,
+      "word": "sulfur"
+    },
+    {
+      "t": 33.71,
+      "word": "clouds"
+    },
+    {
+      "t": 34.47,
+      "word": "and"
+    },
+    {
+      "t": 34.64,
+      "word": "massive"
+    },
+    {
+      "t": 35.04,
+      "word": "ash"
+    },
+    {
+      "t": 35.32,
+      "word": "plumes"
+    },
+    {
+      "t": 35.72,
+      "word": "directly"
+    },
+    {
+      "t": 36.23,
+      "word": "into"
+    },
+    {
+      "t": 36.41,
+      "word": "the"
+    },
+    {
+      "t": 36.52,
+      "word": "stratosphere"
+    },
+    {
+      "t": 38.11,
+      "word": "Earth"
+    },
+    {
+      "t": 38.43,
+      "word": "is"
+    },
+    {
+      "t": 38.59,
+      "word": "turning"
+    },
+    {
+      "t": 38.96,
+      "word": "into"
+    },
+    {
+      "t": 39.17,
+      "word": "an"
+    },
+    {
+      "t": 39.32,
+      "word": "active"
+    },
+    {
+      "t": 39.66,
+      "word": "volcanic"
+    },
+    {
+      "t": 40.21,
+      "word": "hellscape"
+    }
+  ],
+  "ch_4": [
+    {
+      "t": 0.1,
+      "word": "By"
+    },
+    {
+      "t": 0.29,
+      "word": "day"
+    },
+    {
+      "t": 0.56,
+      "word": "one"
+    },
+    {
+      "t": 1.07,
+      "word": "the"
+    },
+    {
+      "t": 1.15,
+      "word": "entire"
+    },
+    {
+      "t": 1.68,
+      "word": "global"
+    },
+    {
+      "t": 2.08,
+      "word": "climate"
+    },
+    {
+      "t": 2.48,
+      "word": "system"
+    },
+    {
+      "t": 2.93,
+      "word": "completely"
+    },
+    {
+      "t": 3.46,
+      "word": "collapses"
+    },
+    {
+      "t": 5.06,
+      "word": "Over"
+    },
+    {
+      "t": 5.35,
+      "word": "ninety-seven"
+    },
+    {
+      "t": 6.04,
+      "word": "percent"
+    },
+    {
+      "t": 6.43,
+      "word": "of"
+    },
+    {
+      "t": 6.54,
+      "word": "all"
+    },
+    {
+      "t": 6.8,
+      "word": "clouds"
+    },
+    {
+      "t": 7.27,
+      "word": "and"
+    },
+    {
+      "t": 7.39,
+      "word": "weather"
+    },
+    {
+      "t": 7.66,
+      "word": "cycles"
+    },
+    {
+      "t": 8.13,
+      "word": "were"
+    },
+    {
+      "t": 8.26,
+      "word": "fueled"
+    },
+    {
+      "t": 8.69,
+      "word": "by"
+    },
+    {
+      "t": 8.85,
+      "word": "ocean"
+    },
+    {
+      "t": 9.21,
+      "word": "evaporation"
+    },
+    {
+      "t": 10.87,
+      "word": "With"
+    },
+    {
+      "t": 11.1,
+      "word": "zero"
+    },
+    {
+      "t": 11.48,
+      "word": "water"
+    },
+    {
+      "t": 12.04,
+      "word": "there"
+    },
+    {
+      "t": 12.21,
+      "word": "are"
+    },
+    {
+      "t": 12.33,
+      "word": "zero"
+    },
+    {
+      "t": 12.69,
+      "word": "clouds"
+    },
+    {
+      "t": 13.43,
+      "word": "zero"
+    },
+    {
+      "t": 13.83,
+      "word": "rain"
+    },
+    {
+      "t": 14.44,
+      "word": "and"
+    },
+    {
+      "t": 14.6,
+      "word": "zero"
+    },
+    {
+      "t": 14.98,
+      "word": "humidity"
+    },
+    {
+      "t": 15.53,
+      "word": "anywhere"
+    },
+    {
+      "t": 16.01,
+      "word": "on"
+    },
+    {
+      "t": 16.1,
+      "word": "the"
+    },
+    {
+      "t": 16.18,
+      "word": "planet"
+    },
+    {
+      "t": 17.5,
+      "word": "Without"
+    },
+    {
+      "t": 17.92,
+      "word": "white"
+    },
+    {
+      "t": 18.2,
+      "word": "clouds"
+    },
+    {
+      "t": 18.6,
+      "word": "to"
+    },
+    {
+      "t": 18.71,
+      "word": "reflect"
+    },
+    {
+      "t": 19.16,
+      "word": "solar"
+    },
+    {
+      "t": 19.55,
+      "word": "radiation"
+    },
+    {
+      "t": 20.16,
+      "word": "back"
+    },
+    {
+      "t": 20.41,
+      "word": "into"
+    },
+    {
+      "t": 20.62,
+      "word": "space"
+    },
+    {
+      "t": 21.37,
+      "word": "daytime"
+    },
+    {
+      "t": 21.82,
+      "word": "temperatures"
+    },
+    {
+      "t": 22.33,
+      "word": "skyrocket"
+    },
+    {
+      "t": 23.0,
+      "word": "past"
+    },
+    {
+      "t": 23.34,
+      "word": "sixty"
+    },
+    {
+      "t": 23.71,
+      "word": "degrees"
+    },
+    {
+      "t": 24.09,
+      "word": "Celsius"
+    },
+    {
+      "t": 25.66,
+      "word": "Pavement"
+    },
+    {
+      "t": 26.04,
+      "word": "melts"
+    },
+    {
+      "t": 26.6,
+      "word": "metal"
+    },
+    {
+      "t": 26.93,
+      "word": "cars"
+    },
+    {
+      "t": 27.29,
+      "word": "blister"
+    },
+    {
+      "t": 27.68,
+      "word": "with"
+    },
+    {
+      "t": 27.83,
+      "word": "heat"
+    },
+    {
+      "t": 28.4,
+      "word": "and"
+    },
+    {
+      "t": 28.5,
+      "word": "the"
+    },
+    {
+      "t": 28.6,
+      "word": "sun"
+    },
+    {
+      "t": 28.94,
+      "word": "bakes"
+    },
+    {
+      "t": 29.26,
+      "word": "the"
+    },
+    {
+      "t": 29.37,
+      "word": "dry"
+    },
+    {
+      "t": 29.66,
+      "word": "land"
+    },
+    {
+      "t": 29.99,
+      "word": "relentlessly"
+    },
+    {
+      "t": 31.57,
+      "word": "Then"
+    },
+    {
+      "t": 31.86,
+      "word": "night"
+    },
+    {
+      "t": 32.09,
+      "word": "falls"
+    },
+    {
+      "t": 33.51,
+      "word": "Without"
+    },
+    {
+      "t": 33.93,
+      "word": "water"
+    },
+    {
+      "t": 34.25,
+      "word": "vapor"
+    },
+    {
+      "t": 34.61,
+      "word": "to"
+    },
+    {
+      "t": 34.71,
+      "word": "trap"
+    },
+    {
+      "t": 35.05,
+      "word": "heat"
+    },
+    {
+      "t": 35.34,
+      "word": "like"
+    },
+    {
+      "t": 35.5,
+      "word": "a"
+    },
+    {
+      "t": 35.58,
+      "word": "blanket"
+    },
+    {
+      "t": 36.27,
+      "word": "temperatures"
+    },
+    {
+      "t": 36.78,
+      "word": "plunge"
+    },
+    {
+      "t": 37.15,
+      "word": "down"
+    },
+    {
+      "t": 37.4,
+      "word": "to"
+    },
+    {
+      "t": 37.5,
+      "word": "freezing"
+    },
+    {
+      "t": 37.95,
+      "word": "sub-zero"
+    },
+    {
+      "t": 39.48,
+      "word": "Earth's"
+    },
+    {
+      "t": 39.82,
+      "word": "atmosphere"
+    },
+    {
+      "t": 40.38,
+      "word": "now"
+    },
+    {
+      "t": 40.59,
+      "word": "swings"
+    },
+    {
+      "t": 41.07,
+      "word": "wildly"
+    },
+    {
+      "t": 41.53,
+      "word": "like"
+    },
+    {
+      "t": 41.76,
+      "word": "the"
+    },
+    {
+      "t": 41.87,
+      "word": "surface"
+    },
+    {
+      "t": 42.31,
+      "word": "of"
+    },
+    {
+      "t": 42.42,
+      "word": "Mercury"
+    }
+  ],
+  "ch_5": [
+    {
+      "t": 0.1,
+      "word": "By"
+    },
+    {
+      "t": 0.29,
+      "word": "day"
+    },
+    {
+      "t": 0.58,
+      "word": "three"
+    },
+    {
+      "t": 1.22,
+      "word": "the"
+    },
+    {
+      "t": 1.31,
+      "word": "human"
+    },
+    {
+      "t": 1.69,
+      "word": "biological"
+    },
+    {
+      "t": 2.43,
+      "word": "countdown"
+    },
+    {
+      "t": 3.0,
+      "word": "runs"
+    },
+    {
+      "t": 3.28,
+      "word": "out"
+    },
+    {
+      "t": 4.47,
+      "word": "Your"
+    },
+    {
+      "t": 4.71,
+      "word": "body"
+    },
+    {
+      "t": 5.1,
+      "word": "is"
+    },
+    {
+      "t": 5.23,
+      "word": "sixty"
+    },
+    {
+      "t": 5.59,
+      "word": "percent"
+    },
+    {
+      "t": 5.98,
+      "word": "water"
+    },
+    {
+      "t": 6.55,
+      "word": "your"
+    },
+    {
+      "t": 6.7,
+      "word": "brain"
+    },
+    {
+      "t": 7.06,
+      "word": "is"
+    },
+    {
+      "t": 7.21,
+      "word": "seventy-five"
+    },
+    {
+      "t": 7.83,
+      "word": "percent"
+    },
+    {
+      "t": 8.2,
+      "word": "water"
+    },
+    {
+      "t": 8.83,
+      "word": "and"
+    },
+    {
+      "t": 8.94,
+      "word": "your"
+    },
+    {
+      "t": 9.09,
+      "word": "blood"
+    },
+    {
+      "t": 9.41,
+      "word": "is"
+    },
+    {
+      "t": 9.54,
+      "word": "ninety"
+    },
+    {
+      "t": 9.87,
+      "word": "percent"
+    },
+    {
+      "t": 10.24,
+      "word": "water"
+    },
+    {
+      "t": 11.53,
+      "word": "Without"
+    },
+    {
+      "t": 11.93,
+      "word": "hydration"
+    },
+    {
+      "t": 12.86,
+      "word": "Pip"
+    },
+    {
+      "t": 13.23,
+      "word": "and"
+    },
+    {
+      "t": 13.35,
+      "word": "Mo's"
+    },
+    {
+      "t": 13.67,
+      "word": "blood"
+    },
+    {
+      "t": 13.97,
+      "word": "thickens"
+    },
+    {
+      "t": 14.37,
+      "word": "into"
+    },
+    {
+      "t": 14.61,
+      "word": "a"
+    },
+    {
+      "t": 14.68,
+      "word": "sluggish"
+    },
+    {
+      "t": 15.17,
+      "word": "sludge"
+    },
+    {
+      "t": 15.91,
+      "word": "forcing"
+    },
+    {
+      "t": 16.31,
+      "word": "their"
+    },
+    {
+      "t": 16.47,
+      "word": "hearts"
+    },
+    {
+      "t": 16.83,
+      "word": "to"
+    },
+    {
+      "t": 16.94,
+      "word": "strain"
+    },
+    {
+      "t": 17.32,
+      "word": "violently"
+    },
+    {
+      "t": 18.76,
+      "word": "Kidneys"
+    },
+    {
+      "t": 19.22,
+      "word": "shut"
+    },
+    {
+      "t": 19.53,
+      "word": "down"
+    },
+    {
+      "t": 20.08,
+      "word": "lips"
+    },
+    {
+      "t": 20.35,
+      "word": "crack"
+    },
+    {
+      "t": 20.7,
+      "word": "and"
+    },
+    {
+      "t": 20.81,
+      "word": "bleed"
+    },
+    {
+      "t": 21.4,
+      "word": "and"
+    },
+    {
+      "t": 21.57,
+      "word": "severe"
+    },
+    {
+      "t": 22.0,
+      "word": "delirium"
+    },
+    {
+      "t": 22.52,
+      "word": "sets"
+    },
+    {
+      "t": 22.85,
+      "word": "in"
+    },
+    {
+      "t": 23.96,
+      "word": "Outside"
+    },
+    {
+      "t": 24.79,
+      "word": "billions"
+    },
+    {
+      "t": 25.23,
+      "word": "of"
+    },
+    {
+      "t": 25.34,
+      "word": "trees"
+    },
+    {
+      "t": 26.06,
+      "word": "crops"
+    },
+    {
+      "t": 26.69,
+      "word": "and"
+    },
+    {
+      "t": 26.89,
+      "word": "rainforests"
+    },
+    {
+      "t": 27.6,
+      "word": "dry"
+    },
+    {
+      "t": 27.92,
+      "word": "into"
+    },
+    {
+      "t": 28.17,
+      "word": "brittle"
+    },
+    {
+      "t": 28.48,
+      "word": "kindling"
+    },
+    {
+      "t": 29.82,
+      "word": "Global"
+    },
+    {
+      "t": 30.23,
+      "word": "wildfires"
+    },
+    {
+      "t": 30.93,
+      "word": "ignite"
+    },
+    {
+      "t": 31.31,
+      "word": "spontaneously"
+    },
+    {
+      "t": 32.18,
+      "word": "across"
+    },
+    {
+      "t": 32.57,
+      "word": "entire"
+    },
+    {
+      "t": 33.03,
+      "word": "continents"
+    },
+    {
+      "t": 33.83,
+      "word": "devouring"
+    },
+    {
+      "t": 34.39,
+      "word": "whole"
+    },
+    {
+      "t": 34.61,
+      "word": "forests"
+    },
+    {
+      "t": 35.13,
+      "word": "in"
+    },
+    {
+      "t": 35.28,
+      "word": "firestorms"
+    },
+    {
+      "t": 35.98,
+      "word": "of"
+    },
+    {
+      "t": 36.07,
+      "word": "ash"
+    },
+    {
+      "t": 37.42,
+      "word": "Without"
+    },
+    {
+      "t": 37.84,
+      "word": "water"
+    },
+    {
+      "t": 38.43,
+      "word": "complex"
+    },
+    {
+      "t": 38.93,
+      "word": "animal"
+    },
+    {
+      "t": 39.49,
+      "word": "and"
+    },
+    {
+      "t": 39.61,
+      "word": "plant"
+    },
+    {
+      "t": 39.96,
+      "word": "life"
+    },
+    {
+      "t": 40.25,
+      "word": "cannot"
+    },
+    {
+      "t": 40.61,
+      "word": "survive"
+    },
+    {
+      "t": 41.1,
+      "word": "more"
+    },
+    {
+      "t": 41.33,
+      "word": "than"
+    },
+    {
+      "t": 41.5,
+      "word": "one"
+    },
+    {
+      "t": 41.69,
+      "word": "hundred"
+    },
+    {
+      "t": 41.99,
+      "word": "hours"
+    }
+  ],
+  "ch_6": [
+    {
+      "t": 0.1,
+      "word": "Within"
+    },
+    {
+      "t": 0.45,
+      "word": "a"
+    },
+    {
+      "t": 0.52,
+      "word": "week"
+    },
+    {
+      "t": 1.12,
+      "word": "planet"
+    },
+    {
+      "t": 1.51,
+      "word": "Earth"
+    },
+    {
+      "t": 1.8,
+      "word": "looks"
+    },
+    {
+      "t": 2.06,
+      "word": "completely"
+    },
+    {
+      "t": 2.63,
+      "word": "unrecognizable"
+    },
+    {
+      "t": 3.86,
+      "word": "a"
+    },
+    {
+      "t": 3.97,
+      "word": "desolate"
+    },
+    {
+      "t": 4.42,
+      "word": "red"
+    },
+    {
+      "t": 4.65,
+      "word": "desert"
+    },
+    {
+      "t": 4.99,
+      "word": "world"
+    },
+    {
+      "t": 5.3,
+      "word": "wrapped"
+    },
+    {
+      "t": 5.62,
+      "word": "in"
+    },
+    {
+      "t": 5.73,
+      "word": "toxic"
+    },
+    {
+      "t": 6.23,
+      "word": "dust"
+    },
+    {
+      "t": 6.48,
+      "word": "storms"
+    },
+    {
+      "t": 7.22,
+      "word": "looking"
+    },
+    {
+      "t": 7.51,
+      "word": "identical"
+    },
+    {
+      "t": 8.0,
+      "word": "to"
+    },
+    {
+      "t": 8.11,
+      "word": "Mars"
+    },
+    {
+      "t": 9.53,
+      "word": "Pip"
+    },
+    {
+      "t": 9.78,
+      "word": "collapses"
+    },
+    {
+      "t": 10.36,
+      "word": "onto"
+    },
+    {
+      "t": 10.61,
+      "word": "the"
+    },
+    {
+      "t": 10.72,
+      "word": "cracked"
+    },
+    {
+      "t": 11.09,
+      "word": "earth"
+    },
+    {
+      "t": 11.67,
+      "word": "gasping"
+    },
+    {
+      "t": 12.17,
+      "word": "for"
+    },
+    {
+      "t": 12.33,
+      "word": "breath"
+    },
+    {
+      "t": 13.65,
+      "word": "Suddenly"
+    },
+    {
+      "t": 14.5,
+      "word": "Pip"
+    },
+    {
+      "t": 14.75,
+      "word": "jolts"
+    },
+    {
+      "t": 15.07,
+      "word": "awake"
+    },
+    {
+      "t": 15.44,
+      "word": "in"
+    },
+    {
+      "t": 15.61,
+      "word": "bed"
+    },
+    {
+      "t": 16.86,
+      "word": "His"
+    },
+    {
+      "t": 17.06,
+      "word": "alarm"
+    },
+    {
+      "t": 17.44,
+      "word": "is"
+    },
+    {
+      "t": 17.57,
+      "word": "buzzing"
+    },
+    {
+      "t": 18.24,
+      "word": "morning"
+    },
+    {
+      "t": 18.52,
+      "word": "sunlight"
+    },
+    {
+      "t": 19.02,
+      "word": "streams"
+    },
+    {
+      "t": 19.51,
+      "word": "through"
+    },
+    {
+      "t": 19.68,
+      "word": "the"
+    },
+    {
+      "t": 19.79,
+      "word": "bedroom"
+    },
+    {
+      "t": 20.18,
+      "word": "window"
+    },
+    {
+      "t": 21.49,
+      "word": "He"
+    },
+    {
+      "t": 21.66,
+      "word": "looks"
+    },
+    {
+      "t": 21.95,
+      "word": "over"
+    },
+    {
+      "t": 22.22,
+      "word": "at"
+    },
+    {
+      "t": 22.31,
+      "word": "his"
+    },
+    {
+      "t": 22.48,
+      "word": "nightstand"
+    },
+    {
+      "t": 23.34,
+      "word": "a"
+    },
+    {
+      "t": 23.42,
+      "word": "cold"
+    },
+    {
+      "t": 24.09,
+      "word": "condensation-covered"
+    },
+    {
+      "t": 25.15,
+      "word": "glass"
+    },
+    {
+      "t": 25.51,
+      "word": "of"
+    },
+    {
+      "t": 25.61,
+      "word": "fresh"
+    },
+    {
+      "t": 25.93,
+      "word": "tap"
+    },
+    {
+      "t": 26.25,
+      "word": "water"
+    },
+    {
+      "t": 26.58,
+      "word": "is"
+    },
+    {
+      "t": 26.72,
+      "word": "sitting"
+    },
+    {
+      "t": 27.04,
+      "word": "right"
+    },
+    {
+      "t": 27.28,
+      "word": "there"
+    },
+    {
+      "t": 28.43,
+      "word": "Pip"
+    },
+    {
+      "t": 28.7,
+      "word": "grabs"
+    },
+    {
+      "t": 29.09,
+      "word": "the"
+    },
+    {
+      "t": 29.2,
+      "word": "glass"
+    },
+    {
+      "t": 29.59,
+      "word": "with"
+    },
+    {
+      "t": 29.75,
+      "word": "trembling"
+    },
+    {
+      "t": 30.22,
+      "word": "hands"
+    },
+    {
+      "t": 30.87,
+      "word": "takes"
+    },
+    {
+      "t": 31.13,
+      "word": "a"
+    },
+    {
+      "t": 31.23,
+      "word": "deep"
+    },
+    {
+      "t": 31.78,
+      "word": "delicious"
+    },
+    {
+      "t": 32.26,
+      "word": "gulp"
+    },
+    {
+      "t": 32.83,
+      "word": "and"
+    },
+    {
+      "t": 32.96,
+      "word": "smiles"
+    },
+    {
+      "t": 33.5,
+      "word": "in"
+    },
+    {
+      "t": 33.64,
+      "word": "pure"
+    },
+    {
+      "t": 33.97,
+      "word": "gratitude"
+    },
+    {
+      "t": 35.51,
+      "word": "Water"
+    },
+    {
+      "t": 35.91,
+      "word": "is"
+    },
+    {
+      "t": 36.04,
+      "word": "not"
+    },
+    {
+      "t": 36.26,
+      "word": "just"
+    },
+    {
+      "t": 36.5,
+      "word": "a"
+    },
+    {
+      "t": 36.57,
+      "word": "drink"
+    },
+    {
+      "t": 37.25,
+      "word": "it"
+    },
+    {
+      "t": 37.32,
+      "word": "is"
+    },
+    {
+      "t": 37.44,
+      "word": "the"
+    },
+    {
+      "t": 37.55,
+      "word": "single"
+    },
+    {
+      "t": 37.91,
+      "word": "molecule"
+    },
+    {
+      "t": 38.5,
+      "word": "holding"
+    },
+    {
+      "t": 38.82,
+      "word": "Earth's"
+    },
+    {
+      "t": 39.14,
+      "word": "life"
+    },
+    {
+      "t": 39.49,
+      "word": "and"
+    },
+    {
+      "t": 39.61,
+      "word": "sanity"
+    },
+    {
+      "t": 40.06,
+      "word": "together"
+    },
+    {
+      "t": 41.44,
+      "word": "If"
+    },
+    {
+      "t": 41.65,
+      "word": "this"
+    },
+    {
+      "t": 41.87,
+      "word": "blew"
+    },
+    {
+      "t": 42.14,
+      "word": "your"
+    },
+    {
+      "t": 42.28,
+      "word": "mind"
+    },
+    {
+      "t": 42.95,
+      "word": "smash"
+    },
+    {
+      "t": 43.4,
+      "word": "that"
+    },
+    {
+      "t": 43.56,
+      "word": "subscribe"
+    },
+    {
+      "t": 44.11,
+      "word": "button"
+    },
+    {
+      "t": 44.44,
+      "word": "and"
+    },
+    {
+      "t": 44.58,
+      "word": "tap"
+    },
+    {
+      "t": 44.87,
+      "word": "the"
+    },
+    {
+      "t": 44.96,
+      "word": "bell"
+    },
+    {
+      "t": 45.24,
+      "word": "for"
+    },
+    {
+      "t": 45.39,
+      "word": "more"
+    },
+    {
+      "t": 45.66,
+      "word": "weekly"
+    },
+    {
+      "t": 46.04,
+      "word": "animated"
+    },
+    {
+      "t": 46.52,
+      "word": "what-if"
+    },
+    {
+      "t": 46.88,
+      "word": "adventures"
+    }
+  ],
+  "short": [
+    {
+      "t": 0.1,
+      "word": "What"
+    },
+    {
+      "t": 0.29,
+      "word": "if"
+    },
+    {
+      "t": 0.4,
+      "word": "all"
+    },
+    {
+      "t": 0.63,
+      "word": "water"
+    },
+    {
+      "t": 0.96,
+      "word": "on"
+    },
+    {
+      "t": 1.11,
+      "word": "Earth"
+    },
+    {
+      "t": 1.37,
+      "word": "suddenly"
+    },
+    {
+      "t": 1.77,
+      "word": "disappeared"
+    },
+    {
+      "t": 3.26,
+      "word": "The"
+    },
+    {
+      "t": 3.44,
+      "word": "oceans"
+    },
+    {
+      "t": 3.91,
+      "word": "drop"
+    },
+    {
+      "t": 4.19,
+      "word": "eleven"
+    },
+    {
+      "t": 4.57,
+      "word": "thousand"
+    },
+    {
+      "t": 5.0,
+      "word": "meters"
+    },
+    {
+      "t": 5.61,
+      "word": "snapping"
+    },
+    {
+      "t": 6.12,
+      "word": "giant"
+    },
+    {
+      "t": 6.51,
+      "word": "cruise"
+    },
+    {
+      "t": 6.8,
+      "word": "ships"
+    },
+    {
+      "t": 7.16,
+      "word": "in"
+    },
+    {
+      "t": 7.26,
+      "word": "half"
+    },
+    {
+      "t": 8.59,
+      "word": "Without"
+    },
+    {
+      "t": 9.04,
+      "word": "ocean"
+    },
+    {
+      "t": 9.38,
+      "word": "weight"
+    },
+    {
+      "t": 9.89,
+      "word": "tectonic"
+    },
+    {
+      "t": 10.44,
+      "word": "plates"
+    },
+    {
+      "t": 10.81,
+      "word": "rupture"
+    },
+    {
+      "t": 11.27,
+      "word": "and"
+    },
+    {
+      "t": 11.36,
+      "word": "volcanic"
+    },
+    {
+      "t": 11.92,
+      "word": "lava"
+    },
+    {
+      "t": 12.26,
+      "word": "floods"
+    },
+    {
+      "t": 12.63,
+      "word": "the"
+    },
+    {
+      "t": 12.73,
+      "word": "planet"
+    },
+    {
+      "t": 14.06,
+      "word": "No"
+    },
+    {
+      "t": 14.38,
+      "word": "clouds"
+    },
+    {
+      "t": 14.83,
+      "word": "means"
+    },
+    {
+      "t": 15.13,
+      "word": "sixty-degree"
+    },
+    {
+      "t": 15.83,
+      "word": "heatwaves"
+    },
+    {
+      "t": 16.63,
+      "word": "and"
+    },
+    {
+      "t": 16.81,
+      "word": "by"
+    },
+    {
+      "t": 16.97,
+      "word": "day"
+    },
+    {
+      "t": 17.24,
+      "word": "three"
+    },
+    {
+      "t": 17.92,
+      "word": "humanity"
+    },
+    {
+      "t": 18.45,
+      "word": "goes"
+    },
+    {
+      "t": 18.71,
+      "word": "extinct"
+    },
+    {
+      "t": 20.17,
+      "word": "Next"
+    },
+    {
+      "t": 20.5,
+      "word": "time"
+    },
+    {
+      "t": 20.75,
+      "word": "you"
+    },
+    {
+      "t": 20.87,
+      "word": "drink"
+    },
+    {
+      "t": 21.13,
+      "word": "water"
+    },
+    {
+      "t": 21.73,
+      "word": "be"
+    },
+    {
+      "t": 21.88,
+      "word": "grateful"
+    },
+    {
+      "t": 23.31,
+      "word": "Smash"
+    },
+    {
+      "t": 23.81,
+      "word": "subscribe"
+    },
+    {
+      "t": 24.38,
+      "word": "for"
+    },
+    {
+      "t": 24.51,
+      "word": "more"
+    },
+    {
+      "t": 24.71,
+      "word": "mind-blowing"
+    },
+    {
+      "t": 25.36,
+      "word": "science"
+    }
+  ]
+}
