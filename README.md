@@ -22,6 +22,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 
 | # | Episode Title | Format | Master URL / Location |
 |---|---|---|---|
+| **13** | **WHAT IF YOU HAD 5 CLONES OF YOURSELF?** 👥 | 16:9 Film (2m 14s) + 9:16 Short (39s) | [Full Film](https://youtu.be/KW-vgWYRUx4) \| [Short](https://youtu.be/ql6as-0qg4Y) |
 | **12** | **WHAT IF YOU HAD THE MILLION DOLLAR BUTTON?** 💰 | 16:9 Film (2m 34s) + 9:16 Short (33s) | [Full Film](https://youtu.be/PAyEAe5Njpw) \| [Short](https://youtu.be/fZn3ZbTnR8I) |
 | **11** | **WHAT IF EVERYONE VANISHED EXCEPT YOU?** 🌍 | 16:9 Film (2m 25s) + 9:16 Short (37s) | [Full Film](https://youtu.be/0UqrqZB4eaM) \| [Short](https://youtu.be/zZpvZpZEePg) |
 | **10** | **WHAT IF EVERYONE COULD READ YOUR MIND?** 🧠 | 16:9 Film (2m 14s) + 9:16 Short (31s) | [Full Film](https://youtu.be/rMeR7yjSB-w) \| [Short](https://youtu.be/lBjRbJv9qxY) |
