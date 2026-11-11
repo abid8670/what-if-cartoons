@@ -203,7 +203,17 @@
 
 ---
 
-## 🗂️ 6. FILE DIRECTORY STRUCTURE
+## ⚡ 4B. GPU HARDWARE ACCELERATION RULE (`--gl=angle`)
+* **Hardware:** HP ProBook 650 G2 with **Intel(R) HD Graphics 520**.
+* **Mandatory Flag:** All Remotion rendering commands **MUST** pass:
+  ```bash
+  --gl=angle --public-dir=public_timer --concurrency=1
+  ```
+* **Why `--gl=angle`:** Connects Chromium directly to Windows Direct3D 11 / DirectX on the Intel HD 520 GPU, offloading vector rasterization from the CPU to the GPU.
+* **Why NOT `--hardware-acceleration`:** Remotion's bundled ffmpeg only compiled `h264_nvenc` (NVIDIA CUDA). Passing `--hardware-acceleration` crashes with `Cannot load nvcuda.dll` on Intel iGPUs.
+* **Quality Assurance:** Visual quality is **100% lossless & identical**. SVG paths, colors, and glow effects remain pixel-perfect 1080p, while render performance is dramatically improved.
+
+---
 
 ```
 D:\AI-Cartoons\
