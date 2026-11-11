@@ -33,7 +33,8 @@ def render_safe_chapter(comp_id, out_name, total_frames, split_at=750):
             f'out/immortal/{out_name}',
             '--public-dir=public_timer',
             '--concurrency=1',
-            '--jpeg-quality=90'
+            '--jpeg-quality=90',
+            '--gl=angle'
         ]
         res = subprocess.run(cmd, cwd=STUDIO, env=ENV, check=True)
         print(f"✅ Rendered: {out_name} ({final_path.stat().st_size} bytes)")
@@ -55,6 +56,7 @@ def render_safe_chapter(comp_id, out_name, total_frames, split_at=750):
             '--public-dir=public_timer',
             '--concurrency=1',
             '--jpeg-quality=90',
+            '--gl=angle',
             f'--frames=0-{mid}'
         ]
         subprocess.run(cmd_p1, cwd=STUDIO, env=ENV, check=True)
@@ -68,6 +70,7 @@ def render_safe_chapter(comp_id, out_name, total_frames, split_at=750):
             '--public-dir=public_timer',
             '--concurrency=1',
             '--jpeg-quality=90',
+            '--gl=angle',
             f'--frames={mid + 1}-{total_frames - 1}'
         ]
         subprocess.run(cmd_p2, cwd=STUDIO, env=ENV, check=True)
