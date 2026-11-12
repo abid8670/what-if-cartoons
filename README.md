@@ -15,6 +15,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 - **Channel Identity:** Pip in mustard-yellow hoodie (`#F59E0B`), dark silhouette head (`#1C1A24`) with peach rim light (`#FFAA55`), white slit eyes.
 - **Pacing Standard:** 3 to 5 second scene changes for maximum viewer retention.
 - **Mandatory End Card:** Option A vs Option B interactive question card in Chapter 5.
+- **Official Binge Playlist:** [Mind-Bending Animated Stories & Dilemmas](https://www.youtube.com/playlist?list=PLenjyhuVye08) (8 Episodes)
 
 ---
 
