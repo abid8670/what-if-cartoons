@@ -15,7 +15,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 - **Channel Identity:** Pip in mustard-yellow hoodie (`#F59E0B`), dark silhouette head (`#1C1A24`) with peach rim light (`#FFAA55`), white slit eyes.
 - **Pacing Standard:** 3 to 5 second scene changes for maximum viewer retention.
 - **Mandatory End Card:** Option A vs Option B interactive question card in Chapter 5.
-- **Official Binge Playlist:** [Mind-Bending Animated Stories & Dilemmas](https://www.youtube.com/playlist?list=PLenjyhuVye08) (10 Episodes)
+- **Official Binge Playlist:** [Mind-Bending Animated Stories & Dilemmas](https://www.youtube.com/playlist?list=PLenjyhuVye08) (11 Episodes)
 
 ---
 
@@ -23,6 +23,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 
 | # | Episode Title | Format | Master URL / Location |
 |---|---|---|---|
+| **20** | **DO NOT PAUSE THIS VIDEO** ⏸️ | 16:9 Film (2m 41s) + 9:16 Short (25s) | [Full Film](https://youtu.be/GYhaCH7MWZs) \| [Short (100% Loop)](https://youtu.be/KbRJBGfbo4Q) |
 | **19** | **I DELETED 1 MEMORY EVERY DAY FOR $100,000** 🧠 | 16:9 Film (3m 08s) + 9:16 Short (34s) | [Full Film](https://youtu.be/8zeAo5MoMCs) \| [Short (100% Loop)](https://youtu.be/6w0hF4FReGc) |
 | **18** | **THE PILL THAT BANNED SLEEP FOREVER** 💊 | 16:9 Film (2m 22s) + 9:16 Short (31s) | [Full Film](https://youtu.be/RWdJH4tMuYY) \| [Short (100% Loop)](https://youtu.be/I8JWhx0VMIo) |
 | **17** | **I FOUND A 10-SECOND TIME MACHINE** ⏪ | 16:9 Film (2m 18s) + 9:16 Short (37s) | [Full Film](https://youtu.be/F-3rGKOtN-g) \| [Short](https://youtu.be/V-pR7gGvUgg) |
