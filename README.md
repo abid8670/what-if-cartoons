@@ -15,7 +15,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 - **Channel Identity:** Pip in mustard-yellow hoodie (`#F59E0B`), dark silhouette head (`#1C1A24`) with peach rim light (`#FFAA55`), white slit eyes.
 - **Pacing Standard:** 3 to 5 second scene changes for maximum viewer retention.
 - **Mandatory End Card:** Option A vs Option B interactive question card in Chapter 5.
-- **Official Binge Playlist:** [Mind-Bending Animated Stories & Dilemmas](https://www.youtube.com/playlist?list=PLenjyhuVye08) (8 Episodes)
+- **Official Binge Playlist:** [Mind-Bending Animated Stories & Dilemmas](https://www.youtube.com/playlist?list=PLenjyhuVye08) (10 Episodes)
 
 ---
 
@@ -23,6 +23,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 
 | # | Episode Title | Format | Master URL / Location |
 |---|---|---|---|
+| **19** | **I DELETED 1 MEMORY EVERY DAY FOR $100,000** 🧠 | 16:9 Film (3m 08s) + 9:16 Short (34s) | [Full Film](https://youtu.be/8zeAo5MoMCs) \| [Short (100% Loop)](https://youtu.be/6w0hF4FReGc) |
 | **18** | **THE PILL THAT BANNED SLEEP FOREVER** 💊 | 16:9 Film (2m 22s) + 9:16 Short (31s) | [Full Film](https://youtu.be/RWdJH4tMuYY) \| [Short (100% Loop)](https://youtu.be/I8JWhx0VMIo) |
 | **17** | **I FOUND A 10-SECOND TIME MACHINE** ⏪ | 16:9 Film (2m 18s) + 9:16 Short (37s) | [Full Film](https://youtu.be/F-3rGKOtN-g) \| [Short](https://youtu.be/V-pR7gGvUgg) |
 | **16** | **WHAT IF YOU COULD SEE EVERYONE'S LIFESPAN?** ⏳ | 16:9 Film (2m 03s) + 9:16 Short (31s) | [Full Film](https://youtu.be/GgrBvld5OYY) \| [Short](https://youtu.be/BNCvzG064lI) |
