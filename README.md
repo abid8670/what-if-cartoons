@@ -23,7 +23,7 @@ Every episode pairs cinematic SVG animations (Remotion) with Pip's iconic mustar
 
 | # | Episode Title | Format | Master URL / Location |
 |---|---|---|---|
-| **18** | **THE PILL THAT BANNED SLEEP FOREVER** 💊 | 16:9 Film (2m 22s) + 9:16 Short (31s) | [Short (100% Loop)](https://youtu.be/I8JWhx0VMIo) \| Full Film Rendering |
+| **18** | **THE PILL THAT BANNED SLEEP FOREVER** 💊 | 16:9 Film (2m 22s) + 9:16 Short (31s) | [Full Film](https://youtu.be/RWdJH4tMuYY) \| [Short (100% Loop)](https://youtu.be/I8JWhx0VMIo) |
 | **17** | **I FOUND A 10-SECOND TIME MACHINE** ⏪ | 16:9 Film (2m 18s) + 9:16 Short (37s) | [Full Film](https://youtu.be/F-3rGKOtN-g) \| [Short](https://youtu.be/V-pR7gGvUgg) |
 | **16** | **WHAT IF YOU COULD SEE EVERYONE'S LIFESPAN?** ⏳ | 16:9 Film (2m 03s) + 9:16 Short (31s) | [Full Film](https://youtu.be/GgrBvld5OYY) \| [Short](https://youtu.be/BNCvzG064lI) |
 | **15** | **WHAT IF YOU COULD SELL YOUR MEMORIES FOR CASH?** 🧠 | 16:9 Film (2m 13s) + 9:16 Short (42s) | [Full Film](https://youtu.be/sCMPiW4UDRg) \| [Short](https://youtu.be/LJpGcaNwo7c) |
